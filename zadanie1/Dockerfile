@@ -1,9 +1,18 @@
-FROM sbtscala/scala-sbt:eclipse-temurin-alpine-24.0.1_9_1.11.7_3.7.3
+FROM alpine:latest
 
-WORKDIR /root/c/Users/tarcz/Documents/programowanie-funkcyjne/Programowanie-funkcyjne/zadanie1
 
+
+RUN apk update
+RUN apk add curl
+RUN apk add sudo
+
+RUN addgroup -S appgroup && adduser -S appuser -G appgroup
+WORKDIR /home/appuser
 COPY . .
+
+RUN  sudo curl -L https://repo1.maven.org/maven2/com/lihaoyi/mill-dist/1.0.6/mill-dist-1.0.6-mill.sh -o mill
+RUN chmod +x mill
 
 EXPOSE 8080
 
-CMD ["./mill","-w","app.runBackground"]
+CMD ["sudo","./mill","-w","app.runBackground"]
