@@ -9,3 +9,6 @@ Zadanie 2 Docker
 	- vim
 	
 Link do commita z rozwiązaniem: https://github.com/JohnNNT/Programowanie-funkcyjne/commit/80e59a1d52651cecb3a22aa7ddf801bcb7822ebf
+
+Link do nagrania z prezentacją pakietu: https://github.com/user-attachments/assets/b1b708da-f22e-40dc-a932-e93f2c39dfa9
+
