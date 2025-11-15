@@ -23,7 +23,7 @@ rem this script downloads a binary file from Maven Central or Github Pages (this
 rem into a cache location (%USERPROFILE%\.mill\download).
 rem
 rem Mill Project URL: https://github.com/com-lihaoyi/mill
-rem Script Version: 1.0.6
+rem Script Version: 1.1.0-RC1
 rem
 rem If you want to improve this script, please also contribute your changes back!
 rem This script was generated from: dist/scripts/src/mill.bat
@@ -34,7 +34,7 @@ rem setlocal seems to be unavailable on Windows 95/98/ME
 rem but I don't think we need to support them in 2019
 setlocal enabledelayedexpansion
 
-if [!DEFAULT_MILL_VERSION!]==[] ( set "DEFAULT_MILL_VERSION=1.0.6" )
+if [!DEFAULT_MILL_VERSION!]==[] ( set "DEFAULT_MILL_VERSION=1.1.0-RC1" )
 
 if [!MILL_GITHUB_RELEASE_CDN!]==[] ( set "MILL_GITHUB_RELEASE_CDN=" )
 
@@ -65,9 +65,9 @@ if [!MILL_VERSION!]==[] (
     if exist .config\mill-version (
       set /p MILL_VERSION=<.config\mill-version
     ) else (
-      if not "%MILL_BUILD_SCRIPT%"=="" (
+      if exist build.mill.yaml (
         rem Find the line and process it
-        for /f "tokens=*" %%a in ('findstr /R /C:"//\|.*mill-version" "%MILL_BUILD_SCRIPT%"') do (
+        for /f "tokens=*" %%a in ('findstr /R /C:"mill-version:" "build.mill.yaml"') do (
             set "line=%%a"
 
             rem --- 1. Replicate sed 's/.*://' ---
@@ -96,7 +96,39 @@ if [!MILL_VERSION!]==[] (
         :version_found
         rem no-op
       ) else (
-        rem no-op
+        if not "%MILL_BUILD_SCRIPT%"=="" (
+          rem Find the line and process it
+          for /f "tokens=*" %%a in ('findstr /R /C:"//\|.*mill-version" "%MILL_BUILD_SCRIPT%"') do (
+              set "line=%%a"
+
+              rem --- 1. Replicate sed 's/.*://' ---
+              rem This removes everything up to and including the first colon
+              set "line=!line:*:=!"
+
+              rem --- 2. Replicate sed 's/#.*//' ---
+              rem Split on '#' and keep the first part
+              for /f "tokens=1 delims=#" %%b in ("!line!") do (
+                  set "line=%%b"
+              )
+
+              rem --- 3. Replicate sed 's/['"]//g' ---
+              rem Remove all quotes
+              set "line=!line:'=!"
+              set "line=!line:"=!"
+
+              rem --- 4. NEW: Replicate sed's trim/space removal ---
+              rem Remove all space characters from the result. This is more robust.
+              set "MILL_VERSION=!line: =!"
+
+              rem We found the version, so we can exit the loop
+              goto :version_found
+          )
+
+          :version_found
+          rem no-op
+        ) else (
+          rem no-op
+        )
       )
     )
   )

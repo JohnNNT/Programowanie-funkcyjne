@@ -1,5 +1,8 @@
 package app
 object HTTPServer extends cask.MainRoutes:
+
+  override def host: String = "0.0.0.0"
+
   def add(summands: (Int,Int)): Int =
     summands(0) + summands(1)
 
@@ -14,6 +17,7 @@ object HTTPServer extends cask.MainRoutes:
 
   def subtraction(values: (Int, Int)): Int =
     values(0) - values(1)
+
 
   @cask.postJson("/isSorted")
   def doThing(values: Seq[Int], operator: String) =
