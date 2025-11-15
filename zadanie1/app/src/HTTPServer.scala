@@ -36,6 +36,6 @@ object HTTPServer extends cask.MainRoutes:
 	
   @cask.postJson("/setHead")
   def setHead(originalList: Seq[Int], newValue: Int) =
-    upickle.write(originalList)
-
+    val newSeq = Seq(newValue)
+    upickle.write(newSeq.concat(originalList))
   initialize()
