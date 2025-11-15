@@ -1,4 +1,5 @@
 package app
+
 object HTTPServer extends cask.MainRoutes:
 
   override def host: String = "0.0.0.0"
@@ -32,5 +33,9 @@ object HTTPServer extends cask.MainRoutes:
       case _ => difference.forall(_ <= 0)
 
     upickle.write(returnValue)
+	
+  @cask.postJson("/setHead")
+  def setHead(originalList: Seq[Int], newValue: Int) =
+    upickle.write(originalList)
 
   initialize()
