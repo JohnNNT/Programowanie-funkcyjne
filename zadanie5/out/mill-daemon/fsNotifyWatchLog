@@ -16,9 +16,10 @@ C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5
 C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\mill-build\resources
 C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\mill-build\src
 [filter] (shouldBeWatched=true) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5
-[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\.os-lib-watch-sentinel-2e51b341-f6cf-42c7-82c2-4cad91af2e8a
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\.os-lib-watch-sentinel-d1ccda67-a930-4074-b257-6845e4446aa5
 [changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out
 [changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\newest-pid
 [changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\newest-pid
 [changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\log
 [changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\log
@@ -31,7 +32,53 @@ C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5
 [changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\currently-running-pid
 [changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\currently-running-pid
 [changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\log
-[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-bsp\err.log
-[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-bsp\trace.log
-[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-no-daemon\1faa6b49\fsNotifyWatchLog
-[
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-active-command
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-active-command
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-active-command
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-active-command
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out
+[changed-paths] (hasWatchedPath=true) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala
+[changed-paths] (hasWatchedPath=true) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala
+[changed-paths] (hasWatchedPath=true) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala
+
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-active-command
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-active-command
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-active-command
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-daemon\terminfo
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-daemon\terminfo
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-active-command
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-active-command
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-active-command
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-active-command
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-daemon\server.log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-daemon\server.log
+ut\mill-active-command
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-active-command
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out
+[changed-paths] (hasWatchedPath=true) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala
+[changed-paths] (hasWatchedPath=true) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-active-command
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-active-command
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-dependency-tree.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-dependency-tree.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\semanticDbVersion.json
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill\javalib\CoursierConfigModule\coursierEnv.json
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill\javalib\JvmWorkerModule\zincLogDebug.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\semanticDbVersion.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\sources.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\zincReportCachedProblems.json
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\sources.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\semanticDbJavaVersion.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\zincReportCachedProblems.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\compileResources.json
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\semanticDbJavaVersion.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\compileResources.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\allSources.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\allSources.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\allSourceFiles.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\allSourceFiles.json

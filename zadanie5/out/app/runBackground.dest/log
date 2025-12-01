@@ -13,3 +13,21 @@
 [2025-12-01T23:57:21.6155078] 4716: Old process terminated in 0s
 [2025-12-01T23:57:21.6165066] 4716: Writing my PID to C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\currently-running-pid
 [2025-12-01T23:57:21.6774337] 4716: Running main method app.HTTPServer with args []
+[2025-12-02T00:02:47.2253181] 3656: Starting. Writing my PID to C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\newest-pid
+[2025-12-02T00:02:47.2427976] 3656: Acquiring lock on C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\lock
+[2025-12-02T00:02:47.2458225] 3656: Lock acquired
+[2025-12-02T00:02:47.2474629] 3656: Old process PID: Optional[4716]
+[2025-12-02T00:02:47.2514877] 3656: Waiting for old process to terminate
+[2025-12-02T00:02:47.3052483] 4716: New process started, exiting. Token file (C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\newest-pid) contents: "3656"
+[2025-12-02T00:02:47.3693571] 3656: Old process terminated in 0s
+[2025-12-02T00:02:47.370368] 3656: Writing my PID to C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\currently-running-pid
+[2025-12-02T00:02:47.4357422] 3656: Running main method app.HTTPServer with args []
+[2025-12-02T00:09:32.8380357] 32140: Starting. Writing my PID to C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\newest-pid
+[2025-12-02T00:09:32.8586137] 32140: Acquiring lock on C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\lock
+[2025-12-02T00:09:32.860608] 32140: Lock acquired
+[2025-12-02T00:09:32.8631222] 32140: Old process PID: Optional[3656]
+[2025-12-02T00:09:32.8707157] 32140: Waiting for old process to terminate
+[2025-12-02T00:09:32.8752749] 3656: New process started, exiting. Token file (C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\newest-pid) contents: "32140"
+[2025-12-02T00:09:32.9761565] 32140: Old process terminated in 0s
+[2025-12-02T00:09:32.978152] 32140: Writing my PID to C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\currently-running-pid
+[2025-12-02T00:09:33.0417464] 32140: Running main method app.HTTPServer with args []

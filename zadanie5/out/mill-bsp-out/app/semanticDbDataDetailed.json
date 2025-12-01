@@ -2,10 +2,10 @@
     "value": {
         "compilationResult": {
             "analysisFile": "C:\\Users\\tarcz\\Documents\\programowanie-funkcyje\\Programowanie-funkcyjne\\zadanie5\\out\\mill-bsp-out\\app\\semanticDbDataDetailed.dest\\zinc",
-            "classes": "ref:v0:9b70291c:C:\\Users\\tarcz\\Documents\\programowanie-funkcyje\\Programowanie-funkcyjne\\zadanie5\\out\\mill-bsp-out\\app\\semanticDbDataDetailed.dest\\classes"
+            "classes": "ref:v0:9c755c20:C:\\Users\\tarcz\\Documents\\programowanie-funkcyje\\Programowanie-funkcyjne\\zadanie5\\out\\mill-bsp-out\\app\\semanticDbDataDetailed.dest\\classes"
         },
-        "semanticDbFiles": "ref:v0:9b70291c:C:\\Users\\tarcz\\Documents\\programowanie-funkcyje\\Programowanie-funkcyjne\\zadanie5\\out\\mill-bsp-out\\app\\semanticDbDataDetailed.dest\\data"
+        "semanticDbFiles": "ref:v0:9c755c20:C:\\Users\\tarcz\\Documents\\programowanie-funkcyje\\Programowanie-funkcyjne\\zadanie5\\out\\mill-bsp-out\\app\\semanticDbDataDetailed.dest\\data"
     },
-    "valueHash": -297352549,
-    "inputsHash": 625321535
+    "valueHash": 513650142,
+    "inputsHash": -1981678245
 }

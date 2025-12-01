@@ -4535,3 +4535,11 @@
 [469-scalaTestClasses] buildTargetScalaTestClasses took 1 msec
 [470-compile] Entered buildTargetCompile
 [470-compile] buildTargetCompile took 0 msec
+[471-compile] Entered buildTargetCompile
+[471-compile] buildTargetCompile took 0 msec
+[472-compile] Entered buildTargetCompile
+[472-compile] buildTargetCompile took 1 msec
+[473-compile] Entered buildTargetCompile
+[473-compile] buildTargetCompile took 0 msec
+[474-compile] Entered buildTargetCompile
+[474-compile] buildTargetCompile took 0 msec

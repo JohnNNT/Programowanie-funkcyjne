@@ -1,15 +1,15 @@
 {
     "workerCache": {
         "mill.javalib.JvmWorkerModule.internalWorker": {
-            "identityHashCode": 1185384438,
+            "identityHashCode": 34476291,
             "inputHash": -1708247370
         },
         "mill.javalib.classgraph.ClassgraphWorkerModule.classgraphWorker": {
-            "identityHashCode": 408210276,
+            "identityHashCode": 535394562,
             "inputHash": 2002467807
         },
         "mill.javalib.classgraph.ClassgraphWorkerModule.classgraphWorkerClassloader": {
-            "identityHashCode": 882075471,
+            "identityHashCode": 905272400,
             "inputHash": 85501223
         }
     },

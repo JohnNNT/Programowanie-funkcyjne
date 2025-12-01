@@ -2,7 +2,7 @@ package app
 
 object HTTPServer extends cask.MainRoutes:
 
-  // override def host: String = "0.0.0.0"
+  override def host: String = "0.0.0.0"
 
   trait MapReduce[In, Key, Value, Reduced] {
     def mapper(input: In): Seq[keyValue[Key, Value]]
@@ -36,6 +36,6 @@ object HTTPServer extends cask.MainRoutes:
     val numbersWithCount = repeatedCounts.groupMap((element) => element.value)((element) => element.key).toSeq
     var resultMap = Seq[keyValue[Int,Int]]()
     numbersWithCount.foreach((countOfNumbers) => resultMap = resultMap.appended(mapReducer.reducer(countOfNumbers._1, countOfNumbers._2)))
-    upickle.write(resultMap.groupMap(_.key.toString())(_.value))
+    upickle.write(resultMap.groupMap(_.key)(_.value))
 
   initialize()

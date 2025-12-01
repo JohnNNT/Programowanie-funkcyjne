@@ -1,21 +1,6 @@
 {
   "mill.javalib.JvmWorkerModule.internalWorker": {},
   "mill.javalib.classgraph.ClassgraphWorkerModule.classgraphWorker": {},
-  "app.sources": {
-    "app.allSources": {
-      "app.allSourceFiles": {
-        "app.compile": {
-          "app.localRunClasspath": {
-            "app.localClasspath": {
-              "app.runClasspath": {
-                "app.runBackground": {}
-              }
-            },
-            "app.allLocalMainClasses": {}
-          }
-        }
-      }
-    }
-  },
+  "app.runBackground": {},
   "mill.javalib.classgraph.ClassgraphWorkerModule.classgraphWorkerClassloader": {}
 }

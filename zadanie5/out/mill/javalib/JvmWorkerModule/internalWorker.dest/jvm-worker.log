@@ -1,4 +1,4 @@
-[2025-12-01T23:57:15.840162|req#0] [33mZincCompileMixed[39m(
+[2025-12-02T00:11:40.171072400|req#0] [33mZincCompileMixed[39m(
   upstreamCompileOutput = [33mList[39m(),
   sources = [33mList[39m(
     C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala
@@ -110,5 +110,4 @@
   incrementalCompilation = [32mtrue[39m,
   auxiliaryClassFileExtensions = [33mList[39m([32m"tasty"[39m)
 )
-[2025-12-01T23:57:15.846943800|req#0] Using local Zinc instance
-[2025-12-01T23:57:21.254787800|req#0] Compilation took 5403ms
+[2025-12-02T00:11:40.183127800|req#0] Using local Zinc instance

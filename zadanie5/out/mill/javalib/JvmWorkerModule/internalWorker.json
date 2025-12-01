@@ -1,7 +1,7 @@
 {
     "value": {
         "worker": "mill.javalib.JvmWorkerModule.internalWorker",
-        "toString": "mill.javalib.worker.JvmWorkerImpl@5b03a709",
+        "toString": "mill.javalib.worker.JvmWorkerImpl@4f7aac82",
         "inputsHash": 1172028222
     },
     "valueHash": 1172028222,
