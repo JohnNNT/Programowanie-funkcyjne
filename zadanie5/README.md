@@ -1,20 +1,21 @@
-# Typ opcjonalny
+# MapReduce
 
 ## Zadania 
 
-✅3.0 zwróci taki sam wynik jak zad.1 4.5 ale wykorzysta typ opcjonalny 
-link do commita: https://github.com/JohnNNT/Programowanie-funkcyjne/commit/0061f01b2dbc70071dd70eb405066f0fa47c5eef
+✅3.0 zwróci słownik z liczbą powtarzających się liczb za pomocą funkcji
+mapreduce dla list z liczbami
+link do commita: https://github.com/JohnNNT/Programowanie-funkcyjne/commit/5d7adaaab9686b1babb7850c956fce35ed96213e
 link do nagrania: 
 
 https://github.com/user-attachments/assets/1810ac04-a1cd-4434-a470-09e50e38a7a9
 
 
-❌3.5 zwroci wariancję z listy; do implementacji wykorzystać należy typ
-opcjonalny
-❌4.0 zwróci listę (option), która jest wynikiem połączenia dwóch list
-(option); w przypadku gdy jedna z list jest None, funkcja powinna
-zwrócić None
-❌4.5 zwróci listę za pomocą metody mojeMap[A,B,C](a: Option[A], b:
-Option[B])(f:(A,B)=>C):Option[C]; należy wykorzystać metodę flatMap
-oraz map
-❌5.0 zwróci taki średnią (mean) z listy zwracając Either
+❌3.5 zwróci słownik z liczbami podniesionymi do sześcianu za pomocą
+funkcji mapreduce dla list z liczbami
+❌4.0  zwróci słownik (student, godziny nauki), która wykorzysta funkcją
+mapreduce oraz groupBy dla słownika na wejściu
+❌4.5 zwróci słownik (zdanie, wektor), która wykorzysta funkcję
+mapreduce oraz bagOfWords
+❌5.0 zwróci słownik (student, średnia ocen), która wykorzysta funkcję
+mapreduce oraz join; na wejściu  są dwie listy: (numer_indeksu,
+student), (numer_indeksu, kurs, ocena)
