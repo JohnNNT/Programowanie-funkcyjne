@@ -1,0 +1,15 @@
+{
+    "value": {
+        "seenScripts": [
+            [
+                "C:\\Users\\tarcz\\Documents\\programowanie-funkcyje\\Programowanie-funkcyjne\\zadanie5\\build.mill",
+                "\nimport mill._, scalalib._\n\nobject app extends ScalaModule {\n  def scalaVersion = \"3.7.3\"\n  \n  def mvnDeps = Seq(\n    mvn\"com.lihaoyi::cask:0.11.3\",\n    mvn\"com.lihaoyi::upickle:4.3.1\",\n  )\n}"
+            ]
+        ],
+        "errors": [],
+        "buildFile": "build.mill",
+        "headerData": ""
+    },
+    "valueHash": -261448186,
+    "inputsHash": 416243187
+}

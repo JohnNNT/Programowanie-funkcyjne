@@ -1,0 +1,12 @@
+{
+    "value": {
+        "$type": "DestPath",
+        "subPath": "",
+        "segments": [
+            "app",
+            "compiledClassesAndSemanticDbFiles"
+        ]
+    },
+    "valueHash": 337841988,
+    "inputsHash": 861111468
+}

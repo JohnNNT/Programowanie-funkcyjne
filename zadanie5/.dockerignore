@@ -1,0 +1,5 @@
+./out
+./mill.bat
+./.vscode
+./.bsp
+./.metals

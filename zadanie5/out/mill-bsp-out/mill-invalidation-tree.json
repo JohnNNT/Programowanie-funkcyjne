@@ -1,0 +1,10 @@
+{
+  "app.compile": {
+    "app.localRunClasspath": {
+      "app.allLocalMainClasses": {
+        "app.internalBspJavaModule.bspBuildTargetScalaMainClasses": {}
+      }
+    }
+  },
+  "app.resolvedMvnDeps": {}
+}

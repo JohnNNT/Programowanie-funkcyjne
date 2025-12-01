@@ -1,0 +1,18 @@
+{
+  "mill.javalib.classgraph.ClassgraphWorkerModule.checkGradleModules": {},
+  "forkEnv": {
+    "allForkEnv": {}
+  },
+  "mill.javalib.classgraph.ClassgraphWorkerModule.repositories": {
+    "mill.javalib.classgraph.ClassgraphWorkerModule.classgraphWorkerClasspath": {
+      "mill.javalib.classgraph.ClassgraphWorkerModule.classgraphWorkerClassloader": {
+        "mill.javalib.classgraph.ClassgraphWorkerModule.classgraphWorker": {
+          "allLocalMainClasses": {}
+        }
+      }
+    }
+  },
+  "forkArgs": {
+    "internalBspJavaModule.bspBuildTargetScalaMainClasses": {}
+  }
+}
