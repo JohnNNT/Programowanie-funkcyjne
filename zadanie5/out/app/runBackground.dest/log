@@ -1,0 +1,15 @@
+[2025-12-01T23:55:02.1836239] 25016: Starting. Writing my PID to C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\newest-pid
+[2025-12-01T23:55:02.1965684] 25016: Acquiring lock on C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\lock
+[2025-12-01T23:55:02.1987652] 25016: Lock acquired
+[2025-12-01T23:55:02.199862] 25016: Old process PID: Optional.empty
+[2025-12-01T23:55:02.2033026] 25016: Writing my PID to C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\currently-running-pid
+[2025-12-01T23:55:02.2635365] 25016: Running main method app.HTTPServer with args []
+[2025-12-01T23:57:21.488271] 4716: Starting. Writing my PID to C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\newest-pid
+[2025-12-01T23:57:21.4977832] 4716: Acquiring lock on C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\lock
+[2025-12-01T23:57:21.547639] 25016: New process started, exiting. Token file (C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\newest-pid) contents: "4716"
+[2025-12-01T23:57:21.5566743] 4716: Lock acquired
+[2025-12-01T23:57:21.5586858] 4716: Old process PID: Optional[25016]
+[2025-12-01T23:57:21.5638971] 4716: Waiting for old process to terminate
+[2025-12-01T23:57:21.6155078] 4716: Old process terminated in 0s
+[2025-12-01T23:57:21.6165066] 4716: Writing my PID to C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\currently-running-pid
+[2025-12-01T23:57:21.6774337] 4716: Running main method app.HTTPServer with args []

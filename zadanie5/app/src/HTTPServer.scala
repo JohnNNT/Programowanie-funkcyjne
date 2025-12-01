@@ -2,7 +2,7 @@ package app
 
 object HTTPServer extends cask.MainRoutes:
 
-  override def host: String = "0.0.0.0"
+  // override def host: String = "0.0.0.0"
 
   trait MapReduce[In, Key, Value, Reduced] {
     def mapper(input: In): Seq[keyValue[Key, Value]]

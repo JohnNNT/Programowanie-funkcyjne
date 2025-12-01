@@ -1,0 +1,37 @@
+[watched-paths:unfiltered] C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\build.mill
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\compile-resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\mill-build\compile-resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\mill-build\resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\mill-build\src
+[watched-paths:filtered] C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\build.mill
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\mill-build
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\compile-resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\mill-build\compile-resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\mill-build\resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\mill-build\src
+[filter] (shouldBeWatched=true) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\.os-lib-watch-sentinel-2e51b341-f6cf-42c7-82c2-4cad91af2e8a
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\newest-pid
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-daemon\stderr
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\currently-running-pid
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\currently-running-pid
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\app\runBackground.dest\log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-bsp\err.log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-bsp\trace.log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-no-daemon\1faa6b49\fsNotifyWatchLog
+[
