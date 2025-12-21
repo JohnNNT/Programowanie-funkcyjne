@@ -4,8 +4,11 @@
 
 ✅3.0 Zaimplementuj funkcję isSorted, która sprawdza czy dana funkcja
 jest posortowana zgodnie z podaną funkcją porównawczą
+
     - Link do commita: https://github.com/JohnNNT/Programowanie-funkcyjne/commit/7305ad47ba99d3d418582d276b73bf75dbb708f5
+    
     - Link do docker-huba: https://hub.docker.com/repository/docker/johnnnt/haskell_server/general
+    
     - Link do nagrania: https://github.com/user-attachments/assets/381047d7-54f2-49a0-a09e-0f51d5f4f32b
 
 
