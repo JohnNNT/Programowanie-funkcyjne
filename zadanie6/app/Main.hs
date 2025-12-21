@@ -1,4 +1,11 @@
-module Main (main) where
+{-# LANGUAGE OverloadedStrings #-}
+{-# LANGUAGE DeriveGeneric #-}
+
+module Main where
+
+import Web.Scotty
+import CheckSorting
 
 main :: IO ()
-main = putStrLn "Hello, Haskell!"
+main = scotty 3000 $ do
+    post "/isSorted" check_sorting
