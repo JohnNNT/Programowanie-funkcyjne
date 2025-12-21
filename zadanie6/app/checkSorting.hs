@@ -31,7 +31,7 @@ check_order list "<" = not (False `elem` [a < 0 | a <- list])
 check_order list "<=" = not (False `elem` [a <= 0 | a <- list])
 check_order list ">" = not (False `elem` [a > 0 | a <- list])
 check_order list ">=" = not (False `elem` [a >= 0 | a <- list])
-check_order list _ = False
+check_order _ _ = False
 
 value_ordering :: SortingCheckingJSON -> [(Int, Int)]
 value_ordering input = zip (init $ values input) (Prelude.tail $ values input)
