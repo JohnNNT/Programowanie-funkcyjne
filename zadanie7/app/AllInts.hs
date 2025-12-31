@@ -20,6 +20,8 @@ instance FromJSON RandomIntJSON
 maxRange :: Integer
 maxRange = fromIntegral (maxBound :: Int) + 1
 
+
+-- Algorytm korzysta z generatora LGC
 nextRandInt :: Int -> Int
 nextRandInt previous = fromIntegral (mod (fromIntegral ((4611686018427388000*2+1)*(fromIntegral previous) + 777777)) maxRange)
 
