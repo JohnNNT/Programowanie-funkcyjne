@@ -42,7 +42,7 @@ maxRange :: Integer
 maxRange = fromIntegral (maxBound :: Int) + 1
 
 nextRandInt :: Int -> Int
-nextRandInt previous = fromIntegral (mod (fromIntegral (4611686018427388000*2*4*3*(fromIntegral previous) + 777777)) maxRange)
+nextRandInt previous = fromIntegral (mod (fromIntegral ((4611686018427388000*2+1)*(fromIntegral previous) + 777777)) maxRange)
 
 doWork :: ActionM ()
 doWork = do
