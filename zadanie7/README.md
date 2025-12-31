@@ -4,7 +4,7 @@
 
 ✅3.0 Zwróci wartość między 0 a maxvalue of Int włącznie
     - Link do commita: https://github.com/JohnNNT/Programowanie-funkcyjne/commit/0541905fef81498da0209af152a5bebaf5c69112
-    - Link do docker-huba: https://hub.docker.com/repository/docker/johnnnt/haskell_server/general
+    - Link do docker-huba: https://hub.docker.com/r/johnnnt/haskell_generatory
     - Link do nagrania: 
 
 ❌3.5 Zaimplementuj funkcję, która zsumuje liczby po wierszach z trzech
