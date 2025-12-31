@@ -1,4 +1,4 @@
-# Revision history for zadanie6
+# Revision history for zadanie7
 
 ## 0.1.0.0 -- YYYY-mm-dd
 

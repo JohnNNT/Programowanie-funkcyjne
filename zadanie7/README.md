@@ -1,10 +1,9 @@
-# Zadanie 6 Haskell
+# Zadanie 7 Maszyna stanów
 
 ## Zadania
 
-✅3.0 Zaimplementuj funkcję isSorted, która sprawdza czy dana funkcja
-jest posortowana zgodnie z podaną funkcją porównawczą
-    - Link do commita: https://github.com/JohnNNT/Programowanie-funkcyjne/commit/7305ad47ba99d3d418582d276b73bf75dbb708f5
+✅3.0 Zwróci wartość między 0 a maxvalue of Int włącznie
+    - Link do commita: https://github.com/JohnNNT/Programowanie-funkcyjne/commit/0541905fef81498da0209af152a5bebaf5c69112
     - Link do docker-huba: https://hub.docker.com/repository/docker/johnnnt/haskell_server/general
     - Link do nagrania: 
 
