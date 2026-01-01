@@ -6,7 +6,7 @@
 odejmowania na dwóch wartość przyjętych na wejściu
     - Link do commita: https://github.com/JohnNNT/Programowanie-funkcyjne/commit/4f6920dab654290882570fb8b18762eba854ed1a
     - Link do docker-huba: https://hub.docker.com/r/johnnnt/haskell_generatory
-    - Link do nagrania: 
+    - Link do nagrania: https://github.com/user-attachments/assets/f5bd1696-b737-40ba-ad64-99b4d1dcdc4c
 
 ❌3.5 zwróci wartość konkatenacji trzech list za pomocą monoidy
 
