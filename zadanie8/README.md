@@ -4,8 +4,8 @@
 
 ✅3.0 wykorzysta metodę map fuktora do wykonania funkcji dodawania lub
 odejmowania na dwóch wartość przyjętych na wejściu
-    - Link do commita: https://github.com/JohnNNT/Programowanie-funkcyjne/commit/0541905fef81498da0209af152a5bebaf5c69112
-    - Link do docker-huba: https://hub.docker.com/r/johnnnt/haskell_generatory
+    - Link do commita: https://github.com/JohnNNT/Programowanie-funkcyjne/commit/4f6920dab654290882570fb8b18762eba854ed1a
+    - Link do docker-huba: https://hub.docker.com/r/johnnnt/haskell_monady
     - Link do nagrania: 
 
 ❌3.5 zwróci wartość konkatenacji trzech list za pomocą monoidy
