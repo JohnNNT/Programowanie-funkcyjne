@@ -9,4 +9,4 @@ import Web.Scotty
 
 main :: IO ()
 main = scotty 3000 $ do
-    post "/randomIntUserInput" performFunctorEquation
+    post "/performEquation" performFunctorEquation
