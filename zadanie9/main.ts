@@ -1,7 +1,7 @@
 import { Router, v } from "@oak/acorn";
 
 function isPrine(toCheck: {Number: number } | undefined) : boolean{
-  if (toCheck === undefined)
+  if (toCheck === undefined || toCheck.Number < 2)
     return false;
   
 
