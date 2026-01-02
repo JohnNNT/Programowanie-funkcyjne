@@ -1,4 +1,4 @@
-# Zadanie 8 Wątki
+# Zadanie 9 Wątki
 
 ## Zadania
 
