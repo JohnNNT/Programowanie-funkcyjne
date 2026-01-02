@@ -1,15 +1,24 @@
-Deno.serve((_req) => {
-  const pathname = new URL(_req.url).pathname;
+import { Router, v } from "@oak/acorn";
 
-  switch (pathname) {
-    case "/isPrime":
-      return new Response("TODO: Add this endpoint")
-    default:
-      return new Response(JSON.stringify({message: "Endpoint not found"}), {
-        status: 404,
-        headers: {
-          "content-type": "application/json; charset=utf-8"
-        }
-      })
+function isPrine(toCheck: {Number: number } | undefined) : boolean{
+  if (toCheck === undefined)
+    return false;
+  return (toCheck.Number%2) == 0;
+}
+
+// disable in release builds
+const router = new Router({
+  logger: {
+    console: {level: "DEBUG"},
+  },
+});
+
+router.get("/", () => ({ hello: "world" }));
+router.post("/isPrime", (ctx) => (ctx.body().then(isPrine, () => false).then((resultBool) => ({result: resultBool}))), {
+  schema: {
+    body: v.object({
+      Number: v.number()
+    })
   }
 });
+router.listen({ port: 3000 });
