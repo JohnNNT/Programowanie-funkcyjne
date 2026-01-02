@@ -3,14 +3,23 @@ import { Router, v } from "@oak/acorn";
 function isPrine(toCheck: {Number: number } | undefined) : boolean{
   if (toCheck === undefined)
     return false;
-  return (toCheck.Number%2) == 0;
+  
+
+  for (let i : number = 2; i <= Math.sqrt(toCheck.Number); i++) {
+    if (toCheck.Number%i == 0)
+      return false;
+  }
+
+  return true;
 }
 
-// disable in release builds
+
 const router = new Router({
-  logger: {
-    console: {level: "DEBUG"},
-  },
+  // disable logging in realease builds
+  //
+  // logger: {
+  //   console: {level: "DEBUG"},
+  // },
 });
 
 router.get("/", () => ({ hello: "world" }));
