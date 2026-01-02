@@ -4,9 +4,12 @@
 
 ✅3.0 zwróci wartość binarną czy podana na wejściu liczba jest liczbą
 pierwszą; wykorzysta Promise
-    - Link do commita: https://github.com/JohnNNT/Programowanie-funkcyjne/commit/b3be2536a4d4f5911df2265846908a013677e777
-    - Link do docker-huba: https://hub.docker.com/r/johnnnt/js_promise
-    - Link do nagrania: https://github.com/user-attachments/assets/f5bd1696-b737-40ba-ad64-99b4d1dcdc4c
+
+- Link do commita: https://github.com/JohnNNT/Programowanie-funkcyjne/commit/b3be2536a4d4f5911df2265846908a013677e777
+    
+- Link do docker-huba: https://hub.docker.com/r/johnnnt/js_promise
+    
+- Link do nagrania: https://github.com/user-attachments/assets/19d967e5-7858-484b-b237-a1e4324a8858
 
 ❌3.5 zwróci posortowaną listę; wykorzysta Promise
 
