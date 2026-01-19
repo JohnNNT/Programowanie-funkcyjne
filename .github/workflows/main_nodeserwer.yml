@@ -10,9 +10,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  default:
-    working-directory: './zadanie9 — Wykonane w node.js'
-
   build:
     runs-on: ubuntu-latest
     permissions:
