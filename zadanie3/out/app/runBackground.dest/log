@@ -1,0 +1,6 @@
+[2025-11-15T17:11:31.5196691] 12612: Starting. Writing my PID to C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app\runBackground.dest\newest-pid
+[2025-11-15T17:11:31.5346674] 12612: Acquiring lock on C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app\runBackground.dest\lock
+[2025-11-15T17:11:31.5356686] 12612: Lock acquired
+[2025-11-15T17:11:31.5366676] 12612: Old process PID: Optional.empty
+[2025-11-15T17:11:31.5376698] 12612: Writing my PID to C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app\runBackground.dest\currently-running-pid
+[2025-11-15T17:11:31.6006925] 12612: Running main method app.MinimalApplication with args []

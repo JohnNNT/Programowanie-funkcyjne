@@ -1,0 +1,5938 @@
+[
+  [
+    "call mill.scalalib.ScalaModule.<clinit>()void",
+    0
+  ],
+  [
+    "call mill.api.ModuleRef.<clinit>()void",
+    0
+  ],
+  [
+    "call mill.api.Module.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$app$test$#mill$api$Module$_setter_$moduleLinearized_$eq(scala.collection.immutable.Seq)void",
+    1785598177
+  ],
+  [
+    "def build_.package_$app$#moduleLinearized()scala.collection.immutable.Seq",
+    -1083113096
+  ],
+  [
+    "call scala.collection.immutable.Seq.<clinit>()void",
+    0
+  ],
+  [
+    "call scala.runtime.LazyVals$Waiting.<clinit>()void",
+    0
+  ],
+  [
+    "call scala.runtime.LazyVals$LazyValControlState.<clinit>()void",
+    0
+  ],
+  [
+    "call scala.runtime.LazyVals$.<clinit>()void",
+    0
+  ],
+  [
+    "call mill.api.Module$moduleInternal$.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$app$test$#moduleLinearized()scala.collection.immutable.Seq",
+    507928493
+  ],
+  [
+    "def build_.package_$app$#mill$api$Module$_setter_$moduleLinearized_$eq(scala.collection.immutable.Seq)void",
+    135098340
+  ],
+  [
+    "external mill.api.ModuleCtx$Wrapper",
+    438179950
+  ],
+  [
+    "external mill.api.daemon.internal.ModuleApi",
+    438179950
+  ],
+  [
+    "def build_.package_$app$#moduleDirJava()java.nio.file.Path",
+    438179950
+  ],
+  [
+    "def build_.package_$app$#moduleNestedCtx()mill.api.ModuleCtx$Nested",
+    438179950
+  ],
+  [
+    "def build_.package_$app$test$#moduleDir()os.Path",
+    438179950
+  ],
+  [
+    "def build_.package_$app$#toString()java.lang.String",
+    438179950
+  ],
+  [
+    "def build_.package_$app$#moduleSegments()mill.api.daemon.Segments",
+    438179950
+  ],
+  [
+    "call mill.api.Module.moduleNestedCtx$(mill.api.Module)mill.api.ModuleCtx$Nested",
+    438179950
+  ],
+  [
+    "def build_.package_$app$test$#moduleNestedCtx()mill.api.ModuleCtx$Nested",
+    438179950
+  ],
+  [
+    "def build_.package_$app$#moduleInternal$lzyINIT2()java.lang.Object",
+    438179950
+  ],
+  [
+    "call build_.package_$app$!moduleInternal$lzyINIT2()java.lang.Object",
+    438179950
+  ],
+  [
+    "def build_.package_$app$#moduleInternal()mill.api.Module$moduleInternal$",
+    438179950
+  ],
+  [
+    "call mill.api.Module.moduleDir$(mill.api.Module)os.Path",
+    438179950
+  ],
+  [
+    "def build_.package_$app$#moduleDir()os.Path",
+    438179950
+  ],
+  [
+    "def build_.package_$app$#moduleDirectChildren()scala.collection.immutable.Seq",
+    438179950
+  ],
+  [
+    "external mill.api.Module$Internal",
+    438179950
+  ],
+  [
+    "external mill.api.Module$moduleInternal$",
+    438179950
+  ],
+  [
+    "call mill.api.Module$moduleInternal$!<init>(mill.api.Module)void",
+    438179950
+  ],
+  [
+    "def build_.package_$app$test$#moduleInternal$lzyINIT1()java.lang.Object",
+    438179950
+  ],
+  [
+    "call build_.package_$app$test$!moduleInternal$lzyINIT1()java.lang.Object",
+    438179950
+  ],
+  [
+    "def build_.package_$app$test$#moduleInternal()mill.api.Module$moduleInternal$",
+    438179950
+  ],
+  [
+    "call mill.api.Module.moduleDirectChildren$(mill.api.Module)scala.collection.immutable.Seq",
+    438179950
+  ],
+  [
+    "def build_.package_$app$test$#moduleDirectChildren()scala.collection.immutable.Seq",
+    438179950
+  ],
+  [
+    "call mill.api.Module.moduleSegments$(mill.api.Module)mill.api.daemon.Segments",
+    438179950
+  ],
+  [
+    "def build_.package_$app$test$#moduleSegments()mill.api.daemon.Segments",
+    438179950
+  ],
+  [
+    "def build_.package_$app$test$#mill$api$Module$$millModuleDirectChildrenImpl$lzyINIT1()java.lang.Object",
+    438179950
+  ],
+  [
+    "call build_.package_$app$test$!mill$api$Module$$millModuleDirectChildrenImpl$lzyINIT1()java.lang.Object",
+    438179950
+  ],
+  [
+    "def build_.package_$app$test$#mill$api$Module$$millModuleDirectChildrenImpl()scala.collection.immutable.Seq",
+    438179950
+  ],
+  [
+    "call mill.api.Module.moduleDirJava$(mill.api.Module)java.nio.file.Path",
+    438179950
+  ],
+  [
+    "def build_.package_$app$test$#moduleDirJava()java.nio.file.Path",
+    438179950
+  ],
+  [
+    "call scala.runtime.LazyVals$Waiting#countDown()void",
+    438179950
+  ],
+  [
+    "call mill.api.Module.mill$api$Module$$millModuleDirectChildrenImpl$(mill.api.Module)scala.collection.immutable.Seq",
+    438179950
+  ],
+  [
+    "external scala.runtime.LazyVals$LazyValControlState",
+    438179950
+  ],
+  [
+    "external scala.runtime.LazyVals$Waiting",
+    438179950
+  ],
+  [
+    "call scala.runtime.LazyVals$Waiting!<init>()void",
+    438179950
+  ],
+  [
+    "external java.util.concurrent.CountDownLatch",
+    438179950
+  ],
+  [
+    "call scala.runtime.LazyVals$Waiting#await()void",
+    438179950
+  ],
+  [
+    "def build_.package_$app$#mill$api$Module$$millModuleDirectChildrenImpl$lzyINIT2()java.lang.Object",
+    438179950
+  ],
+  [
+    "call build_.package_$app$!mill$api$Module$$millModuleDirectChildrenImpl$lzyINIT2()java.lang.Object",
+    438179950
+  ],
+  [
+    "def build_.package_$app$#mill$api$Module$$millModuleDirectChildrenImpl()scala.collection.immutable.Seq",
+    438179950
+  ],
+  [
+    "external mill.api.Module",
+    438179950
+  ],
+  [
+    "call mill.api.Module.toString$(mill.api.Module)java.lang.String",
+    438179950
+  ],
+  [
+    "def build_.package_$app$test$#toString()java.lang.String",
+    438179950
+  ],
+  [
+    "external java.lang.Object",
+    438179950
+  ],
+  [
+    "external java.io.Serializable",
+    438179950
+  ],
+  [
+    "external scala.runtime.LazyVals$",
+    438179950
+  ],
+  [
+    "call scala.runtime.LazyVals$#objCAS(java.lang.Object,long,java.lang.Object,java.lang.Object)boolean",
+    438179950
+  ],
+  [
+    "call mill.javalib.CoursierModule.<clinit>()void",
+    0
+  ],
+  [
+    "call mill.javalib.JavaModule.<clinit>()void",
+    0
+  ],
+  [
+    "call mill.javalib.bsp.BspModule.<clinit>()void",
+    0
+  ],
+  [
+    "call mill.javalib.JavaModule$JavaTests.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$JavaModule$JavaTests$$$outer()mill.javalib.JavaModule",
+    1284422137
+  ],
+  [
+    "external mill.api.internal.Applicative$Applyable",
+    438179950
+  ],
+  [
+    "external mill.api.daemon.internal.TaskApi",
+    438179950
+  ],
+  [
+    "external mill.api.Task$Ops",
+    438179950
+  ],
+  [
+    "external mill.api.Task",
+    1314539850
+  ],
+  [
+    "call mill.javalib.TestModule.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$app$test$#testLocal(scala.collection.immutable.Seq)mill.api.daemon.internal.TaskApi",
+    -1138329927
+  ],
+  [
+    "call mill.javalib.RunModule.<clinit>()void",
+    0
+  ],
+  [
+    "external mill.api.daemon.internal.RunModuleApi",
+    876359900
+  ],
+  [
+    "call mill.javalib.JavaHomeModule.<clinit>()void",
+    0
+  ],
+  [
+    "external java.lang.Comparable",
+    438179950
+  ],
+  [
+    "external java.lang.CharSequence",
+    438179950
+  ],
+  [
+    "external java.lang.constant.ConstantDesc",
+    438179950
+  ],
+  [
+    "external java.lang.constant.Constable",
+    438179950
+  ],
+  [
+    "external java.lang.String",
+    -1665887596
+  ],
+  [
+    "external mill.api.DefaultTaskModule",
+    876359900
+  ],
+  [
+    "external scala.collection.IterableOnceOps",
+    438179950
+  ],
+  [
+    "external scala.collection.IterableOnce",
+    438179950
+  ],
+  [
+    "external scala.collection.IterableOps",
+    1314539850
+  ],
+  [
+    "external scala.collection.SeqOps",
+    1752719800
+  ],
+  [
+    "external scala.Equals",
+    438179950
+  ],
+  [
+    "external scala.Function1",
+    438179950
+  ],
+  [
+    "external scala.PartialFunction",
+    876359900
+  ],
+  [
+    "external scala.collection.IterableFactoryDefaults",
+    1752719800
+  ],
+  [
+    "external scala.collection.Iterable",
+    -2104067546
+  ],
+  [
+    "external scala.collection.Seq",
+    1401372054
+  ],
+  [
+    "external scala.collection.immutable.Iterable",
+    -1665887596
+  ],
+  [
+    "external scala.collection.immutable.SeqOps",
+    -2104067546
+  ],
+  [
+    "external scala.collection.immutable.Seq",
+    -1930403138
+  ],
+  [
+    "external os.ReadablePath",
+    438179950
+  ],
+  [
+    "external os.BasePath",
+    438179950
+  ],
+  [
+    "external os.BasePathImpl",
+    876359900
+  ],
+  [
+    "external os.FilePath",
+    876359900
+  ],
+  [
+    "external os.Path",
+    -1227707646
+  ],
+  [
+    "external mill.api.daemon.internal.NamedTaskApi",
+    876359900
+  ],
+  [
+    "external mill.api.Task$Named",
+    1314539850
+  ],
+  [
+    "call mill.javalib.WithJvmWorkerModule.<clinit>()void",
+    0
+  ],
+  [
+    "external scala.Product",
+    876359900
+  ],
+  [
+    "external scala.reflect.Enum",
+    1752719800
+  ],
+  [
+    "external mill.javalib.CompileFor",
+    -1227707646
+  ],
+  [
+    "external mill.api.daemon.internal.PathRefApi",
+    438179950
+  ],
+  [
+    "external mill.api.PathRef",
+    -2104067546
+  ],
+  [
+    "external mill.javalib.MvnDepsTreeArgs",
+    438179950
+  ],
+  [
+    "call mill.api.Task.<clinit>()void",
+    0
+  ],
+  [
+    "call mill.javalib.GenIdeaModule.<clinit>()void",
+    0
+  ],
+  [
+    "call mill.javalib.AssemblyModule.<clinit>()void",
+    0
+  ],
+  [
+    "external mill.javalib.OfflineSupportModule",
+    876359900
+  ],
+  [
+    "call mill.javalib.SemanticDbJavaModule.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$app$test$#bspCompiledClassesAndSemanticDbFiles()mill.api.daemon.internal.TaskApi",
+    1193546552
+  ],
+  [
+    "def build_.package_$app$#bspCompiledClassesAndSemanticDbFiles()mill.api.daemon.internal.TaskApi",
+    506278476
+  ],
+  [
+    "def build_.package_$app$#mandatoryJavacOptions()mill.api.daemon.internal.TaskApi",
+    102776489
+  ],
+  [
+    "def build_.package_$app$test$#mandatoryJavacOptions()mill.api.daemon.internal.TaskApi",
+    2039424143
+  ],
+  [
+    "def build_.package_$app$test$#javacOptions()mill.api.daemon.internal.TaskApi",
+    -280728054
+  ],
+  [
+    "def build_.package_$app$#javacOptions()mill.api.daemon.internal.TaskApi",
+    637104349
+  ],
+  [
+    "external mill.javalib.TestModule$ScalaModuleBase",
+    876359900
+  ],
+  [
+    "external mill.api.daemon.internal.ScalaModuleApi",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mill$scalalib$ScalaModule$$super$bspBuildTarget()mill.api.daemon.internal.bsp.BspBuildTarget",
+    644104220
+  ],
+  [
+    "call mill.javalib.TestModule.bspBuildTarget$(mill.javalib.TestModule)mill.api.daemon.internal.bsp.BspBuildTarget",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$scalalib$ScalaModule$$super$bspBuildTarget()mill.api.daemon.internal.bsp.BspBuildTarget",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mill$scalalib$ScalaModule$$super$mapDependencies()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bindDependency()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#millResolver()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#repositoriesTask0()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#defaultResolver()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.CoursierModule.repositoriesTask0$(mill.javalib.CoursierModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#repositoriesTask0()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#coursierConfigModule()mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#resolutionParams()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.CoursierModule.millResolver$(mill.javalib.CoursierModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#millResolver()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#coursierCacheCustomizer()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.CoursierModule.resolutionCustomizer$(mill.javalib.CoursierModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#resolutionCustomizer()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.CoursierModule.coursierCacheCustomizer$(mill.javalib.CoursierModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#coursierCacheCustomizer()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.CoursierModule.coursierConfigModule$(mill.javalib.CoursierModule)mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#coursierConfigModule()mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "call build_.package_$app$test$#bspBuildTargetCompile(boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspBuildTargetCompile(boolean)mill.api.daemon.internal.TaskApi",
+    644104220
+  ],
+  [
+    "call build_.package_$app$#bspCompileClasspath(boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspCompileClasspath(boolean)mill.api.daemon.internal.TaskApi",
+    644104220
+  ],
+  [
+    "call build_.package_$app$#bspCompileClassesPath(boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspCompileClassesPath(boolean)mill.api.daemon.internal.TaskApi",
+    644104220
+  ],
+  [
+    "call build_.package_$app$test$#bspCompileClasspath(boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspCompileClasspath(boolean)mill.api.daemon.internal.TaskApi",
+    644104220
+  ],
+  [
+    "call build_.package_$app$test$#bspCompileClassesPath(boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspCompileClassesPath(boolean)mill.api.daemon.internal.TaskApi",
+    644104220
+  ],
+  [
+    "call build_.package_$app$#bspBuildTargetCompile(boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspBuildTargetCompile(boolean)mill.api.daemon.internal.TaskApi",
+    644104220
+  ],
+  [
+    "external mill.api.daemon.internal.JavaModuleApi",
+    644104220
+  ],
+  [
+    "external mill.api.daemon.internal.SemanticDbJavaModuleApi",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#upstreamSemanticDbDatas()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.SemanticDbJavaModule.upstreamSemanticDbDatas$(mill.javalib.SemanticDbJavaModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#upstreamSemanticDbDatas()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspBuildTargetCompileSemanticDb()mill.api.daemon.internal.TaskApi",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#compileFor(mill.javalib.CompileFor)mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.SemanticDbJavaModule.compileFor$(mill.javalib.SemanticDbJavaModule,mill.javalib.CompileFor)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#compileFor(mill.javalib.CompileFor)mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.SemanticDbJavaModule.bspBuildTargetCompileSemanticDb$(mill.javalib.SemanticDbJavaModule)mill.api.daemon.internal.TaskApi",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspBuildTargetCompileSemanticDb()mill.api.daemon.internal.TaskApi",
+    644104220
+  ],
+  [
+    "external mill.javalib.SemanticDbJavaModule",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#assemblyRules0()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.AssemblyModule.assemblyRules0$(mill.javalib.AssemblyModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#assemblyRules0()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "external mill.javalib.AssemblyModule",
+    644104220
+  ],
+  [
+    "external mill.api.daemon.internal.idea.GenIdeaModuleApi",
+    644104220
+  ],
+  [
+    "call mill.javalib.GenIdeaModule.skipIdea$(mill.javalib.GenIdeaModule)boolean",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#skipIdea()boolean",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#intellijModulePathJava()java.nio.file.Path",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#ideaConfigFiles(int)mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.GenIdeaModule.intellijModulePathJava$(mill.javalib.GenIdeaModule)java.nio.file.Path",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#intellijModulePathJava()java.nio.file.Path",
+    644104220
+  ],
+  [
+    "call mill.javalib.GenIdeaModule.ideaConfigFiles$(mill.javalib.GenIdeaModule,int)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#ideaConfigFiles(int)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#ideaJavaModuleFacets(int)mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.GenIdeaModule.ideaJavaModuleFacets$(mill.javalib.GenIdeaModule,int)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#ideaJavaModuleFacets(int)mill.api.Task",
+    644104220
+  ],
+  [
+    "external mill.javalib.GenIdeaModule",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#moduleDepsChecked()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#transitiveRunModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#transitiveCoursierProjects()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspCompileClasspath(boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#sanitizeUri(mill.api.PathRef)java.lang.String",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mill$javalib$JavaModule$$recRunModuleDeps$lzyINIT2()java.lang.Object",
+    644104220
+  ],
+  [
+    "call build_.package_$app$!mill$javalib$JavaModule$$recRunModuleDeps$lzyINIT2()java.lang.Object",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mill$javalib$JavaModule$$recRunModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mvnDepsTree(mill.javalib.MvnDepsTreeArgs)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspJavaModule()scala.Function0",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#showMvnDepsTree$default$1()mill.javalib.MvnDepsTreeArgs",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#sanitizeUri(os.Path)java.lang.String",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspCompileClassesPath(boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$JavaModule$$recBomModuleDeps$lzyINIT1()java.lang.Object",
+    644104220
+  ],
+  [
+    "call build_.package_$app$test$!mill$javalib$JavaModule$$recBomModuleDeps$lzyINIT1()java.lang.Object",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$JavaModule$$recBomModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#transitiveModuleRunModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.moduleDeps$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#moduleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#resolveRelativeToOut$default$2()scala.Function1",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspTransitiveCompileClasspath(boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspLocalClasspath(boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$JavaModule$$repositoriesTaskStable$lzyINIT1()java.lang.Object",
+    644104220
+  ],
+  [
+    "call build_.package_$app$test$!mill$javalib$JavaModule$$repositoriesTaskStable$lzyINIT1()java.lang.Object",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$JavaModule$$repositoriesTaskStable()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.moduleDepsChecked$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#moduleDepsChecked()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#recursiveModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.showMvnDepsTree$default$1$(mill.javalib.JavaModule)mill.javalib.MvnDepsTreeArgs",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#showMvnDepsTree$default$1()mill.javalib.MvnDepsTreeArgs",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#coursierProject0()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#genIdeaInternal()scala.Function0",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#genEclipseInternalExt$lzyINIT2()java.lang.Object",
+    644104220
+  ],
+  [
+    "call build_.package_$app$!genEclipseInternalExt$lzyINIT2()java.lang.Object",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#genEclipseInternalExt()mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#resolvePublishDependency()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.sourcesFolders$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#sourcesFolders()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspLocalRunClasspath(boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#coursierProject()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#assemblyRules()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.bspTransitiveCompileClasspath$(mill.javalib.JavaModule,boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspTransitiveCompileClasspath(boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#recursiveRunModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.transitiveRunModuleDeps$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#transitiveRunModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.coursierProject$(mill.javalib.JavaModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#coursierProject()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#genIdeaInternalExt$lzyINIT1()java.lang.Object",
+    644104220
+  ],
+  [
+    "call build_.package_$app$test$!genIdeaInternalExt$lzyINIT1()java.lang.Object",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#genIdeaInternalExt()mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#sanitizeUri(java.lang.String)java.lang.String",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.mill$javalib$JavaModule$$recRunModuleDeps$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$JavaModule$$recRunModuleDeps$lzyINIT1()java.lang.Object",
+    644104220
+  ],
+  [
+    "call build_.package_$app$test$!mill$javalib$JavaModule$$recRunModuleDeps$lzyINIT1()java.lang.Object",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$JavaModule$$recRunModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#runModuleDepsChecked()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#compileModuleDepsChecked()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.bspLocalClasspath$(mill.javalib.JavaModule,boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspLocalClasspath(boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.compileModuleDepsChecked$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#compileModuleDepsChecked()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#transitiveModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.recursiveRunModuleDeps$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#recursiveRunModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.bspCompileClasspath$(mill.javalib.JavaModule,boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspCompileClasspath(boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#showModuleDeps$default$1()boolean",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#transitiveModuleCompileModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.runModuleDepsChecked$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#runModuleDepsChecked()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.bspCompileClassesPath$(mill.javalib.JavaModule,boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspCompileClassesPath(boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.assemblyRules$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#assemblyRules()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#compileClassesPath()mill.javalib.UnresolvedPath$DestPath",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.showModuleDeps$default$1$(mill.javalib.JavaModule)boolean",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#showModuleDeps$default$1()boolean",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$JavaModule$$recModuleDeps$lzyINIT1()java.lang.Object",
+    644104220
+  ],
+  [
+    "call build_.package_$app$test$!mill$javalib$JavaModule$$recModuleDeps$lzyINIT1()java.lang.Object",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$JavaModule$$recModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#resolveRelativeToOut(mill.api.Task$Named,scala.Function1)mill.javalib.UnresolvedPath$DestPath",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#compileClasspathTask(mill.javalib.CompileFor)mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.coursierProject0$(mill.javalib.JavaModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#coursierProject0()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#runModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bomModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#transitiveCompileClasspathTask(mill.javalib.CompileFor)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#genEclipseInternal()scala.Function0",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.mill$javalib$JavaModule$$repositoriesTaskStable$(mill.javalib.JavaModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mill$javalib$JavaModule$$repositoriesTaskStable$lzyINIT2()java.lang.Object",
+    644104220
+  ],
+  [
+    "call build_.package_$app$!mill$javalib$JavaModule$$repositoriesTaskStable$lzyINIT2()java.lang.Object",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mill$javalib$JavaModule$$repositoriesTaskStable()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#internalRepositories()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.transitiveCoursierProjects$(mill.javalib.JavaModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#transitiveCoursierProjects()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#allBomDeps()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#coursierDependency()coursier.core.Dependency",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#internalDependenciesRepository()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.compileClasspathTask$(mill.javalib.JavaModule,mill.javalib.CompileFor)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#compileClasspathTask(mill.javalib.CompileFor)mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.genEclipseInternalExt$(mill.javalib.JavaModule)mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#genEclipseInternalExt$lzyINIT1()java.lang.Object",
+    644104220
+  ],
+  [
+    "call build_.package_$app$test$!genEclipseInternalExt$lzyINIT1()java.lang.Object",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#genEclipseInternalExt()mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#coursierDependencyTask()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspBuildTargetCompile(boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mill$javalib$JavaModule$$recCompileModuleDeps$lzyINIT2()java.lang.Object",
+    644104220
+  ],
+  [
+    "call build_.package_$app$!mill$javalib$JavaModule$$recCompileModuleDeps$lzyINIT2()java.lang.Object",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mill$javalib$JavaModule$$recCompileModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.recursiveModuleDeps$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#recursiveModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.internalRepositories$(mill.javalib.JavaModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#internalRepositories()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$JavaModule$$super$jvmWorker()mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bomModuleDepsChecked()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.coursierDependencyTask$(mill.javalib.JavaModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#coursierDependencyTask()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.runModuleDeps$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#runModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.mvnDepsTree$(mill.javalib.JavaModule,mill.javalib.MvnDepsTreeArgs)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mvnDepsTree(mill.javalib.MvnDepsTreeArgs)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#compileModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.mill$javalib$JavaModule$$recBomModuleDeps$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mill$javalib$JavaModule$$recBomModuleDeps$lzyINIT2()java.lang.Object",
+    644104220
+  ],
+  [
+    "call build_.package_$app$!mill$javalib$JavaModule$$recBomModuleDeps$lzyINIT2()java.lang.Object",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mill$javalib$JavaModule$$recBomModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspJvmBuildTargetTask()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.sanitizeUri$(mill.javalib.JavaModule,java.lang.String)java.lang.String",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#sanitizeUri(java.lang.String)java.lang.String",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.genIdeaInternal$(mill.javalib.JavaModule)scala.Function0",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#genIdeaInternal()scala.Function0",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.bspBuildTargetCompile$(mill.javalib.JavaModule,boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspBuildTargetCompile(boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.sanitizeUri$(mill.javalib.JavaModule,mill.api.PathRef)java.lang.String",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#sanitizeUri(mill.api.PathRef)java.lang.String",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.transitiveCompileClasspathTask$(mill.javalib.JavaModule,mill.javalib.CompileFor)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#transitiveCompileClasspathTask(mill.javalib.CompileFor)mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.WithJvmWorkerModule.jvmWorker$(mill.javalib.WithJvmWorkerModule)mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mill$javalib$JavaModule$$super$jvmWorker()mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.allBomDeps$(mill.javalib.JavaModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#allBomDeps()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.resolveRelativeToOut$(mill.javalib.JavaModule,mill.api.Task$Named,scala.Function1)mill.javalib.UnresolvedPath$DestPath",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#resolveRelativeToOut(mill.api.Task$Named,scala.Function1)mill.javalib.UnresolvedPath$DestPath",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.transitiveModuleRunModuleDeps$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#transitiveModuleRunModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$JavaModule$$super$bspBuildTarget()mill.api.daemon.internal.bsp.BspBuildTarget",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.transitiveModuleCompileModuleDeps$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#transitiveModuleCompileModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.mill$javalib$JavaModule$$recCompileModuleDeps$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$JavaModule$$recCompileModuleDeps$lzyINIT1()java.lang.Object",
+    644104220
+  ],
+  [
+    "call build_.package_$app$test$!mill$javalib$JavaModule$$recCompileModuleDeps$lzyINIT1()java.lang.Object",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$JavaModule$$recCompileModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.sanitizeUri$(mill.javalib.JavaModule,os.Path)java.lang.String",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#sanitizeUri(os.Path)java.lang.String",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.bomModuleDepsChecked$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bomModuleDepsChecked()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.bomModuleDeps$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bomModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.compileClassesPath$(mill.javalib.JavaModule)mill.javalib.UnresolvedPath$DestPath",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#compileClassesPath()mill.javalib.UnresolvedPath$DestPath",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#processedDependencyManagement(scala.collection.immutable.Seq)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.bspLocalRunClasspath$(mill.javalib.JavaModule,boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspLocalRunClasspath(boolean)mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.resolveRelativeToOut$default$2$(mill.javalib.JavaModule)scala.Function1",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#resolveRelativeToOut$default$2()scala.Function1",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.internalDependenciesRepository$(mill.javalib.JavaModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#internalDependenciesRepository()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.transitiveModuleDeps$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#transitiveModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.compileModuleDeps$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#compileModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.coursierDependency$(mill.javalib.JavaModule)coursier.core.Dependency",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#coursierDependency()coursier.core.Dependency",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.processedDependencyManagement$(mill.javalib.JavaModule,scala.collection.immutable.Seq)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#processedDependencyManagement(scala.collection.immutable.Seq)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.mill$javalib$JavaModule$$recModuleDeps$(mill.javalib.JavaModule)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mill$javalib$JavaModule$$recModuleDeps$lzyINIT2()java.lang.Object",
+    644104220
+  ],
+  [
+    "call build_.package_$app$!mill$javalib$JavaModule$$recModuleDeps$lzyINIT2()java.lang.Object",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mill$javalib$JavaModule$$recModuleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#useShortJvmPath(java.lang.String)boolean",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaHomeModule.useShortJvmPath$(mill.javalib.JavaHomeModule,java.lang.String)boolean",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#useShortJvmPath(java.lang.String)boolean",
+    644104220
+  ],
+  [
+    "external mill.javalib.JavaHomeModule",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.jvmWorker$(mill.javalib.JavaModule)mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#jvmWorker()mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "external mill.javalib.WithJvmWorkerModule",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#launcher0()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#runLocal$default$1()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#runForkedTask(mill.api.Task,mill.api.Task)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#runBackgroundTask$default$2()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#run$default$1()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#runForkedTask$default$2()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.RunModule.runForkedTask$default$2$(mill.javalib.RunModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#runForkedTask$default$2()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#runner()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.RunModule.runLocal$default$1$(mill.javalib.RunModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#runLocal$default$1()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$RunModule$$bspExt$lzyINIT1()java.lang.Object",
+    644104220
+  ],
+  [
+    "call build_.package_$app$test$!mill$javalib$RunModule$$bspExt$lzyINIT1()java.lang.Object",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$RunModule$$bspExt()mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#runBackgroundLogToConsole()boolean",
+    644104220
+  ],
+  [
+    "call mill.javalib.RunModule.mill$javalib$RunModule$$bspExt$(mill.javalib.RunModule)mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mill$javalib$RunModule$$bspExt$lzyINIT2()java.lang.Object",
+    644104220
+  ],
+  [
+    "call build_.package_$app$!mill$javalib$RunModule$$bspExt$lzyINIT2()java.lang.Object",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mill$javalib$RunModule$$bspExt()mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#classgraphWorkerModule()mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#runLocalTask$default$2()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.RunModule.runLocalTask$default$2$(mill.javalib.RunModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#runLocalTask$default$2()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#runLocalTask(mill.api.Task,mill.api.Task)mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.RunModule.launcher0$(mill.javalib.RunModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#launcher0()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.RunModule.runBackgroundTask$default$2$(mill.javalib.RunModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#runBackgroundTask$default$2()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.RunModule.run$default$1$(mill.javalib.RunModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#run$default$1()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#runBackgroundTask(mill.api.Task,mill.api.Task)mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.RunModule.runner$(mill.javalib.RunModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#runner()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.RunModule.runForkedTask$(mill.javalib.RunModule,mill.api.Task,mill.api.Task)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#runForkedTask(mill.api.Task,mill.api.Task)mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.RunModule.runBackgroundTask$(mill.javalib.RunModule,mill.api.Task,mill.api.Task)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#runBackgroundTask(mill.api.Task,mill.api.Task)mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.RunModule.classgraphWorkerModule$(mill.javalib.RunModule)mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#classgraphWorkerModule()mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "call mill.javalib.RunModule.runBackgroundLogToConsole$(mill.javalib.RunModule)boolean",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#runBackgroundLogToConsole()boolean",
+    644104220
+  ],
+  [
+    "call mill.javalib.RunModule.runLocalTask$(mill.javalib.RunModule,mill.api.Task,mill.api.Task)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#runLocalTask(mill.api.Task,mill.api.Task)mill.api.Task",
+    644104220
+  ],
+  [
+    "external mill.javalib.RunModule",
+    644104220
+  ],
+  [
+    "external mill.javalib.TestModule$JavaModuleBase",
+    644104220
+  ],
+  [
+    "call build_.package_$app$test$#bspBuildTargetScalaTestClasses()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspBuildTargetScalaTestClasses()mill.api.daemon.internal.TaskApi",
+    644104220
+  ],
+  [
+    "external mill.api.daemon.internal.TestModuleApi",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.bspBuildTarget$(mill.javalib.JavaModule)mill.api.daemon.internal.bsp.BspBuildTarget",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$TestModule$$super$bspBuildTarget()mill.api.daemon.internal.bsp.BspBuildTarget",
+    644104220
+  ],
+  [
+    "call mill.javalib.TestModule.bspBuildTargetScalaTestClasses$(mill.javalib.TestModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspBuildTargetScalaTestClasses()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.TestModule.testTask$(mill.javalib.TestModule,mill.api.Task,mill.api.Task)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#testTask(mill.api.Task,mill.api.Task)mill.api.Task",
+    644104220
+  ],
+  [
+    "external mill.javalib.TestModule",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule$JavaTests.jvmWorker$(mill.javalib.JavaModule$JavaTests)mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#jvmWorker()mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule$JavaTests.sourcesFolders$(mill.javalib.JavaModule$JavaTests)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#sourcesFolders()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule$JavaTests.skipIdea$(mill.javalib.JavaModule$JavaTests)boolean",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#skipIdea()boolean",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule$JavaTests.resolutionCustomizer$(mill.javalib.JavaModule$JavaTests)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#resolutionCustomizer()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule$JavaTests.hierarchyChecks$(mill.javalib.JavaModule$JavaTests)void",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#hierarchyChecks()void",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule$JavaTests.repositoriesTask$(mill.javalib.JavaModule$JavaTests)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#repositoriesTask()mill.api.Task",
+    644104220
+  ],
+  [
+    "external mill.javalib.JavaModule$JavaTests",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule$JavaTests.moduleDeps$(mill.javalib.JavaModule$JavaTests)scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#moduleDeps()scala.collection.immutable.Seq",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.bspJavaModule$(mill.javalib.JavaModule)scala.Function0",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspJavaModule()scala.Function0",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.bspJvmBuildTargetTask$(mill.javalib.JavaModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspJvmBuildTargetTask()mill.api.Task",
+    644104220
+  ],
+  [
+    "call build_.package_$app$test$#bspBuildTargetData()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspBuildTargetData()mill.api.daemon.internal.TaskApi",
+    644104220
+  ],
+  [
+    "call build_.package_$app$#bspBuildTargetData()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspBuildTargetData()mill.api.daemon.internal.TaskApi",
+    644104220
+  ],
+  [
+    "external mill.api.daemon.internal.bsp.BspModuleApi",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspDisplayName()java.lang.String",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspBuildTargetData()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspDisplayName0()java.lang.String",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspBuildTarget()mill.api.daemon.internal.bsp.BspBuildTarget",
+    644104220
+  ],
+  [
+    "call mill.scalalib.ScalaModule.bspBuildTargetData$(mill.scalalib.ScalaModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspBuildTargetData()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.bsp.BspModule.bspDisplayName0$(mill.javalib.bsp.BspModule)java.lang.String",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspDisplayName0()java.lang.String",
+    644104220
+  ],
+  [
+    "call mill.scalalib.ScalaModule.bspBuildTarget$(mill.scalalib.ScalaModule)mill.api.daemon.internal.bsp.BspBuildTarget",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspBuildTarget()mill.api.daemon.internal.bsp.BspBuildTarget",
+    644104220
+  ],
+  [
+    "call mill.javalib.bsp.BspModule.bspDisplayName$(mill.javalib.bsp.BspModule)java.lang.String",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspDisplayName()java.lang.String",
+    644104220
+  ],
+  [
+    "external mill.javalib.bsp.BspModule",
+    644104220
+  ],
+  [
+    "call mill.javalib.bsp.BspModule.bspBuildTarget$(mill.javalib.bsp.BspModule)mill.api.daemon.internal.bsp.BspBuildTarget",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mill$javalib$JavaModule$$super$bspBuildTarget()mill.api.daemon.internal.bsp.BspBuildTarget",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.genEclipseInternal$(mill.javalib.JavaModule)scala.Function0",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#genEclipseInternal()scala.Function0",
+    644104220
+  ],
+  [
+    "external mill.javalib.JavaModule",
+    644104220
+  ],
+  [
+    "call mill.javalib.JavaModule.repositoriesTask$(mill.javalib.JavaModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#repositoriesTask()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#allRepositories()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.CoursierModule.allRepositories$(mill.javalib.CoursierModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#allRepositories()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.CoursierModule.defaultResolver$(mill.javalib.CoursierModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#defaultResolver()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.javalib.CoursierModule.resolutionParams$(mill.javalib.CoursierModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#resolutionParams()mill.api.Task",
+    644104220
+  ],
+  [
+    "external mill.javalib.CoursierModule",
+    644104220
+  ],
+  [
+    "call mill.javalib.CoursierModule.mapDependencies$(mill.javalib.CoursierModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$scalalib$ScalaModule$$super$mapDependencies()mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#ammoniteMainClass()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.scalalib.ScalaModule.bindDependency$(mill.scalalib.ScalaModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bindDependency()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.scalalib.ScalaModule.genIdeaInternalExt$(mill.scalalib.ScalaModule)mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#genIdeaInternalExt$lzyINIT2()java.lang.Object",
+    644104220
+  ],
+  [
+    "call build_.package_$app$!genIdeaInternalExt$lzyINIT2()java.lang.Object",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#genIdeaInternalExt()mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspExt$lzyINIT1()java.lang.Object",
+    644104220
+  ],
+  [
+    "call build_.package_$app$test$!bspExt$lzyINIT1()java.lang.Object",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspExt()mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "call mill.scalalib.ScalaModule.bspExt$(mill.scalalib.ScalaModule)mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspExt$lzyINIT2()java.lang.Object",
+    644104220
+  ],
+  [
+    "call build_.package_$app$!bspExt$lzyINIT2()java.lang.Object",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspExt()mill.api.ModuleRef",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mapDependencies()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.scalalib.ScalaModule.mapDependencies$(mill.scalalib.ScalaModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mapDependencies()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.scalalib.ScalaModule.ammoniteMainClass$(mill.scalalib.ScalaModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#ammoniteMainClass()mill.api.Task",
+    644104220
+  ],
+  [
+    "call mill.scalalib.ScalaModule.resolvePublishDependency$(mill.scalalib.ScalaModule)mill.api.Task",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#resolvePublishDependency()mill.api.Task",
+    644104220
+  ],
+  [
+    "external mill.scalalib.ScalaModule",
+    644104220
+  ],
+  [
+    "call mill.scalalib.ScalaModule.allScalacOptions$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#allScalacOptions()mill.api.Task$Simple",
+    -136825418
+  ],
+  [
+    "call mill.javalib.RunModule.bspRunModule$(mill.javalib.RunModule)scala.Function0",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspRunModule()scala.Function0",
+    691123788
+  ],
+  [
+    "call mill.javalib.JavaModule.sources$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#sources()mill.api.Task$Simple",
+    -595821298
+  ],
+  [
+    "external mill.api.internal.RootModule$Info",
+    438179950
+  ],
+  [
+    "call mill.api.internal.RootModule$Info!<init>(java.lang.String,java.lang.String,java.lang.String)void",
+    -1227707646
+  ],
+  [
+    "call mill.api.internal.RootModule$Info.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.MillMiscInfo$#<init>()void",
+    1631022227
+  ],
+  [
+    "call build_.MillMiscInfo$!<init>()void",
+    1631022227
+  ],
+  [
+    "def build_.MillMiscInfo$.<clinit>()void",
+    -980324574
+  ],
+  [
+    "call build_.MillMiscInfo$.<clinit>()void",
+    -980324574
+  ],
+  [
+    "external sourcecode.SourceValue",
+    438179950
+  ],
+  [
+    "external sourcecode.File",
+    1752719800
+  ],
+  [
+    "call sourcecode.File!<init>(java.lang.String)void",
+    86832204
+  ],
+  [
+    "external sourcecode.Line",
+    1752719800
+  ],
+  [
+    "call sourcecode.Line!<init>(int)void",
+    1752719800
+  ],
+  [
+    "call sourcecode.File.<clinit>()void",
+    0
+  ],
+  [
+    "call sourcecode.Line.<clinit>()void",
+    0
+  ],
+  [
+    "call sourcecode.Enclosing.<clinit>()void",
+    0
+  ],
+  [
+    "call mill.util.MainRootModule.<clinit>()void",
+    0
+  ],
+  [
+    "external sourcecode.Enclosing",
+    1752719800
+  ],
+  [
+    "call sourcecode.Enclosing!<init>(java.lang.String)void",
+    86832204
+  ],
+  [
+    "call build_.MillMiscInfo$#millMiscInfo()mill.api.internal.RootModule$Info",
+    438179950
+  ],
+  [
+    "external mill.api.daemon.internal.MainModuleApi",
+    876359900
+  ],
+  [
+    "external mill.util.MainModule",
+    1314539850
+  ],
+  [
+    "external mill.moduledefs.Cacher",
+    438179950
+  ],
+  [
+    "external mill.api.internal.Cacher",
+    876359900
+  ],
+  [
+    "external mill.api.Module$BaseClass",
+    1752719800
+  ],
+  [
+    "external mill.api.daemon.internal.BaseModuleApi",
+    876359900
+  ],
+  [
+    "external mill.api.internal.RootModule0",
+    -1227707646
+  ],
+  [
+    "external mill.api.daemon.internal.RootModuleApi",
+    438179950
+  ],
+  [
+    "external mill.api.internal.RootModule",
+    -789527696
+  ],
+  [
+    "external mill.util.MainRootModule",
+    525012154
+  ],
+  [
+    "call mill.util.MainRootModule!<init>(mill.api.internal.RootModule$Info,sourcecode.Enclosing,sourcecode.Line,sourcecode.File)void",
+    1926384208
+  ],
+  [
+    "def build_.package_#<init>()void",
+    -1308779985
+  ],
+  [
+    "call mill.javalib.SemanticDbJavaModule.bspCompiledClassesAndSemanticDbFiles$(mill.javalib.SemanticDbJavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bspCompiledClassesAndSemanticDbFiles()mill.api.Task$Simple",
+    1056105063
+  ],
+  [
+    "def build_.package_$app$test$#repl(scala.collection.immutable.Seq)mill.api.Task$Command",
+    -745452994
+  ],
+  [
+    "call mill.javalib.SemanticDbJavaModule.resolvedSemanticDbJavaPluginMvnDeps$(mill.javalib.SemanticDbJavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#resolvedSemanticDbJavaPluginMvnDeps()mill.api.Task$Simple",
+    -1162531312
+  ],
+  [
+    "call mill.javalib.SemanticDbJavaModule.semanticDbJavaVersion$(mill.javalib.SemanticDbJavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#semanticDbJavaVersion()mill.api.Task$Simple",
+    -864983433
+  ],
+  [
+    "call mill.javalib.JavaHomeModule.javaHome$(mill.javalib.JavaHomeModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#javaHome()mill.api.Task$Simple",
+    -279707907
+  ],
+  [
+    "def build_.package_$app$#showModuleDeps(boolean)mill.api.Task$Command",
+    -1118326490
+  ],
+  [
+    "call mill.javalib.RunModule.runClasspath$(mill.javalib.RunModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$JavaModule$$super$runClasspath()mill.api.Task$Simple",
+    -18708647
+  ],
+  [
+    "call mill.scalalib.ScalaModule.scalaDocPluginMvnDeps$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#scalaDocPluginMvnDeps()mill.api.Task$Simple",
+    -167387669
+  ],
+  [
+    "call mill.javalib.AssemblyModule.prependShellScript$(mill.javalib.AssemblyModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#prependShellScript()mill.api.Task$Simple",
+    1067656462
+  ],
+  [
+    "external mainargs.Leftover",
+    1752719800
+  ],
+  [
+    "call mainargs.Leftover#value()scala.collection.immutable.Seq",
+    1752719800
+  ],
+  [
+    "external scala.collection.StrictOptimizedIterableOps",
+    1752719800
+  ],
+  [
+    "external scala.collection.StrictOptimizedSeqOps",
+    -351347746
+  ],
+  [
+    "external scala.collection.immutable.StrictOptimizedSeqOps",
+    -2017235342
+  ],
+  [
+    "external scala.collection.LinearSeqOps",
+    -2104067546
+  ],
+  [
+    "external scala.collection.immutable.LinearSeqOps",
+    525012154
+  ],
+  [
+    "external scala.collection.LinearSeq",
+    -264515542
+  ],
+  [
+    "external scala.collection.immutable.LinearSeq",
+    -1231726576
+  ],
+  [
+    "external scala.collection.AbstractIterable",
+    -1665887596
+  ],
+  [
+    "external scala.collection.AbstractSeq",
+    -264515542
+  ],
+  [
+    "external scala.collection.immutable.AbstractSeq",
+    2100048616
+  ],
+  [
+    "external scala.collection.generic.DefaultSerializable",
+    876359900
+  ],
+  [
+    "external scala.collection.StrictOptimizedLinearSeqOps",
+    -2017235342
+  ],
+  [
+    "external scala.collection.immutable.List",
+    2005178552
+  ],
+  [
+    "call scala.collection.immutable.Seq#apply(int)java.lang.Object",
+    1653830806
+  ],
+  [
+    "call mainargs.Leftover.<clinit>()void",
+    0
+  ],
+  [
+    "call mill.api.Evaluator.<clinit>()void",
+    0
+  ],
+  [
+    "call mill.util.MainModule.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$.func$19$$anonfun$6(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    1128295958
+  ],
+  [
+    "call mill.api.Discover$ClassInfo.<clinit>()void",
+    0
+  ],
+  [
+    "external mill.api.Discover$ClassInfo",
+    438179950
+  ],
+  [
+    "call mill.api.Discover$ClassInfo!<init>(scala.collection.immutable.Seq,scala.collection.immutable.Seq)void",
+    -1492223188
+  ],
+  [
+    "call scala.package$.<clinit>()void",
+    0
+  ],
+  [
+    "call scala.collection.immutable.$colon$colon.<clinit>()void",
+    0
+  ],
+  [
+    "external scala.package$",
+    438179950
+  ],
+  [
+    "call scala.package$#Nil()scala.collection.immutable.Nil$",
+    438179950
+  ],
+  [
+    "external mill.api.Discover$TaskInfo",
+    438179950
+  ],
+  [
+    "call mill.api.Discover$TaskInfo!<init>(java.lang.String)void",
+    -1227707646
+  ],
+  [
+    "external scala.collection.immutable.$colon$colon",
+    -1413428844
+  ],
+  [
+    "call scala.collection.immutable.$colon$colon!<init>(java.lang.Object,scala.collection.immutable.List)void",
+    1029929658
+  ],
+  [
+    "call scala.collection.immutable.Nil$.<clinit>()void",
+    0
+  ],
+  [
+    "call mill.api.Discover$TaskInfo.<clinit>()void",
+    0
+  ],
+  [
+    "call java.lang.Object.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$#func$2()mill.api.Discover$ClassInfo",
+    1116653975
+  ],
+  [
+    "call build_.MillMiscInfo$#topLevelProjectRoot()os.Path",
+    438179950
+  ],
+  [
+    "def build_.MillMiscInfo.topLevelProjectRoot()os.Path",
+    -2096142663
+  ],
+  [
+    "call mill.javalib.JavaModule.allSources$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#allSources()mill.api.Task$Simple",
+    -254791755
+  ],
+  [
+    "call build_.MillMiscInfo$#output()os.Path",
+    438179950
+  ],
+  [
+    "def build_.MillMiscInfo.output()os.Path",
+    -1368341482
+  ],
+  [
+    "call mill.javalib.AssemblyModule.manifest$(mill.javalib.AssemblyModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mill$scalalib$ScalaModule$$super$manifest()mill.api.Task$Simple",
+    -1798748358
+  ],
+  [
+    "def build_.package_$#func$7()mill.api.Discover$ClassInfo",
+    58159945
+  ],
+  [
+    "call mill.javalib.RunModule.forkWorkingDir$(mill.javalib.RunModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#forkWorkingDir()mill.api.Task$Simple",
+    555422063
+  ],
+  [
+    "call mill.javalib.JavaModule.resolvedRunMvnDeps$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#resolvedRunMvnDeps()mill.api.Task$Simple",
+    1104858959
+  ],
+  [
+    "call mill.javalib.JavaModule.bspBuildTargetCompileMerged$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bspBuildTargetCompileMerged()mill.api.Task$Simple",
+    1048877399
+  ],
+  [
+    "def build_.package_$.func$13$$anonfun$3(mill.javalib.TestModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1924491941
+  ],
+  [
+    "def build_.package_$app$test$#semanticDbJavaVersion()mill.api.Task$Simple",
+    -864983433
+  ],
+  [
+    "call mill.javalib.RunModule.allForkEnv$(mill.javalib.RunModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#allForkEnv()mill.api.Task$Simple",
+    865853882
+  ],
+  [
+    "def build_.package_$app$#bspCompiledClassesAndSemanticDbFiles()mill.api.Task$Simple",
+    1056105063
+  ],
+  [
+    "call mill.javalib.JavaModule.compileMvnDeps$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#compileMvnDeps()mill.api.Task$Simple",
+    1239799001
+  ],
+  [
+    "call mill.javalib.JavaModule.transitiveJars$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#transitiveJars()mill.api.Task$Simple",
+    1979774187
+  ],
+  [
+    "call mill.javalib.JavaModule.localCompileClasspath$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#localCompileClasspath()mill.api.Task$Simple",
+    1706920472
+  ],
+  [
+    "call mill.scalalib.ScalaModule.mandatoryMvnDeps$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$TestModule$Utest$$super$mandatoryMvnDeps()mill.api.Task$Simple",
+    -1363828820
+  ],
+  [
+    "call mill.javalib.TestModule.defaultTask$(mill.javalib.TestModule)java.lang.String",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#defaultTask()java.lang.String",
+    1352297346
+  ],
+  [
+    "external java.lang.Throwable",
+    876359900
+  ],
+  [
+    "external java.lang.Exception",
+    876359900
+  ],
+  [
+    "external java.lang.RuntimeException",
+    876359900
+  ],
+  [
+    "external java.lang.NullPointerException",
+    876359900
+  ],
+  [
+    "call java.lang.NullPointerException!<init>()void",
+    876359900
+  ],
+  [
+    "call mill.api.EnclosingClass.<clinit>()void",
+    0
+  ],
+  [
+    "call build_.package_$app$#moduleNestedCtx()mill.api.ModuleCtx$Nested",
+    438179950
+  ],
+  [
+    "call scala.runtime.Statics.releaseFence()void",
+    0
+  ],
+  [
+    "external mill.api.ModuleCtx$Nested",
+    438179950
+  ],
+  [
+    "external mill.api.ModuleCtx",
+    876359900
+  ],
+  [
+    "call mill.api.Module$BaseClass!<init>(mill.api.ModuleCtx)void",
+    -1665887596
+  ],
+  [
+    "call scala.runtime.Statics.<clinit>()void",
+    0
+  ],
+  [
+    "call mill.api.Module.$init$(mill.api.Module)void",
+    438179950
+  ],
+  [
+    "call mill.api.Module$BaseClass.<clinit>()void",
+    0
+  ],
+  [
+    "call java.lang.NullPointerException.<clinit>()void",
+    0
+  ],
+  [
+    "call mill.javalib.JavaModule$JavaTests.$init$(mill.javalib.JavaModule$JavaTests)void",
+    644104220
+  ],
+  [
+    "call mill.api.ModuleCtx$.<clinit>()void",
+    0
+  ],
+  [
+    "external java.lang.reflect.AnnotatedElement",
+    438179950
+  ],
+  [
+    "external java.lang.reflect.GenericDeclaration",
+    876359900
+  ],
+  [
+    "external java.lang.reflect.Type",
+    438179950
+  ],
+  [
+    "external java.lang.invoke.TypeDescriptor",
+    438179950
+  ],
+  [
+    "external java.lang.invoke.TypeDescriptor$OfField",
+    876359900
+  ],
+  [
+    "external java.lang.Class",
+    -351347746
+  ],
+  [
+    "call java.lang.Class#getDeclaredField(java.lang.String)java.lang.reflect.Field",
+    -2017235342
+  ],
+  [
+    "external java.lang.reflect.AccessibleObject",
+    876359900
+  ],
+  [
+    "external java.lang.reflect.Member",
+    438179950
+  ],
+  [
+    "external java.lang.reflect.Field",
+    1314539850
+  ],
+  [
+    "call scala.runtime.LazyVals$#getOffsetStatic(java.lang.reflect.Field)long",
+    1752719800
+  ],
+  [
+    "call java.lang.Class.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$app$.<clinit>()void",
+    -1408245421
+  ],
+  [
+    "call build_.package_$app$.<clinit>()void",
+    -1408245421
+  ],
+  [
+    "external mill.api.LowPriCtx",
+    438179950
+  ],
+  [
+    "external mill.api.ModuleCtx$",
+    1314539850
+  ],
+  [
+    "external mill.api.EnclosingClass",
+    1752719800
+  ],
+  [
+    "call mill.api.ModuleCtx$#makeNested(sourcecode.Enclosing,sourcecode.Line,sourcecode.File,mill.api.EnclosingClass,mill.api.ModuleCtx$Nested)mill.api.ModuleCtx",
+    173664408
+  ],
+  [
+    "call mill.api.EnclosingClass!<init>(java.lang.Class)void",
+    1401372054
+  ],
+  [
+    "def build_.package_$app$test$#<init>(build_.package_$app$)void",
+    2103998469
+  ],
+  [
+    "call build_.package_$app$test$!<init>(build_.package_$app$)void",
+    2103998469
+  ],
+  [
+    "def build_.package_$app$test$.<clinit>()void",
+    -1906943183
+  ],
+  [
+    "call build_.package_$app$test$.<clinit>()void",
+    -1906943183
+  ],
+  [
+    "def build_.package_$app$#test$lzyINIT1()java.lang.Object",
+    -1696318936
+  ],
+  [
+    "call mill.util.SelectiveExecutionModule.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$.func$20$$anonfun$1(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1447591489
+  ],
+  [
+    "external mill.javalib.TestModule$Utest",
+    1082284170
+  ],
+  [
+    "call mill.javalib.TestModule$Utest.utestVersion$(mill.javalib.TestModule$Utest)mill.api.Task$Simple",
+    1082284170
+  ],
+  [
+    "call mill.javalib.TestModule$Utest.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$app$test$#utestVersion()mill.api.Task$Simple",
+    1411243629
+  ],
+  [
+    "call mill.scalalib.ScalaModule.consoleScalacOptions$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#consoleScalacOptions()mill.api.Task$Simple",
+    1104770177
+  ],
+  [
+    "def build_.package_$.func$19$$anonfun$3(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    -907302967
+  ],
+  [
+    "def build_.package_$app$test$#resolvedRunMvnDeps()mill.api.Task$Simple",
+    1104858959
+  ],
+  [
+    "def build_.package_$app$#scalaDocPluginMvnDeps()mill.api.Task$Simple",
+    -167387669
+  ],
+  [
+    "call mill.javalib.JavaModule$JavaTests.javacOptions$(mill.javalib.JavaModule$JavaTests)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#javacOptions()mill.api.Task$Simple",
+    -1787574437
+  ],
+  [
+    "call mill.scalalib.ScalaModule.scalaDocGenerated$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#scalaDocGenerated()mill.api.Task$Simple",
+    1209072765
+  ],
+  [
+    "call mill.javalib.SemanticDbJavaModule.semanticDbVersion$(mill.javalib.SemanticDbJavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#semanticDbVersion()mill.api.Task$Simple",
+    2099820971
+  ],
+  [
+    "def build_.package_$.func$19$$anonfun$12(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    135985184
+  ],
+  [
+    "call mill.javalib.JavaModule.depManagement$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$JavaModule$JavaTests$$super$depManagement()mill.api.Task$Simple",
+    1412398909
+  ],
+  [
+    "call mill.javalib.CoursierModule.checkGradleModules$(mill.javalib.CoursierModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#checkGradleModules()mill.api.Task$Simple",
+    -224154733
+  ],
+  [
+    "call mill.scalalib.ScalaModule$ScalaTests.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$app$test$#mill$scalalib$ScalaModule$ScalaTests$$$outer()mill.scalalib.ScalaModule",
+    1284422137
+  ],
+  [
+    "external mill.scalalib.ScalaModule$ScalaTests",
+    -1284156769
+  ],
+  [
+    "call mill.scalalib.ScalaModule$ScalaTests.scalacOptions$(mill.scalalib.ScalaModule$ScalaTests)mill.api.Task$Simple",
+    -1284156769
+  ],
+  [
+    "def build_.package_$app$test$#scalacOptions()mill.api.Task$Simple",
+    2036467721
+  ],
+  [
+    "def build_.package_$#func$15()mill.api.Discover$ClassInfo",
+    1617544901
+  ],
+  [
+    "call mill.javalib.JavaModule.mandatoryMvnDeps$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mill$scalalib$ScalaModule$$super$mandatoryMvnDeps()mill.api.Task$Simple",
+    -194534550
+  ],
+  [
+    "call mill.javalib.JavaModule.mandatoryJavacOptions$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mandatoryJavacOptions()mill.api.Task$Simple",
+    461105365
+  ],
+  [
+    "def build_.package_$.func$13$$anonfun$4(mill.javalib.TestModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1302229020
+  ],
+  [
+    "def build_.package_$app$test$#mill$scalalib$ScalaModule$$super$manifest()mill.api.Task$Simple",
+    -1798748358
+  ],
+  [
+    "call mill.javalib.JavaModule.runMvnDeps$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#runMvnDeps()mill.api.Task$Simple",
+    434539236
+  ],
+  [
+    "call mill.javalib.JavaModule#showModuleDeps$default$1()boolean",
+    1932312660
+  ],
+  [
+    "def build_.package_$.func$8$$anonfun$2(mill.javalib.JavaModule)boolean",
+    -621294600
+  ],
+  [
+    "def build_.package_$.func$17$$anonfun$4(mill.scalalib.ScalaModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1686350169
+  ],
+  [
+    "call build_.package_$.func$17$$anonfun$4(mill.scalalib.ScalaModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1686350169
+  ],
+  [
+    "external scala.runtime.ScalaRunTime$",
+    438179950
+  ],
+  [
+    "call scala.runtime.ScalaRunTime$#wrapRefArray(java.lang.Object[])scala.collection.immutable.ArraySeq",
+    438179950
+  ],
+  [
+    "call scala.collection.immutable.List$.<clinit>()void",
+    0
+  ],
+  [
+    "external mainargs.arg$",
+    876359900
+  ],
+  [
+    "call mainargs.arg$#$lessinit$greater$default$6()boolean",
+    876359900
+  ],
+  [
+    "call mainargs.arg.<clinit>()void",
+    0
+  ],
+  [
+    "call mainargs.main$.<clinit>()void",
+    0
+  ],
+  [
+    "call mainargs.ArgSig$.<clinit>()void",
+    0
+  ],
+  [
+    "external scala.annotation.StaticAnnotation",
+    438179950
+  ],
+  [
+    "external scala.annotation.ConstantAnnotation",
+    876359900
+  ],
+  [
+    "external scala.annotation.ClassfileAnnotation",
+    1314539850
+  ],
+  [
+    "external scala.annotation.Annotation",
+    438179950
+  ],
+  [
+    "external mainargs.arg",
+    1752719800
+  ],
+  [
+    "call mainargs.arg!<init>(java.lang.String,char,java.lang.String,boolean,boolean,boolean)void",
+    86832204
+  ],
+  [
+    "call mainargs.arg$#$lessinit$greater$default$2()char",
+    876359900
+  ],
+  [
+    "call mainargs.TokensReader$StringRead$.<clinit>()void",
+    0
+  ],
+  [
+    "external scala.collection.IterableFactory",
+    876359900
+  ],
+  [
+    "external scala.collection.SeqFactory",
+    1314539850
+  ],
+  [
+    "external scala.collection.StrictOptimizedSeqFactory",
+    1752719800
+  ],
+  [
+    "external scala.collection.immutable.List$",
+    -2104067546
+  ],
+  [
+    "call scala.collection.immutable.List$#apply(scala.collection.immutable.Seq)java.lang.Object",
+    260496612
+  ],
+  [
+    "call scala.runtime.ScalaRunTime$.<clinit>()void",
+    0
+  ],
+  [
+    "call scala.None$.<clinit>()void",
+    0
+  ],
+  [
+    "external mainargs.main$",
+    876359900
+  ],
+  [
+    "call mainargs.main$#$lessinit$greater$default$2()java.lang.String",
+    876359900
+  ],
+  [
+    "call mainargs.arg$#$lessinit$greater$default$4()boolean",
+    876359900
+  ],
+  [
+    "call mainargs.TokensReader$.<clinit>()void",
+    0
+  ],
+  [
+    "external mainargs.TokensReader",
+    438179950
+  ],
+  [
+    "external mainargs.TokensReader$Terminal",
+    876359900
+  ],
+  [
+    "external mainargs.TokensReader$ShortNamed",
+    1314539850
+  ],
+  [
+    "external mainargs.TokensReader$Simple",
+    1752719800
+  ],
+  [
+    "external mainargs.TokensReader$",
+    876359900
+  ],
+  [
+    "call mainargs.TokensReader$#LeftoverRead(mainargs.TokensReader$Simple)mainargs.TokensReader$Leftover",
+    -1665887596
+  ],
+  [
+    "call mainargs.arg$#$lessinit$greater$default$1()java.lang.String",
+    876359900
+  ],
+  [
+    "def build_.package_$.func$17$$anonfun$1(mill.scalalib.ScalaModule,scala.collection.immutable.Seq)java.lang.Object",
+    15316355
+  ],
+  [
+    "call build_.package_$.func$17$$anonfun$1(mill.scalalib.ScalaModule,scala.collection.immutable.Seq)java.lang.Object",
+    15316355
+  ],
+  [
+    "call scala.package$#List()scala.collection.immutable.List$",
+    438179950
+  ],
+  [
+    "def build_.package_$.func$17$$anonfun$3(mill.scalalib.ScalaModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1935986030
+  ],
+  [
+    "call build_.package_$.func$17$$anonfun$3(mill.scalalib.ScalaModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1935986030
+  ],
+  [
+    "call mainargs.Flag.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$.func$17$$anonfun$2(mill.scalalib.ScalaModule,scala.collection.immutable.Seq)java.lang.Object",
+    1748036803
+  ],
+  [
+    "call build_.package_$.func$17$$anonfun$2(mill.scalalib.ScalaModule,scala.collection.immutable.Seq)java.lang.Object",
+    1748036803
+  ],
+  [
+    "call mainargs.arg$.<clinit>()void",
+    0
+  ],
+  [
+    "external mainargs.main",
+    1752719800
+  ],
+  [
+    "call mainargs.main!<init>(java.lang.String,java.lang.String)void",
+    86832204
+  ],
+  [
+    "external scala.Option",
+    -2104067546
+  ],
+  [
+    "external mainargs.ArgSig$",
+    876359900
+  ],
+  [
+    "call mainargs.ArgSig$#create(java.lang.String,mainargs.arg,scala.Option,mainargs.TokensReader)mainargs.ArgSig",
+    -702695492
+  ],
+  [
+    "call mainargs.main$#$lessinit$greater$default$1()java.lang.String",
+    876359900
+  ],
+  [
+    "call mainargs.arg$#$lessinit$greater$default$3()java.lang.String",
+    876359900
+  ],
+  [
+    "external scala.Function2",
+    438179950
+  ],
+  [
+    "external mainargs.MainData$",
+    876359900
+  ],
+  [
+    "call mainargs.MainData$#create(java.lang.String,mainargs.main,scala.collection.immutable.Seq,scala.Function2)mainargs.MainData",
+    -529031084
+  ],
+  [
+    "call mainargs.MainData$.<clinit>()void",
+    0
+  ],
+  [
+    "call mainargs.main.<clinit>()void",
+    0
+  ],
+  [
+    "call mainargs.TokensReader$FlagRead$.<clinit>()void",
+    0
+  ],
+  [
+    "call mainargs.arg$#$lessinit$greater$default$5()boolean",
+    876359900
+  ],
+  [
+    "def build_.package_$#func$17()mill.api.Discover$ClassInfo",
+    -102988826
+  ],
+  [
+    "def build_.package_$app$#sources()mill.api.Task$Simple",
+    -595821298
+  ],
+  [
+    "call mill.javalib.AssemblyModule.assembly$(mill.javalib.AssemblyModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#assembly()mill.api.Task$Simple",
+    -676489397
+  ],
+  [
+    "def build_.package_$#millDiscover()mill.api.Discover",
+    -268097599
+  ],
+  [
+    "call build_.package_!<init>()void",
+    -1308779985
+  ],
+  [
+    "def build_.package_.<clinit>()void",
+    1789752978
+  ],
+  [
+    "call build_.package_.<clinit>()void",
+    1789752978
+  ],
+  [
+    "def build_.package_$#<init>()void",
+    191218527
+  ],
+  [
+    "call build_.package_$!<init>()void",
+    191218527
+  ],
+  [
+    "def build_.package_$.<clinit>()void",
+    -655624776
+  ],
+  [
+    "call build_.package_$.<clinit>()void",
+    -655624776
+  ],
+  [
+    "def build_.BuildFileImpl$.BuildFileImpl$$superArg$1$$anonfun$1()mill.api.internal.RootModule",
+    293036163
+  ],
+  [
+    "call build_.BuildFileImpl$.BuildFileImpl$$superArg$1$$anonfun$1()mill.api.internal.RootModule",
+    293036163
+  ],
+  [
+    "def build_.BuildFileImpl$.$deserializeLambda$(java.lang.invoke.SerializedLambda)java.lang.Object",
+    -1780513918
+  ],
+  [
+    "call java.lang.String.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$.func$11$$anonfun$8(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object",
+    1837923050
+  ],
+  [
+    "def build_.package_$app$test$#showModuleDeps(boolean)mill.api.Task$Command",
+    -1118326490
+  ],
+  [
+    "call mill.javalib.TestModule.testForkGrouping$(mill.javalib.TestModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#testForkGrouping()mill.api.Task$Simple",
+    1652969026
+  ],
+  [
+    "call mill.javalib.AssemblyModule.manifest0$(mill.javalib.AssemblyModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#manifest0()mill.api.Task$Simple",
+    2058334259
+  ],
+  [
+    "call mill.scalalib.ScalaModule.mandatoryScalacOptions$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$scalalib$ScalaModule$ScalaTests$$super$mandatoryScalacOptions()mill.api.Task$Simple",
+    -1837978001
+  ],
+  [
+    "call mill.javalib.JavaModule.compileClasspath$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#compileClasspath()mill.api.Task$Simple",
+    182581260
+  ],
+  [
+    "call mill.javalib.RunModule.forkArgs$(mill.javalib.RunModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#forkArgs()mill.api.Task$Simple",
+    -334094415
+  ],
+  [
+    "external upickle.core.Config",
+    438179950
+  ],
+  [
+    "external upickle.core.Types",
+    438179950
+  ],
+  [
+    "external upickle.implicits.CaseClassReadWriters",
+    876359900
+  ],
+  [
+    "external upickle.core.Annotator",
+    438179950
+  ],
+  [
+    "external upickle.implicits.MacrosCommon",
+    1314539850
+  ],
+  [
+    "external upickle.implicits.ReadersVersionSpecific",
+    -1227707646
+  ],
+  [
+    "external upickle.implicits.TupleReadWriters",
+    876359900
+  ],
+  [
+    "external upickle.implicits.Generated",
+    1314539850
+  ],
+  [
+    "external upickle.implicits.Readers",
+    525012154
+  ],
+  [
+    "external upickle.implicits.WritersVersionSpecific",
+    -1227707646
+  ],
+  [
+    "external upickle.implicits.LowPriWriters",
+    876359900
+  ],
+  [
+    "external upickle.implicits.Writers",
+    1401372054
+  ],
+  [
+    "external upickle.implicits.MacroImplicits",
+    -1930403138
+  ],
+  [
+    "external upickle.MsgReadWriters",
+    -1492223188
+  ],
+  [
+    "external upickle.LowPriReadWriters",
+    438179950
+  ],
+  [
+    "external upickle.JsReadWriters",
+    -1054043238
+  ],
+  [
+    "external upickle.WebJson",
+    876359900
+  ],
+  [
+    "external upickle.Api",
+    -1231726576
+  ],
+  [
+    "external upickle.AttributeTagged",
+    -793546626
+  ],
+  [
+    "external upickle.default$",
+    -896454550
+  ],
+  [
+    "call upickle.default$#ReadWriter()upickle.core.Types$ReadWriter$",
+    -896454550
+  ],
+  [
+    "call upickle.default$.<clinit>()void",
+    0
+  ],
+  [
+    "call mill.api.Task$Computed.<clinit>()void",
+    0
+  ],
+  [
+    "external upickle.core.Transformer",
+    438179950
+  ],
+  [
+    "external upickle.core.Types$Writer",
+    876359900
+  ],
+  [
+    "external upickle.core.Types$ReadWriter$",
+    876359900
+  ],
+  [
+    "external upickle.core.Visitor",
+    438179950
+  ],
+  [
+    "external upickle.core.Types$Reader",
+    876359900
+  ],
+  [
+    "call upickle.core.Types$ReadWriter$#join(upickle.core.Types$Reader,upickle.core.Types$Writer)upickle.core.Types$ReadWriter",
+    -1665887596
+  ],
+  [
+    "external mill.api.Task$Simple",
+    1752719800
+  ],
+  [
+    "external mill.api.Task$Computed",
+    86832204
+  ],
+  [
+    "external upickle.core.Types$ReadWriter",
+    -2104067546
+  ],
+  [
+    "call mill.api.Task$Computed!<init>(scala.collection.immutable.Seq,scala.Function2,mill.api.ModuleCtx,upickle.core.Types$ReadWriter,scala.Option,boolean)void",
+    -442198880
+  ],
+  [
+    "external scala.Some$",
+    876359900
+  ],
+  [
+    "call scala.Some$#apply(java.lang.Object)scala.Some",
+    1314539850
+  ],
+  [
+    "call upickle.default$#StringWriter()upickle.core.Types$Writer",
+    -896454550
+  ],
+  [
+    "call scala.runtime.BoxesRunTime.<clinit>()void",
+    0
+  ],
+  [
+    "call upickle.default$#StringReader()upickle.core.Types$Reader",
+    -896454550
+  ],
+  [
+    "external mill.api.exports$package$",
+    876359900
+  ],
+  [
+    "call mill.api.exports$package$#Result()mill.api.daemon.Result$",
+    876359900
+  ],
+  [
+    "call mill.api.exports$package$.<clinit>()void",
+    0
+  ],
+  [
+    "call mill.api.daemon.Result$Success$.<clinit>()void",
+    0
+  ],
+  [
+    "external scala.deriving.Mirror",
+    438179950
+  ],
+  [
+    "external scala.deriving.Mirror$Product",
+    876359900
+  ],
+  [
+    "external mill.api.daemon.Result$Success$",
+    1752719800
+  ],
+  [
+    "call mill.api.daemon.Result$Success$#apply(java.lang.Object)mill.api.daemon.Result$Success",
+    -2104067546
+  ],
+  [
+    "def build_.package_.build_$package_$app$$$_$scalaVersion$$anonfun$1$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result",
+    -161164926
+  ],
+  [
+    "call build_.package_.build_$package_$app$$$_$scalaVersion$$anonfun$1$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result",
+    -161164926
+  ],
+  [
+    "call upickle.core.Types$ReadWriter$.<clinit>()void",
+    0
+  ],
+  [
+    "call scala.runtime.BoxesRunTime.boxToBoolean(boolean)java.lang.Boolean",
+    0
+  ],
+  [
+    "call scala.Some$.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$app$#scalaVersion$$anonfun$1()mill.api.Task$Simple",
+    -1180247908
+  ],
+  [
+    "external mill.api.daemon.internal.BuildFileApi",
+    438179950
+  ],
+  [
+    "external mill.api.internal.BuildFileCls",
+    876359900
+  ],
+  [
+    "call build_.BuildFileImpl$#moduleWatchedValues()scala.collection.immutable.Seq",
+    876359900
+  ],
+  [
+    "external scala.Function0",
+    438179950
+  ],
+  [
+    "call mill.api.internal.BuildFileCls!<init>(scala.Function0)void",
+    1314539850
+  ],
+  [
+    "call mill.api.internal.BuildFileCls.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.BuildFileImpl$.BuildFileImpl$$superArg$1()scala.Function0",
+    1846986673
+  ],
+  [
+    "call build_.BuildFileImpl$.BuildFileImpl$$superArg$1()scala.Function0",
+    1846986673
+  ],
+  [
+    "def build_.BuildFileImpl$#<init>()void",
+    -1797209896
+  ],
+  [
+    "call build_.BuildFileImpl$!<init>()void",
+    -1797209896
+  ],
+  [
+    "def build_.BuildFileImpl$.<clinit>()void",
+    -1266105890
+  ],
+  [
+    "call build_.BuildFileImpl$.<clinit>()void",
+    -1266105890
+  ],
+  [
+    "def build_.BuildFileImpl.moduleWatchedValues()scala.collection.immutable.Seq",
+    1472412011
+  ],
+  [
+    "call mill.javalib.JavaModule$JavaTests.resources$(mill.javalib.JavaModule$JavaTests)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#resources()mill.api.Task$Simple",
+    509148655
+  ],
+  [
+    "call mill.javalib.JavaModule.upstreamAssemblyClasspath$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#upstreamAssemblyClasspath()mill.api.Task$Simple",
+    1766400776
+  ],
+  [
+    "def build_.package_$.func$11$$anonfun$6(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object",
+    674389972
+  ],
+  [
+    "def build_.package_$app$test$#prepareOffline(mainargs.Flag)mill.api.Task$Command",
+    -923396412
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$TestModule$$super$allForkEnv()mill.api.Task$Simple",
+    865853882
+  ],
+  [
+    "def build_.package_$app$#runMainLocal(java.lang.String,scala.collection.immutable.Seq)mill.api.Task$Command",
+    -131336237
+  ],
+  [
+    "def build_.package_$app$test$#testOnly(scala.collection.immutable.Seq)mill.api.Task$Command",
+    -704024061
+  ],
+  [
+    "def build_.package_$.func$19$$anonfun$2(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    -2092799173
+  ],
+  [
+    "call mill.scalalib.ScalaModule.scalaDocPluginClasspath$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#scalaDocPluginClasspath()mill.api.Task$Simple",
+    -1531437710
+  ],
+  [
+    "call mill.javalib.SemanticDbJavaModule.semanticDbEnablePluginScalacOptions$(mill.javalib.SemanticDbJavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#semanticDbEnablePluginScalacOptions()mill.api.Task$Simple",
+    1788576809
+  ],
+  [
+    "call mill.javalib.JavaModule.javadocOptions$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#javadocOptions()mill.api.Task$Simple",
+    -14294455
+  ],
+  [
+    "call mill.javalib.JavaModule.artifactNameParts$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#artifactNameParts()mill.api.Task$Simple",
+    -457090506
+  ],
+  [
+    "call mill.scalalib.ScalaModule.scalaCompilerClasspath$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#scalaCompilerClasspath()mill.api.Task$Simple",
+    -1588576536
+  ],
+  [
+    "def build_.package_$.func$19$$anonfun$8(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1351785781
+  ],
+  [
+    "call mill.scalalib.ScalaModule$ScalaTests.scalacPluginMvnDeps$(mill.scalalib.ScalaModule$ScalaTests)mill.api.Task$Simple",
+    -1284156769
+  ],
+  [
+    "def build_.package_$app$test$#scalacPluginMvnDeps()mill.api.Task$Simple",
+    1924894825
+  ],
+  [
+    "call mill.javalib.RunModule.forkEnv$(mill.javalib.RunModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#forkEnv()mill.api.Task$Simple",
+    -1369591866
+  ],
+  [
+    "def build_.package_$app$test$#build_$package_$app$test$$$$outer()build_.package_$app$",
+    1284422137
+  ],
+  [
+    "call mill.javalib.JavaModule.unmanagedClasspath$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#unmanagedClasspath()mill.api.Task$Simple",
+    212056429
+  ],
+  [
+    "call mill.scalalib.ScalaModule.docSources$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#docSources()mill.api.Task$Simple",
+    952861573
+  ],
+  [
+    "def build_.package_$app$#compileMvnDeps()mill.api.Task$Simple",
+    1239799001
+  ],
+  [
+    "call mill.scalalib.ScalaModule.semanticDbData$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#semanticDbData()mill.api.Task$Simple",
+    -1518949292
+  ],
+  [
+    "call mill.javalib.TestModule.allForkEnv$(mill.javalib.TestModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#allForkEnv()mill.api.Task$Simple",
+    1125472413
+  ],
+  [
+    "call mill.javalib.OfflineSupportModule.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$.func$10$$anonfun$1(mill.javalib.OfflineSupportModule,scala.collection.immutable.Seq)java.lang.Object",
+    1691880005
+  ],
+  [
+    "call build_.package_$.func$10$$anonfun$1(mill.javalib.OfflineSupportModule,scala.collection.immutable.Seq)java.lang.Object",
+    1691880005
+  ],
+  [
+    "def build_.package_$#func$10()mill.api.Discover$ClassInfo",
+    428672483
+  ],
+  [
+    "call build_.BuildFileImpl$#rootModule()mill.api.daemon.internal.RootModuleApi",
+    876359900
+  ],
+  [
+    "def build_.BuildFileImpl.rootModule()mill.api.daemon.internal.RootModuleApi",
+    -428546091
+  ],
+  [
+    "def build_.package_$app$#scalacHelp(scala.collection.immutable.Seq)mill.api.Task$Command",
+    -163018000
+  ],
+  [
+    "def build_.package_$.func$20$$anonfun$3(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    -365367487
+  ],
+  [
+    "call build_.package_$.func$20$$anonfun$3(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    -365367487
+  ],
+  [
+    "call build_.package_$.func$20$$anonfun$1(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1447591489
+  ],
+  [
+    "def build_.package_$.func$20$$anonfun$4(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1737303821
+  ],
+  [
+    "call build_.package_$.func$20$$anonfun$4(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1737303821
+  ],
+  [
+    "def build_.package_$.func$20$$anonfun$5(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1005318942
+  ],
+  [
+    "call build_.package_$.func$20$$anonfun$5(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1005318942
+  ],
+  [
+    "call mill.util.TokenReaders$.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$.func$20$$anonfun$2(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    1354921567
+  ],
+  [
+    "call build_.package_$.func$20$$anonfun$2(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    1354921567
+  ],
+  [
+    "external mill.util.TokenReaders",
+    438179950
+  ],
+  [
+    "external mill.util.TokenReaders$",
+    1314539850
+  ],
+  [
+    "call mill.util.TokenReaders$#millEvaluatorTokenReader()mainargs.TokensReader",
+    1314539850
+  ],
+  [
+    "def build_.package_$#func$20()mill.api.Discover$ClassInfo",
+    -834239055
+  ],
+  [
+    "call mill.javalib.JavaModule.zincAuxiliaryClassFileExtensions$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$scalalib$ScalaModule$$super$zincAuxiliaryClassFileExtensions()mill.api.Task$Simple",
+    -109510320
+  ],
+  [
+    "call mill.javalib.JavaModule.bomMvnDeps$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#bomMvnDeps()mill.api.Task$Simple",
+    1285268177
+  ],
+  [
+    "def build_.package_$app$#semanticDbVersion()mill.api.Task$Simple",
+    2099820971
+  ],
+  [
+    "call mill.javalib.RunModule.allLocalMainClasses$(mill.javalib.RunModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#allLocalMainClasses()mill.api.Task$Simple",
+    -1211655284
+  ],
+  [
+    "call mill.javalib.SemanticDbJavaModule.semanticDbPluginMvnDeps$(mill.javalib.SemanticDbJavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#semanticDbPluginMvnDeps()mill.api.Task$Simple",
+    24986295
+  ],
+  [
+    "call mill.javalib.JavaModule.defaultTask$(mill.javalib.JavaModule)java.lang.String",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#defaultTask()java.lang.String",
+    -844090759
+  ],
+  [
+    "call mill.javalib.RunModule.propagateEnv$(mill.javalib.RunModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#propagateEnv()mill.api.Task$Simple",
+    594864730
+  ],
+  [
+    "def build_.package_$app$#console()mill.api.Task$Command",
+    -1104970539
+  ],
+  [
+    "call build_.package_$.func$13$$anonfun$4(mill.javalib.TestModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1302229020
+  ],
+  [
+    "def build_.package_$.func$13$$anonfun$1(mill.javalib.TestModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1330452613
+  ],
+  [
+    "call build_.package_$.func$13$$anonfun$1(mill.javalib.TestModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1330452613
+  ],
+  [
+    "def build_.package_$.func$13$$anonfun$2(mill.javalib.TestModule,scala.collection.immutable.Seq)java.lang.Object",
+    1544665207
+  ],
+  [
+    "call build_.package_$.func$13$$anonfun$2(mill.javalib.TestModule,scala.collection.immutable.Seq)java.lang.Object",
+    1544665207
+  ],
+  [
+    "call build_.package_$.func$13$$anonfun$3(mill.javalib.TestModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1924491941
+  ],
+  [
+    "def build_.package_$#func$13()mill.api.Discover$ClassInfo",
+    824988896
+  ],
+  [
+    "call mill.javalib.TestModule.testReportXml$(mill.javalib.TestModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#testReportXml()mill.api.Task$Simple",
+    1922791560
+  ],
+  [
+    "call mill.javalib.RunModule.finalMainClassOpt$(mill.javalib.RunModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#finalMainClassOpt()mill.api.Task$Simple",
+    -788550201
+  ],
+  [
+    "call mill.javalib.JavaModule.upstreamCompileOutput$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#upstreamCompileOutput()mill.api.Task$Simple",
+    -196845150
+  ],
+  [
+    "call build_.BuildFileImpl$#evalWatchedValues()scala.collection.mutable.Buffer",
+    876359900
+  ],
+  [
+    "def build_.BuildFileImpl.evalWatchedValues()scala.collection.mutable.Buffer",
+    -2085494707
+  ],
+  [
+    "call mill.javalib.JavaModule$JavaTests.javaHome$(mill.javalib.JavaModule$JavaTests)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#javaHome()mill.api.Task$Simple",
+    -1378678684
+  ],
+  [
+    "def build_.package_$#func$18()mill.api.Discover$ClassInfo",
+    208300893
+  ],
+  [
+    "def build_.package_$app$test$#forkArgs()mill.api.Task$Simple",
+    -334094415
+  ],
+  [
+    "def build_.package_$app$#build_$package_$app$$$$outer()build_.package_",
+    -504038006
+  ],
+  [
+    "def build_.package_$app$#mill$scalalib$ScalaModule$$super$prepareOffline(mainargs.Flag)mill.api.Task$Command",
+    -992731458
+  ],
+  [
+    "call mill.javalib.JavaModule.allMvnDeps$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#allMvnDeps()mill.api.Task$Simple",
+    304757993
+  ],
+  [
+    "def build_.package_$app$#repl(scala.collection.immutable.Seq)mill.api.Task$Command",
+    -745452994
+  ],
+  [
+    "def build_.package_$.func$19$$anonfun$1(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    834754355
+  ],
+  [
+    "call mill.javalib.JavaModule.artifactName$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#artifactName()mill.api.Task$Simple",
+    -917025155
+  ],
+  [
+    "call mill.api.internal.Cacher$.<clinit>()void",
+    0
+  ],
+  [
+    "external mill.api.internal.Cacher$",
+    876359900
+  ],
+  [
+    "call mill.api.internal.Cacher$#inline$cachedTask$i1(mill.api.internal.Cacher,scala.Function0,sourcecode.Enclosing)java.lang.Object",
+    -351347746
+  ],
+  [
+    "call mill.api.Task$Simple.<clinit>()void",
+    0
+  ],
+  [
+    "call scala.collection.immutable.Seq$.<clinit>()void",
+    0
+  ],
+  [
+    "call upickle.default$#SeqLikeWriter(upickle.core.Types$Writer)upickle.core.Types$Writer",
+    -20094650
+  ],
+  [
+    "external scala.collection.SeqFactory$Delegate",
+    1752719800
+  ],
+  [
+    "call scala.collection.immutable.Seq$#iterableFactory()scala.collection.Factory",
+    1752719800
+  ],
+  [
+    "external scala.collection.Factory",
+    438179950
+  ],
+  [
+    "call upickle.default$#SeqLikeReader(upickle.core.Types$Reader,scala.collection.Factory)upickle.core.Types$Reader",
+    418085300
+  ],
+  [
+    "call mill.javalib.Dep$.<clinit>()void",
+    0
+  ],
+  [
+    "external scala.StringContext$",
+    876359900
+  ],
+  [
+    "call scala.StringContext$#apply(scala.collection.immutable.Seq)scala.StringContext",
+    -1054043238
+  ],
+  [
+    "call scala.collection.SeqOps.<clinit>()void",
+    0
+  ],
+  [
+    "external mill.scalalib.exports$package$",
+    876359900
+  ],
+  [
+    "external scala.StringContext",
+    1752719800
+  ],
+  [
+    "call mill.scalalib.exports$package$#DepSyntax(scala.StringContext)scala.StringContext",
+    -1665887596
+  ],
+  [
+    "call scala.StringContext$.<clinit>()void",
+    0
+  ],
+  [
+    "call mill.javalib.package$DepSyntax$.<clinit>()void",
+    0
+  ],
+  [
+    "external mill.javalib.package$DepSyntax$",
+    876359900
+  ],
+  [
+    "call mill.javalib.package$DepSyntax$#mvn$extension(scala.StringContext,scala.collection.immutable.Seq)mill.javalib.Dep",
+    698676562
+  ],
+  [
+    "call scala.runtime.ScalaRunTime$#genericWrapArray(java.lang.Object)scala.collection.immutable.ArraySeq",
+    876359900
+  ],
+  [
+    "call mill.scalalib.exports$package$.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_.build_$package_$app$test$$$_$mvnDeps$$anonfun$2$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result",
+    1194442119
+  ],
+  [
+    "call build_.package_.build_$package_$app$test$$$_$mvnDeps$$anonfun$2$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result",
+    1194442119
+  ],
+  [
+    "call build_.package_$app$test$#moduleNestedCtx()mill.api.ModuleCtx$Nested",
+    438179950
+  ],
+  [
+    "external mill.javalib.Dep$",
+    1752719800
+  ],
+  [
+    "call mill.javalib.Dep$#rw()upickle.core.Types$ReadWriter",
+    1752719800
+  ],
+  [
+    "def build_.package_$app$test$#mvnDeps$$anonfun$2()mill.api.Task$Simple",
+    -2120854968
+  ],
+  [
+    "call build_.package_$app$test$!mvnDeps$$anonfun$2()mill.api.Task$Simple",
+    -2120854968
+  ],
+  [
+    "def build_.package_$app$test$#mvnDeps()mill.api.Task$Simple",
+    108554625
+  ],
+  [
+    "def build_.package_$app$test$#transitiveJars()mill.api.Task$Simple",
+    1979774187
+  ],
+  [
+    "def build_.package_$#func$1()mill.api.Discover$ClassInfo",
+    1116653975
+  ],
+  [
+    "call build_.package_$!func$1()mill.api.Discover$ClassInfo",
+    1116653975
+  ],
+  [
+    "external scala.Tuple2$",
+    876359900
+  ],
+  [
+    "call scala.Tuple2$#apply(java.lang.Object,java.lang.Object)scala.Tuple2",
+    1314539850
+  ],
+  [
+    "call mill.api.Discover.<clinit>()void",
+    0
+  ],
+  [
+    "call scala.Predef$.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$#func$14()mill.api.Discover$ClassInfo",
+    869873646
+  ],
+  [
+    "call build_.package_$!func$14()mill.api.Discover$ClassInfo",
+    869873646
+  ],
+  [
+    "external scala.LowPriorityImplicits2",
+    438179950
+  ],
+  [
+    "external scala.LowPriorityImplicits",
+    438179950
+  ],
+  [
+    "external scala.Predef$",
+    438179950
+  ],
+  [
+    "call scala.Predef$#Map()scala.collection.immutable.Map$",
+    438179950
+  ],
+  [
+    "external scala.collection.MapFactory",
+    876359900
+  ],
+  [
+    "external scala.collection.immutable.Map$",
+    1314539850
+  ],
+  [
+    "call scala.collection.immutable.Map$#apply(scala.collection.immutable.Seq)java.lang.Object",
+    -615863288
+  ],
+  [
+    "call scala.Tuple2$.<clinit>()void",
+    0
+  ],
+  [
+    "call build_.package_$!func$7()mill.api.Discover$ClassInfo",
+    58159945
+  ],
+  [
+    "call scala.Tuple2.<clinit>()void",
+    0
+  ],
+  [
+    "call mill.javalib.MvnDepsTreeArgs.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$.func$8$$anonfun$5(mill.javalib.JavaModule,scala.collection.immutable.Seq)java.lang.Object",
+    2085105007
+  ],
+  [
+    "call build_.package_$.func$8$$anonfun$5(mill.javalib.JavaModule,scala.collection.immutable.Seq)java.lang.Object",
+    2085105007
+  ],
+  [
+    "call mainargs.TokensReader$BooleanRead$.<clinit>()void",
+    0
+  ],
+  [
+    "call build_.package_$.func$8$$anonfun$2(mill.javalib.JavaModule)boolean",
+    -621294600
+  ],
+  [
+    "def build_.package_$.func$8$$anonfun$1(mill.javalib.JavaModule,scala.collection.immutable.Seq)java.lang.Object",
+    415686271
+  ],
+  [
+    "call build_.package_$.func$8$$anonfun$1(mill.javalib.JavaModule,scala.collection.immutable.Seq)java.lang.Object",
+    415686271
+  ],
+  [
+    "call mill.javalib.MvnDepsTreeArgs$.<clinit>()void",
+    0
+  ],
+  [
+    "external mill.javalib.MvnDepsTreeArgs$",
+    876359900
+  ],
+  [
+    "call mill.javalib.MvnDepsTreeArgs$#argsReader()mainargs.ParserForClass",
+    876359900
+  ],
+  [
+    "call scala.runtime.BoxesRunTime.unboxToBoolean(java.lang.Object)boolean",
+    438179950
+  ],
+  [
+    "def build_.package_$.func$8$$anonfun$3(mill.javalib.JavaModule,scala.collection.immutable.Seq)java.lang.Object",
+    -376951787
+  ],
+  [
+    "call build_.package_$.func$8$$anonfun$3(mill.javalib.JavaModule,scala.collection.immutable.Seq)java.lang.Object",
+    -376951787
+  ],
+  [
+    "call mill.javalib.JavaModule#showMvnDepsTree$default$1()mill.javalib.MvnDepsTreeArgs",
+    1932312660
+  ],
+  [
+    "def build_.package_$.func$8$$anonfun$4(mill.javalib.JavaModule)mill.javalib.MvnDepsTreeArgs",
+    -814368189
+  ],
+  [
+    "call build_.package_$.func$8$$anonfun$4(mill.javalib.JavaModule)mill.javalib.MvnDepsTreeArgs",
+    -814368189
+  ],
+  [
+    "def build_.package_$#func$8()mill.api.Discover$ClassInfo",
+    800979468
+  ],
+  [
+    "call build_.package_$!func$8()mill.api.Discover$ClassInfo",
+    800979468
+  ],
+  [
+    "call scala.collection.immutable.Map.<clinit>()void",
+    0
+  ],
+  [
+    "external mill.api.Discover",
+    438179950
+  ],
+  [
+    "external scala.collection.MapOps",
+    -1665887596
+  ],
+  [
+    "external scala.collection.MapFactoryDefaults",
+    -1227707646
+  ],
+  [
+    "external scala.collection.Map",
+    1839552004
+  ],
+  [
+    "external scala.collection.immutable.MapOps",
+    -1227707646
+  ],
+  [
+    "external scala.collection.immutable.Map",
+    -615863288
+  ],
+  [
+    "call mill.api.Discover!<init>(scala.collection.immutable.Map)void",
+    -177683338
+  ],
+  [
+    "def build_.package_$.func$11$$anonfun$3(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object",
+    -2118182300
+  ],
+  [
+    "call build_.package_$.func$11$$anonfun$3(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object",
+    -2118182300
+  ],
+  [
+    "call mill.util.TokenReaders$#millTaskTokenReader(mainargs.TokensReader$ShortNamed)mainargs.TokensReader",
+    -1665887596
+  ],
+  [
+    "def build_.package_$.func$11$$anonfun$2(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object",
+    -377482792
+  ],
+  [
+    "call build_.package_$.func$11$$anonfun$2(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object",
+    -377482792
+  ],
+  [
+    "call mainargs.ArgSig.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$.func$11$$anonfun$5(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1793892159
+  ],
+  [
+    "call build_.package_$.func$11$$anonfun$5(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1793892159
+  ],
+  [
+    "call mill.javalib.RunModule#run$default$1()mill.api.Task",
+    1932312660
+  ],
+  [
+    "def build_.package_$.func$11$$anonfun$1(mill.javalib.RunModule)mill.api.Task",
+    -797039008
+  ],
+  [
+    "call build_.package_$.func$11$$anonfun$1(mill.javalib.RunModule)mill.api.Task",
+    -797039008
+  ],
+  [
+    "call build_.package_$.func$11$$anonfun$6(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object",
+    674389972
+  ],
+  [
+    "call build_.package_$.func$11$$anonfun$8(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object",
+    1837923050
+  ],
+  [
+    "def build_.package_$.func$11$$anonfun$7(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object",
+    642022135
+  ],
+  [
+    "call build_.package_$.func$11$$anonfun$7(mill.javalib.RunModule,scala.collection.immutable.Seq)java.lang.Object",
+    642022135
+  ],
+  [
+    "call mill.javalib.RunModule#runLocal$default$1()mill.api.Task",
+    1932312660
+  ],
+  [
+    "def build_.package_$.func$11$$anonfun$4(mill.javalib.RunModule)mill.api.Task",
+    -725951526
+  ],
+  [
+    "call build_.package_$.func$11$$anonfun$4(mill.javalib.RunModule)mill.api.Task",
+    -725951526
+  ],
+  [
+    "call mill.util.TokenReaders$#millArgsTokenReader()mainargs.TokensReader$ShortNamed",
+    1314539850
+  ],
+  [
+    "def build_.package_$#func$11()mill.api.Discover$ClassInfo",
+    334852186
+  ],
+  [
+    "call build_.package_$!func$11()mill.api.Discover$ClassInfo",
+    334852186
+  ],
+  [
+    "call scala.collection.immutable.Map$.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$#func$9()mill.api.Discover$ClassInfo",
+    -889448391
+  ],
+  [
+    "call build_.package_$!func$9()mill.api.Discover$ClassInfo",
+    -889448391
+  ],
+  [
+    "def build_.package_$#func$4()mill.api.Discover$ClassInfo",
+    166876646
+  ],
+  [
+    "call build_.package_$!func$4()mill.api.Discover$ClassInfo",
+    166876646
+  ],
+  [
+    "def build_.package_$.func$21$$anonfun$5(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1005318942
+  ],
+  [
+    "call build_.package_$.func$21$$anonfun$5(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1005318942
+  ],
+  [
+    "def build_.package_$.func$21$$anonfun$1(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1447591489
+  ],
+  [
+    "call build_.package_$.func$21$$anonfun$1(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1447591489
+  ],
+  [
+    "def build_.package_$.func$21$$anonfun$2(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    1354921567
+  ],
+  [
+    "call build_.package_$.func$21$$anonfun$2(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    1354921567
+  ],
+  [
+    "def build_.package_$.func$21$$anonfun$4(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1737303821
+  ],
+  [
+    "call build_.package_$.func$21$$anonfun$4(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1737303821
+  ],
+  [
+    "def build_.package_$.func$21$$anonfun$3(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    -365367487
+  ],
+  [
+    "call build_.package_$.func$21$$anonfun$3(mill.util.SelectiveExecutionModule,scala.collection.immutable.Seq)java.lang.Object",
+    -365367487
+  ],
+  [
+    "def build_.package_$#func$21()mill.api.Discover$ClassInfo",
+    -834239055
+  ],
+  [
+    "call build_.package_$!func$21()mill.api.Discover$ClassInfo",
+    -834239055
+  ],
+  [
+    "call build_.package_$!func$18()mill.api.Discover$ClassInfo",
+    208300893
+  ],
+  [
+    "def build_.package_$#func$16()mill.api.Discover$ClassInfo",
+    1270134692
+  ],
+  [
+    "call build_.package_$!func$16()mill.api.Discover$ClassInfo",
+    1270134692
+  ],
+  [
+    "def build_.package_$#func$3()mill.api.Discover$ClassInfo",
+    166876646
+  ],
+  [
+    "call build_.package_$!func$3()mill.api.Discover$ClassInfo",
+    166876646
+  ],
+  [
+    "call build_.package_$!func$15()mill.api.Discover$ClassInfo",
+    1617544901
+  ],
+  [
+    "def build_.package_$#func$5()mill.api.Discover$ClassInfo",
+    1135428133
+  ],
+  [
+    "call build_.package_$!func$5()mill.api.Discover$ClassInfo",
+    1135428133
+  ],
+  [
+    "def build_.package_$#func$12()mill.api.Discover$ClassInfo",
+    -1847844010
+  ],
+  [
+    "call build_.package_$!func$12()mill.api.Discover$ClassInfo",
+    -1847844010
+  ],
+  [
+    "call build_.package_$!func$17()mill.api.Discover$ClassInfo",
+    -102988826
+  ],
+  [
+    "call build_.package_$!func$13()mill.api.Discover$ClassInfo",
+    824988896
+  ],
+  [
+    "def build_.package_$.func$19$$anonfun$7(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    1079768609
+  ],
+  [
+    "call build_.package_$.func$19$$anonfun$7(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    1079768609
+  ],
+  [
+    "call build_.package_$.func$19$$anonfun$2(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    -2092799173
+  ],
+  [
+    "def build_.package_$.func$19$$anonfun$9(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    727297302
+  ],
+  [
+    "call build_.package_$.func$19$$anonfun$9(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    727297302
+  ],
+  [
+    "def build_.package_$.func$19$$anonfun$10(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1810262390
+  ],
+  [
+    "call build_.package_$.func$19$$anonfun$10(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1810262390
+  ],
+  [
+    "call build_.package_$.func$19$$anonfun$3(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    -907302967
+  ],
+  [
+    "def build_.package_$.func$19$$anonfun$4(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    1438014890
+  ],
+  [
+    "call build_.package_$.func$19$$anonfun$4(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    1438014890
+  ],
+  [
+    "call build_.package_$.func$19$$anonfun$12(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    135985184
+  ],
+  [
+    "def build_.package_$.func$19$$anonfun$11(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    -602567178
+  ],
+  [
+    "call build_.package_$.func$19$$anonfun$11(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    -602567178
+  ],
+  [
+    "call build_.package_$.func$19$$anonfun$1(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    834754355
+  ],
+  [
+    "call build_.package_$.func$19$$anonfun$8(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    -1351785781
+  ],
+  [
+    "def build_.package_$.func$19$$anonfun$5(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    375832761
+  ],
+  [
+    "call build_.package_$.func$19$$anonfun$5(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    375832761
+  ],
+  [
+    "call build_.package_$.func$19$$anonfun$6(mill.util.MainModule,scala.collection.immutable.Seq)java.lang.Object",
+    1128295958
+  ],
+  [
+    "call mainargs.MainData.<clinit>()void",
+    0
+  ],
+  [
+    "def build_.package_$#func$19()mill.api.Discover$ClassInfo",
+    -1572092810
+  ],
+  [
+    "call build_.package_$!func$19()mill.api.Discover$ClassInfo",
+    -1572092810
+  ],
+  [
+    "call build_.package_$!func$10()mill.api.Discover$ClassInfo",
+    428672483
+  ],
+  [
+    "call build_.package_$!func$20()mill.api.Discover$ClassInfo",
+    -834239055
+  ],
+  [
+    "def build_.package_$#func$6()mill.api.Discover$ClassInfo",
+    -26901263
+  ],
+  [
+    "call build_.package_$!func$6()mill.api.Discover$ClassInfo",
+    -26901263
+  ],
+  [
+    "call build_.package_$!func$2()mill.api.Discover$ClassInfo",
+    1116653975
+  ],
+  [
+    "def build_.package_$#millDiscover$lzyINIT1()java.lang.Object",
+    1998358211
+  ],
+  [
+    "call mill.javalib.JavaModule.zincIncrementalCompilation$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#zincIncrementalCompilation()mill.api.Task$Simple",
+    708918020
+  ],
+  [
+    "def build_.package_$app$#artifactNameParts()mill.api.Task$Simple",
+    -457090506
+  ],
+  [
+    "def build_.package_$app$test$#testForked(scala.collection.immutable.Seq)mill.api.Task$Command",
+    1453334920
+  ],
+  [
+    "call mill.scalalib.ScalaModule.scalaDocOptions$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#scalaDocOptions()mill.api.Task$Simple",
+    -304872382
+  ],
+  [
+    "call build_.package_$app$!test$lzyINIT1()java.lang.Object",
+    -1696318936
+  ],
+  [
+    "def build_.package_$app$#test()build_.package_$app$test$",
+    193274256
+  ],
+  [
+    "call mill.javalib.JavaModule.docResources$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#docResources()mill.api.Task$Simple",
+    34417405
+  ],
+  [
+    "call mill.javalib.JavaModule.compileResources$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#compileResources()mill.api.Task$Simple",
+    2137101889
+  ],
+  [
+    "def build_.package_$app$#forkEnv()mill.api.Task$Simple",
+    -1369591866
+  ],
+  [
+    "call mill.javalib.JavaModule.upstreamIvyAssemblyClasspath$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#upstreamIvyAssemblyClasspath()mill.api.Task$Simple",
+    -442432927
+  ],
+  [
+    "call mill.javalib.TestModule$Utest.testFramework$(mill.javalib.TestModule$Utest)mill.api.Task$Simple",
+    1082284170
+  ],
+  [
+    "def build_.package_$app$test$#testFramework()mill.api.Task$Simple",
+    -879562268
+  ],
+  [
+    "call mill.javalib.JavaModule.transitiveLocalClasspath$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#transitiveLocalClasspath()mill.api.Task$Simple",
+    586854898
+  ],
+  [
+    "call mill.javalib.RunModule.mainClass$(mill.javalib.RunModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#mainClass()mill.api.Task$Simple",
+    -345588452
+  ],
+  [
+    "def build_.package_$app$#run(mill.api.Task)mill.api.Task$Command",
+    -1964644674
+  ],
+  [
+    "call mill.scalalib.ScalaModule.zincAuxiliaryClassFileExtensions$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#zincAuxiliaryClassFileExtensions()mill.api.Task$Simple",
+    2133106746
+  ],
+  [
+    "call mill.scalalib.ScalaModule.artifactScalaVersion$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#artifactScalaVersion()mill.api.Task$Simple",
+    -1138747323
+  ],
+  [
+    "call mill.javalib.JavaModule.localClasspath$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#localClasspath()mill.api.Task$Simple",
+    146086998
+  ],
+  [
+    "call mill.javalib.JavaModule.localRunClasspath$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#localRunClasspath()mill.api.Task$Simple",
+    19639452
+  ],
+  [
+    "call mill.scalalib.ScalaModule$ScalaTests.scalacPluginClasspath$(mill.scalalib.ScalaModule$ScalaTests)mill.api.Task$Simple",
+    -1284156769
+  ],
+  [
+    "def build_.package_$app$test$#scalacPluginClasspath()mill.api.Task$Simple",
+    33972551
+  ],
+  [
+    "call mill.javalib.AssemblyModule.resolvedIvyAssembly$(mill.javalib.AssemblyModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#resolvedIvyAssembly()mill.api.Task$Simple",
+    -385119613
+  ],
+  [
+    "call mill.javalib.RunModule.localRunClasspath$(mill.javalib.RunModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$JavaModule$$super$localRunClasspath()mill.api.Task$Simple",
+    1756813553
+  ],
+  [
+    "call mill.scalalib.ScalaModule.ammoniteVersion$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#ammoniteVersion()mill.api.Task$Simple",
+    -1904242046
+  ],
+  [
+    "def build_.package_$app$test$#semanticDbPluginMvnDeps()mill.api.Task$Simple",
+    24986295
+  ],
+  [
+    "def build_.package_$app$#runMvnDeps()mill.api.Task$Simple",
+    434539236
+  ],
+  [
+    "def build_.package_$app$#mill$javalib$JavaModule$$super$runClasspath()mill.api.Task$Simple",
+    -18708647
+  ],
+  [
+    "call mill.javalib.JavaHomeModule.jvmId$(mill.javalib.JavaHomeModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#jvmId()mill.api.Task$Simple",
+    -1145987626
+  ],
+  [
+    "call mill.javalib.JavaModule.jar$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#jar()mill.api.Task$Simple",
+    294246672
+  ],
+  [
+    "def build_.package_$app$test$#showMvnDepsTree(mill.javalib.MvnDepsTreeArgs)mill.api.Task$Command",
+    -1316670094
+  ],
+  [
+    "def build_.package_$app$test$#runLocal(mill.api.Task)mill.api.Task$Command",
+    -2107605347
+  ],
+  [
+    "call mill.scalalib.ScalaModule.semanticDbDataDetailed$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#semanticDbDataDetailed()mill.api.Task$Simple",
+    280979288
+  ],
+  [
+    "def build_.package_$app$#scalaDocOptions()mill.api.Task$Simple",
+    -304872382
+  ],
+  [
+    "call mill.javalib.CoursierModule.repositories$(mill.javalib.CoursierModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#repositories()mill.api.Task$Simple",
+    2012359480
+  ],
+  [
+    "call mill.javalib.JavaModule.resources$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#resources()mill.api.Task$Simple",
+    -1390696798
+  ],
+  [
+    "def build_.package_$app$test$#upstreamIvyAssemblyClasspath()mill.api.Task$Simple",
+    -442432927
+  ],
+  [
+    "def build_.package_$app$test$#runMain(java.lang.String,scala.collection.immutable.Seq)mill.api.Task$Command",
+    -1602476955
+  ],
+  [
+    "def build_.package_$app$#propagateEnv()mill.api.Task$Simple",
+    594864730
+  ],
+  [
+    "call mill.scalalib.ScalaModule.semanticDbScalaVersion$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#semanticDbScalaVersion()mill.api.Task$Simple",
+    1884477290
+  ],
+  [
+    "def build_.package_$.$deserializeLambda$(java.lang.invoke.SerializedLambda)java.lang.Object",
+    -1784384296
+  ],
+  [
+    "call mill.scalalib.ScalaModule$ScalaTests.scalaVersion$(mill.scalalib.ScalaModule$ScalaTests)mill.api.Task$Simple",
+    -1284156769
+  ],
+  [
+    "def build_.package_$app$test$#scalaVersion()mill.api.Task$Simple",
+    1822432263
+  ],
+  [
+    "def build_.package_$app$test$#runMainBackground(java.lang.String,scala.collection.immutable.Seq)mill.api.Task$Command",
+    1322741238
+  ],
+  [
+    "call mill.scalalib.ScalaModule$ScalaTests.mandatoryScalacOptions$(mill.scalalib.ScalaModule$ScalaTests)mill.api.Task$Simple",
+    -1284156769
+  ],
+  [
+    "def build_.package_$app$test$#mandatoryScalacOptions()mill.api.Task$Simple",
+    792868283
+  ],
+  [
+    "call mill.javalib.JavaModule.platformSuffix$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#platformSuffix()mill.api.Task$Simple",
+    364370221
+  ],
+  [
+    "def build_.package_$app$#runMainBackground(java.lang.String,scala.collection.immutable.Seq)mill.api.Task$Command",
+    1322741238
+  ],
+  [
+    "def build_.package_$app$test$#scalacHelp(scala.collection.immutable.Seq)mill.api.Task$Command",
+    -163018000
+  ],
+  [
+    "call scala.runtime.ModuleSerializationProxy.<clinit>()void",
+    0
+  ],
+  [
+    "external scala.runtime.ModuleSerializationProxy",
+    876359900
+  ],
+  [
+    "call scala.runtime.ModuleSerializationProxy!<init>(java.lang.Class)void",
+    525012154
+  ],
+  [
+    "def build_.package_$#writeReplace()java.lang.Object",
+    -1171238975
+  ],
+  [
+    "def build_.package_$app$test$#runBackground(mill.api.Task)mill.api.Task$Command",
+    2140243240
+  ],
+  [
+    "call mill.javalib.RunModule.finalMainClass$(mill.javalib.RunModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#finalMainClass()mill.api.Task$Simple",
+    -1034392604
+  ],
+  [
+    "call mill.javalib.JavaModule.docJarUseArgsFile$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#docJarUseArgsFile()mill.api.Task$Simple",
+    -189296339
+  ],
+  [
+    "call mill.javalib.JavaModule$JavaTests.depManagement$(mill.javalib.JavaModule$JavaTests)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#depManagement()mill.api.Task$Simple",
+    1086788119
+  ],
+  [
+    "call mill.scalalib.ScalaModule.scalaDocClasspath$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#scalaDocClasspath()mill.api.Task$Simple",
+    883695438
+  ],
+  [
+    "call mill.javalib.TestModule.testSandboxWorkingDir$(mill.javalib.TestModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#testSandboxWorkingDir()mill.api.Task$Simple",
+    -1805575110
+  ],
+  [
+    "call mill.scalalib.ScalaModule.scalacOptions$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#scalacOptions()mill.api.Task$Simple",
+    2116260000
+  ],
+  [
+    "def build_.package_$app$test$#finalMainClassOpt()mill.api.Task$Simple",
+    -788550201
+  ],
+  [
+    "def build_.package_.build_$package_$app$$$_$mvnDeps$$anonfun$1$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result",
+    1540811529
+  ],
+  [
+    "call build_.package_.build_$package_$app$$$_$mvnDeps$$anonfun$1$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result",
+    1540811529
+  ],
+  [
+    "def build_.package_$app$#mvnDeps$$anonfun$1()mill.api.Task$Simple",
+    -156034857
+  ],
+  [
+    "call mill.javalib.JavaModule$JavaTests.bomMvnDeps$(mill.javalib.JavaModule$JavaTests)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#bomMvnDeps()mill.api.Task$Simple",
+    1321170658
+  ],
+  [
+    "def build_.package_$app$#runBackground(mill.api.Task)mill.api.Task$Command",
+    2140243240
+  ],
+  [
+    "call mill.javalib.AssemblyModule.forkCmdArgs$(mill.javalib.AssemblyModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#forkCmdArgs()mill.api.Task$Simple",
+    1218852877
+  ],
+  [
+    "def build_.package_$app$#scalaDocGenerated()mill.api.Task$Simple",
+    1209072765
+  ],
+  [
+    "def build_.package_$app$test$#mill$scalalib$ScalaModule$$super$prepareOffline(mainargs.Flag)mill.api.Task$Command",
+    -992731458
+  ],
+  [
+    "call mill.javalib.JavaModule.generatedSources$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#generatedSources()mill.api.Task$Simple",
+    -1356067020
+  ],
+  [
+    "def build_.package_$app$#mill$javalib$JavaModule$$super$prepareOffline(mainargs.Flag)mill.api.Task$Command",
+    -2038455565
+  ],
+  [
+    "call mill.javalib.AssemblyModule.forkShellArgs$(mill.javalib.AssemblyModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#forkShellArgs()mill.api.Task$Simple",
+    701248553
+  ],
+  [
+    "call mill.javalib.JavaModule.runClasspath$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#runClasspath()mill.api.Task$Simple",
+    -77259177
+  ],
+  [
+    "def build_.package_$app$test$#consoleScalacOptions()mill.api.Task$Simple",
+    1104770177
+  ],
+  [
+    "def build_.package_$app$test$#assembly()mill.api.Task$Simple",
+    -676489397
+  ],
+  [
+    "call mill.javalib.JavaHomeModule.jvmIndexVersion$(mill.javalib.JavaHomeModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#jvmIndexVersion()mill.api.Task$Simple",
+    -1571843173
+  ],
+  [
+    "def build_.package_$app$test$#artifactScalaVersion()mill.api.Task$Simple",
+    -1138747323
+  ],
+  [
+    "def build_.package_$app$#bspRunModule()scala.Function0",
+    691123788
+  ],
+  [
+    "call build_.package_#moduleNestedCtx()mill.api.ModuleCtx$Nested",
+    -1227707646
+  ],
+  [
+    "def build_.package_$app$#<init>(build_.package_)void",
+    406019480
+  ],
+  [
+    "call build_.package_$app$!<init>(build_.package_)void",
+    406019480
+  ],
+  [
+    "def build_.package_#app$lzyINIT1()java.lang.Object",
+    593145733
+  ],
+  [
+    "call build_.package_!app$lzyINIT1()java.lang.Object",
+    593145733
+  ],
+  [
+    "def build_.package_#app()build_.package_$app$",
+    1733145734
+  ],
+  [
+    "def build_.package_$app$test$#mill$scalalib$ScalaModule$$super$mandatoryMvnDeps()mill.api.Task$Simple",
+    -194534550
+  ],
+  [
+    "def build_.package_$app$test$#run(mill.api.Task)mill.api.Task$Command",
+    -1964644674
+  ],
+  [
+    "call mill.javalib.JavaModule$JavaTests.jvmId$(mill.javalib.JavaModule$JavaTests)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#jvmId()mill.api.Task$Simple",
+    -1040024668
+  ],
+  [
+    "call mill.scalalib.ScalaModule.scalacPluginClasspath$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#scalacPluginClasspath()mill.api.Task$Simple",
+    -247629914
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$JavaModule$JavaTests$$super$bomMvnDeps()mill.api.Task$Simple",
+    1285268177
+  ],
+  [
+    "def build_.package_$app$#semanticDbScalaVersion()mill.api.Task$Simple",
+    1884477290
+  ],
+  [
+    "call mill.javalib.JavaModule.zincReportCachedProblems$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#zincReportCachedProblems()mill.api.Task$Simple",
+    3352534
+  ],
+  [
+    "def build_.package_$app$test$#prependShellScript()mill.api.Task$Simple",
+    1067656462
+  ],
+  [
+    "call mill.scalalib.ScalaModule.resolvedAmmoniteReplMvnDeps$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#resolvedAmmoniteReplMvnDeps()mill.api.Task$Simple",
+    -1066148705
+  ],
+  [
+    "call mill.scalalib.ScalaModule.artifactId$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#artifactId()mill.api.Task$Simple",
+    -94482050
+  ],
+  [
+    "call mill.javalib.RunModule.runUseArgsFile$(mill.javalib.RunModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#runUseArgsFile()mill.api.Task$Simple",
+    447057672
+  ],
+  [
+    "call mill.javalib.AssemblyModule.prependShellScript0$(mill.javalib.AssemblyModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#prependShellScript0()mill.api.Task$Simple",
+    988282634
+  ],
+  [
+    "def build_.package_$app$#mill$javalib$JavaModule$$super$localRunClasspath()mill.api.Task$Simple",
+    1756813553
+  ],
+  [
+    "call mill.javalib.TestModule.testCached$(mill.javalib.TestModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#testCached()mill.api.Task$Simple",
+    -1864784015
+  ],
+  [
+    "def build_.MillMiscInfo.millMiscInfo()mill.api.internal.RootModule$Info",
+    1120736138
+  ],
+  [
+    "def build_.package_$app$test$#testLocal(scala.collection.immutable.Seq)mill.api.Task$Command",
+    1478825699
+  ],
+  [
+    "def build_.package_$app$#unmanagedClasspath()mill.api.Task$Simple",
+    212056429
+  ],
+  [
+    "def build_.package_$app$#mandatoryJavacOptions()mill.api.Task$Simple",
+    461105365
+  ],
+  [
+    "def build_.package_$app$test$#zincReportCachedProblems()mill.api.Task$Simple",
+    3352534
+  ],
+  [
+    "def build_.package_$app$#depManagement()mill.api.Task$Simple",
+    1412398909
+  ],
+  [
+    "call mill.javalib.JavaModule.resolvedMvnDeps$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#resolvedMvnDeps()mill.api.Task$Simple",
+    937466388
+  ],
+  [
+    "def build_.package_$app$test$#localClasspath()mill.api.Task$Simple",
+    146086998
+  ],
+  [
+    "def build_.package_$app$#allLocalMainClasses()mill.api.Task$Simple",
+    -1211655284
+  ],
+  [
+    "def build_.package_$app$test$#jar()mill.api.Task$Simple",
+    294246672
+  ],
+  [
+    "call mill.scalalib.ScalaModule.ammoniteReplClasspath$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#ammoniteReplClasspath()mill.api.Task$Simple",
+    -1540481855
+  ],
+  [
+    "call build_.BuildFileImpl$#checker()mill.api.internal.ResolveChecker",
+    876359900
+  ],
+  [
+    "def build_.BuildFileImpl.checker()mill.api.internal.ResolveChecker",
+    1299380557
+  ],
+  [
+    "def build_.package_$app$#mill$scalalib$ScalaModule$$super$zincAuxiliaryClassFileExtensions()mill.api.Task$Simple",
+    -109510320
+  ],
+  [
+    "call mill.scalalib.ScalaModule.manifest$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#manifest()mill.api.Task$Simple",
+    -751386875
+  ],
+  [
+    "def build_.package_$app$test$#javadocOptions()mill.api.Task$Simple",
+    -14294455
+  ],
+  [
+    "call mill.javalib.SemanticDbJavaModule.compiledClassesAndSemanticDbFiles$(mill.javalib.SemanticDbJavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#compiledClassesAndSemanticDbFiles()mill.api.Task$Simple",
+    -1860755283
+  ],
+  [
+    "def build_.MillMiscInfo$#writeReplace()java.lang.Object",
+    -266715988
+  ],
+  [
+    "call mill.javalib.JavaModule.javacOptions$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#javacOptions()mill.api.Task$Simple",
+    1958633666
+  ],
+  [
+    "def build_.package_$app$test$#allSources()mill.api.Task$Simple",
+    -254791755
+  ],
+  [
+    "def build_.package_$app$test$#checkGradleModules()mill.api.Task$Simple",
+    -224154733
+  ],
+  [
+    "call mill.javalib.JavaModule.transitiveCompileClasspath$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#transitiveCompileClasspath()mill.api.Task$Simple",
+    1774001588
+  ],
+  [
+    "def build_.package_$app$#transitiveCompileClasspath()mill.api.Task$Simple",
+    1774001588
+  ],
+  [
+    "call build_.package_$app$!scalaVersion$$anonfun$1()mill.api.Task$Simple",
+    -1180247908
+  ],
+  [
+    "def build_.package_$app$#scalaVersion()mill.api.Task$Simple",
+    -1231368535
+  ],
+  [
+    "call mill.scalalib.ScalaModule.compile$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#compile()mill.api.Task$Simple",
+    -1463794468
+  ],
+  [
+    "call mill.javalib.JavaModule.upstreamLocalAssemblyClasspath$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#upstreamLocalAssemblyClasspath()mill.api.Task$Simple",
+    1762818694
+  ],
+  [
+    "call mill.scalalib.ScalaModule$ScalaTests.scalaOrganization$(mill.scalalib.ScalaModule$ScalaTests)mill.api.Task$Simple",
+    -1284156769
+  ],
+  [
+    "def build_.package_$app$test$#scalaOrganization()mill.api.Task$Simple",
+    1623451091
+  ],
+  [
+    "def build_.package_$app$#docSources()mill.api.Task$Simple",
+    952861573
+  ],
+  [
+    "call mill.javalib.TestModule.testClasspath$(mill.javalib.TestModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#testClasspath()mill.api.Task$Simple",
+    1909714435
+  ],
+  [
+    "call mill.javalib.TestModule.discoveredTestClasses$(mill.javalib.TestModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#discoveredTestClasses()mill.api.Task$Simple",
+    514659100
+  ],
+  [
+    "call build_.BuildFileImpl$#value()mill.api.internal.BuildFileCls",
+    876359900
+  ],
+  [
+    "def build_.BuildFileImpl.value()mill.api.internal.BuildFileCls",
+    2097455581
+  ],
+  [
+    "def build_.package_$app$test$#generatedSources()mill.api.Task$Simple",
+    -1356067020
+  ],
+  [
+    "call mill.javalib.JavaModule.artifactTypes$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#artifactTypes()mill.api.Task$Simple",
+    -731146240
+  ],
+  [
+    "def build_.package_$app$test$#compileClasspath()mill.api.Task$Simple",
+    182581260
+  ],
+  [
+    "call mill.scalalib.ScalaModule.docJar$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#docJar()mill.api.Task$Simple",
+    1888221978
+  ],
+  [
+    "def build_.package_$app$#ammoniteReplClasspath()mill.api.Task$Simple",
+    -1540481855
+  ],
+  [
+    "def build_.package_$app$test$#runMainLocal(java.lang.String,scala.collection.immutable.Seq)mill.api.Task$Command",
+    -131336237
+  ],
+  [
+    "def build_.package_$app$test$#zincIncrementalCompilation()mill.api.Task$Simple",
+    708918020
+  ],
+  [
+    "def build_.package_$app$test$#semanticDbDataDetailed()mill.api.Task$Simple",
+    280979288
+  ],
+  [
+    "call mill.javalib.JavaModule.sourceJar$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#sourceJar()mill.api.Task$Simple",
+    -376474374
+  ],
+  [
+    "def build_.package_$app$test$#semanticDbEnablePluginScalacOptions()mill.api.Task$Simple",
+    1788576809
+  ],
+  [
+    "call mill.javalib.JavaModule.javadocGenerated$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#javadocGenerated()mill.api.Task$Simple",
+    -1149276704
+  ],
+  [
+    "call mill.javalib.TestModule.testLogLevel$(mill.javalib.TestModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#testLogLevel()mill.api.Task$Simple",
+    315753745
+  ],
+  [
+    "def build_.package_$app$#prependShellScript0()mill.api.Task$Simple",
+    988282634
+  ],
+  [
+    "def build_.package_$app$#showMvnDepsTree(mill.javalib.MvnDepsTreeArgs)mill.api.Task$Command",
+    -1316670094
+  ],
+  [
+    "def build_.package_$app$test$#compiledClassesAndSemanticDbFiles()mill.api.Task$Simple",
+    -1860755283
+  ],
+  [
+    "def build_.package_$app$#artifactTypes()mill.api.Task$Simple",
+    -731146240
+  ],
+  [
+    "call mill.javalib.JavaModule.compileGeneratedSources$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#compileGeneratedSources()mill.api.Task$Simple",
+    -1228726716
+  ],
+  [
+    "call build_.package_$app$!mvnDeps$$anonfun$1()mill.api.Task$Simple",
+    -156034857
+  ],
+  [
+    "def build_.package_$app$#mvnDeps()mill.api.Task$Simple",
+    -460473239
+  ],
+  [
+    "def build_.package_$app$#localCompileClasspath()mill.api.Task$Simple",
+    1706920472
+  ],
+  [
+    "def build_.package_$app$test$#upstreamCompileOutput()mill.api.Task$Simple",
+    -196845150
+  ],
+  [
+    "call mill.scalalib.ScalaModule.scalacPluginMvnDeps$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#scalacPluginMvnDeps()mill.api.Task$Simple",
+    1944614272
+  ],
+  [
+    "def build_.package_$app$#allMvnDeps()mill.api.Task$Simple",
+    304757993
+  ],
+  [
+    "def build_.package_$app$test$#mainClass()mill.api.Task$Simple",
+    -345588452
+  ],
+  [
+    "def build_.package_$app$.$deserializeLambda$(java.lang.invoke.SerializedLambda)java.lang.Object",
+    -693903478
+  ],
+  [
+    "call mill.javalib.JavaModule.launcher$(mill.javalib.JavaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#launcher()mill.api.Task$Simple",
+    914572318
+  ],
+  [
+    "def build_.package_$app$test$#resolvedIvyAssembly()mill.api.Task$Simple",
+    -385119613
+  ],
+  [
+    "def build_.package_$app$#scalaDocClasspath()mill.api.Task$Simple",
+    883695438
+  ],
+  [
+    "def build_.package_$app$test$#mill$javalib$JavaModule$$super$prepareOffline(mainargs.Flag)mill.api.Task$Command",
+    -2038455565
+  ],
+  [
+    "def build_.package_$app$test$#ammoniteVersion()mill.api.Task$Simple",
+    -1904242046
+  ],
+  [
+    "def build_.package_$app$#manifest()mill.api.Task$Simple",
+    -751386875
+  ],
+  [
+    "def build_.package_$app$#mandatoryMvnDeps()mill.api.Task$Simple",
+    -1363828820
+  ],
+  [
+    "def build_.package_$app$test$#artifactName()mill.api.Task$Simple",
+    -917025155
+  ],
+  [
+    "call mill.javalib.AssemblyModule.upstreamAssembly$(mill.javalib.AssemblyModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#upstreamAssembly()mill.api.Task$Simple",
+    -1034676667
+  ],
+  [
+    "def build_.package_$app$#forkShellArgs()mill.api.Task$Simple",
+    701248553
+  ],
+  [
+    "def build_.package_$app$#docJar()mill.api.Task$Simple",
+    1888221978
+  ],
+  [
+    "def build_.package_$app$#artifactId()mill.api.Task$Simple",
+    -94482050
+  ],
+  [
+    "def build_.package_$app$test$#forkCmdArgs()mill.api.Task$Simple",
+    1218852877
+  ],
+  [
+    "call mill.javalib.TestModule$Utest.mandatoryMvnDeps$(mill.javalib.TestModule$Utest)mill.api.Task$Simple",
+    1082284170
+  ],
+  [
+    "def build_.package_$app$test$#mandatoryMvnDeps()mill.api.Task$Simple",
+    524933642
+  ],
+  [
+    "def build_.package_$app$test$#runClasspath()mill.api.Task$Simple",
+    -77259177
+  ],
+  [
+    "def build_.package_$app$#scalaDocPluginClasspath()mill.api.Task$Simple",
+    -1531437710
+  ],
+  [
+    "call mill.javalib.JavaModule$JavaTests.jvmIndexVersion$(mill.javalib.JavaModule$JavaTests)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#jvmIndexVersion()mill.api.Task$Simple",
+    -417407301
+  ],
+  [
+    "call mill.javalib.TestModule.testUseArgsFile$(mill.javalib.TestModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#testUseArgsFile()mill.api.Task$Simple",
+    1171988674
+  ],
+  [
+    "def build_.package_$app$test$#console()mill.api.Task$Command",
+    -1104970539
+  ],
+  [
+    "def build_.package_$app$#runLocal(mill.api.Task)mill.api.Task$Command",
+    -2107605347
+  ],
+  [
+    "def build_.package_$app$#prepareOffline(mainargs.Flag)mill.api.Task$Command",
+    -923396412
+  ],
+  [
+    "def build_.package_$app$#sourceJar()mill.api.Task$Simple",
+    -376474374
+  ],
+  [
+    "def build_.package_$app$#launcher()mill.api.Task$Simple",
+    914572318
+  ],
+  [
+    "def build_.package_$app$test$#upstreamAssembly()mill.api.Task$Simple",
+    -1034676667
+  ],
+  [
+    "call mill.scalalib.ScalaModule.semanticDbPluginClasspath$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#semanticDbPluginClasspath()mill.api.Task$Simple",
+    503460521
+  ],
+  [
+    "def build_.package_$app$#allScalacOptions()mill.api.Task$Simple",
+    -136825418
+  ],
+  [
+    "call mill.scalalib.ScalaModule.scalaLibraryMvnDeps$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#scalaLibraryMvnDeps()mill.api.Task$Simple",
+    1207142434
+  ],
+  [
+    "call mill.javalib.TestModule.testParallelism$(mill.javalib.TestModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#testParallelism()mill.api.Task$Simple",
+    1423713194
+  ],
+  [
+    "call mill.scalalib.ScalaModule.scalaOrganization$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#scalaOrganization()mill.api.Task$Simple",
+    -1849337319
+  ],
+  [
+    "def build_.package_$app$#compile()mill.api.Task$Simple",
+    -1463794468
+  ],
+  [
+    "def build_.package_$app$test$#javadocGenerated()mill.api.Task$Simple",
+    -1149276704
+  ],
+  [
+    "def build_.package_$app$test$#getTestEnvironmentVars(scala.collection.immutable.Seq)mill.api.Task$Command",
+    -1691217437
+  ],
+  [
+    "call mill.scalalib.ScalaModule.allSourceFiles$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#allSourceFiles()mill.api.Task$Simple",
+    -1721182419
+  ],
+  [
+    "def build_.package_$app$test$.$deserializeLambda$(java.lang.invoke.SerializedLambda)java.lang.Object",
+    -879107962
+  ],
+  [
+    "def build_.package_$app$#resolvedAmmoniteReplMvnDeps()mill.api.Task$Simple",
+    -1066148705
+  ],
+  [
+    "def build_.package_$app$#compileResources()mill.api.Task$Simple",
+    2137101889
+  ],
+  [
+    "def build_.package_$app$#scalaLibraryMvnDeps()mill.api.Task$Simple",
+    1207142434
+  ],
+  [
+    "def build_.package_$app$#semanticDbPluginClasspath()mill.api.Task$Simple",
+    503460521
+  ],
+  [
+    "def build_.package_$app$#platformSuffix()mill.api.Task$Simple",
+    364370221
+  ],
+  [
+    "def build_.package_$app$#docJarUseArgsFile()mill.api.Task$Simple",
+    -189296339
+  ],
+  [
+    "def build_.package_$app$test$#upstreamAssemblyClasspath()mill.api.Task$Simple",
+    1766400776
+  ],
+  [
+    "call mill.javalib.JavaModule$JavaTests.runUseArgsFile$(mill.javalib.JavaModule$JavaTests)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#runUseArgsFile()mill.api.Task$Simple",
+    425848757
+  ],
+  [
+    "def build_.package_$app$test$#bspBuildTargetCompileMerged()mill.api.Task$Simple",
+    1048877399
+  ],
+  [
+    "def build_.package_$app$#manifest0()mill.api.Task$Simple",
+    2058334259
+  ],
+  [
+    "call mill.scalalib.ScalaModule.artifactSuffix$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#artifactSuffix()mill.api.Task$Simple",
+    -1178655940
+  ],
+  [
+    "def build_.package_$app$test$#semanticDbData()mill.api.Task$Simple",
+    -1518949292
+  ],
+  [
+    "def build_.BuildFileImpl$#writeReplace()java.lang.Object",
+    1142247490
+  ],
+  [
+    "call mill.scalalib.ScalaModule.crossFullScalaVersion$(mill.scalalib.ScalaModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$#crossFullScalaVersion()mill.api.Task$Simple",
+    -1284720268
+  ],
+  [
+    "def build_.package_$app$#mandatoryScalacOptions()mill.api.Task$Simple",
+    -1837978001
+  ],
+  [
+    "def build_.package_$app$test$#artifactSuffix()mill.api.Task$Simple",
+    -1178655940
+  ],
+  [
+    "def build_.package_$app$test$#repositories()mill.api.Task$Simple",
+    2012359480
+  ],
+  [
+    "def build_.package_$app$#docResources()mill.api.Task$Simple",
+    34417405
+  ],
+  [
+    "def build_.package_$app$test$#crossFullScalaVersion()mill.api.Task$Simple",
+    -1284720268
+  ],
+  [
+    "def build_.package_$app$test$#allSourceFiles()mill.api.Task$Simple",
+    -1721182419
+  ],
+  [
+    "def build_.package_$app$#scalaCompilerClasspath()mill.api.Task$Simple",
+    -1588576536
+  ],
+  [
+    "def build_.package_$app$#runMain(java.lang.String,scala.collection.immutable.Seq)mill.api.Task$Command",
+    -1602476955
+  ],
+  [
+    "call mill.javalib.TestModule.testCachedArgs$(mill.javalib.TestModule)mill.api.Task$Simple",
+    644104220
+  ],
+  [
+    "def build_.package_$app$test$#testCachedArgs()mill.api.Task$Simple",
+    1176252958
+  ],
+  [
+    "call build_.MillMiscInfo$#projectRoot()os.Path",
+    438179950
+  ],
+  [
+    "def build_.MillMiscInfo.projectRoot()os.Path",
+    -1236558858
+  ],
+  [
+    "def build_.package_$app$test$#transitiveLocalClasspath()mill.api.Task$Simple",
+    586854898
+  ],
+  [
+    "def build_.package_$app$#finalMainClass()mill.api.Task$Simple",
+    -1034392604
+  ],
+  [
+    "def build_.package_$app$#resolvedMvnDeps()mill.api.Task$Simple",
+    937466388
+  ],
+  [
+    "def build_.package_$app$#compileGeneratedSources()mill.api.Task$Simple",
+    -1228726716
+  ],
+  [
+    "def build_.package_$app$test$#localRunClasspath()mill.api.Task$Simple",
+    19639452
+  ],
+  [
+    "def build_.package_$app$test$#zincAuxiliaryClassFileExtensions()mill.api.Task$Simple",
+    2133106746
+  ],
+  [
+    "def build_.package_$app$#forkWorkingDir()mill.api.Task$Simple",
+    555422063
+  ],
+  [
+    "def build_.package_$app$test$#resolvedSemanticDbJavaPluginMvnDeps()mill.api.Task$Simple",
+    -1162531312
+  ],
+  [
+    "def build_.package_$app$#upstreamLocalAssemblyClasspath()mill.api.Task$Simple",
+    1762818694
+  ],
+  [
+    "call build_.package_$app$#bspCompiledClassesAndSemanticDbFiles()mill.api.Task$Simple",
+    1056105063
+  ],
+  [
+    "call build_.package_$!millDiscover$lzyINIT1()java.lang.Object",
+    1998358211
+  ],
+  [
+    "external mainargs.Flag",
+    1752719800
+  ],
+  [
+    "call mill.scalalib.ScalaModule.prepareOffline$(mill.scalalib.ScalaModule,mainargs.Flag)mill.api.Task$Command",
+    -1898143276
+  ],
+  [
+    "call build_.package_$app$test$#mandatoryJavacOptions()mill.api.Task$Simple",
+    461105365
+  ],
+  [
+    "call mill.scalalib.ScalaModule.repl$(mill.scalalib.ScalaModule,scala.collection.immutable.Seq)mill.api.Task$Command",
+    -1286298918
+  ],
+  [
+    "call mill.javalib.RunModule#runLocal(mill.api.Task)mill.api.Task$Command",
+    2038400672
+  ],
+  [
+    "call mill.javalib.RunModule#run(mill.api.Task)mill.api.Task$Command",
+    -1970645278
+  ],
+  [
+    "call mill.javalib.RunModule#runBackground(mill.api.Task)mill.api.Task$Command",
+    1944163254
+  ],
+  [
+    "call mill.javalib.OfflineSupportModule#prepareOffline(mainargs.Flag)mill.api.Task$Command",
+    2070495316
+  ],
+  [
+    "external java.lang.AutoCloseable",
+    438179950
+  ],
+  [
+    "external mill.api.daemon.internal.EvaluatorApi",
+    876359900
+  ],
+  [
+    "external mill.api.Evaluator",
+    1314539850
+  ],
+  [
+    "call mill.util.MainModule#resolve(mill.api.Evaluator,scala.collection.immutable.Seq)mill.api.Task$Command",
+    1223688716
+  ],
+  [
+    "call mill.javalib.RunModule.runMain$(mill.javalib.RunModule,java.lang.String,scala.collection.immutable.Seq)mill.api.Task$Command",
+    1342780782
+  ],
+  [
+    "call mill.javalib.RunModule.runLocal$(mill.javalib.RunModule,mill.api.Task)mill.api.Task$Command",
+    1958644070
+  ],
+  [
+    "call mill.javalib.TestModule.testForked$(mill.javalib.TestModule,scala.collection.immutable.Seq)mill.api.Task$Command",
+    -1286298918
+  ],
+  [
+    "external mill.util.SelectiveExecutionModule",
+    876359900
+  ],
+  [
+    "call mill.util.SelectiveExecutionModule#resolve(mill.api.Evaluator,scala.collection.immutable.Seq)mill.api.Task$Command",
+    260496612
+  ],
+  [
+    "call mill.javalib.JavaModule.showModuleDeps$(mill.javalib.JavaModule,boolean)mill.api.Task$Command",
+    644104220
+  ],
+  [
+    "call build_.package_$app$test$#bspCompiledClassesAndSemanticDbFiles()mill.api.Task$Simple",
+    1056105063
+  ],
+  [
+    "call mill.javalib.RunModule#runMainLocal(java.lang.String,scala.collection.immutable.Seq)mill.api.Task$Command",
+    1080108308
+  ],
+  [
+    "call mill.util.MainModule#init(mill.api.Evaluator,scala.collection.immutable.Seq)mill.api.Task$Command",
+    1223688716
+  ],
+  [
+    "call mill.javalib.TestModule#testForked(scala.collection.immutable.Seq)mill.api.Task$Command",
+    167036002
+  ],
+  [
+    "call mill.util.MainModule#plan(mill.api.Evaluator,scala.collection.immutable.Seq)mill.api.Task$Command",
+    1223688716
+  ],
+  [
+    "call build_.package_$app$#mandatoryJavacOptions()mill.api.Task$Simple",
+    461105365
+  ],
+  [
+    "call mill.javalib.TestModule.testOnly$(mill.javalib.TestModule,scala.collection.immutable.Seq)mill.api.Task$Command",
+    -1286298918
+  ],
+  [
+    "call mill.util.MainModule#clean(mill.api.Evaluator,scala.collection.immutable.Seq)mill.api.Task$Command",
+    1223688716
+  ],
+  [
+    "call mill.javalib.JavaModule#showModuleDeps(boolean)mill.api.Task$Command",
+    -1592548760
+  ],
+  [
+    "call mill.scalalib.ScalaModule#scalacHelp(scala.collection.immutable.Seq)mill.api.Task$Command",
+    -1612334918
+  ],
+  [
+    "call build_.package_$app$#javacOptions()mill.api.Task$Simple",
+    1958633666
+  ],
+  [
+    "call mill.javalib.RunModule.run$(mill.javalib.RunModule,mill.api.Task)mill.api.Task$Command",
+    1958644070
+  ],
+  [
+    "call mill.javalib.RunModule.runMainLocal$(mill.javalib.RunModule,java.lang.String,scala.collection.immutable.Seq)mill.api.Task$Command",
+    1342780782
+  ],
+  [
+    "call mill.util.SelectiveExecutionModule#resolveChanged(mill.api.Evaluator,scala.collection.immutable.Seq)mill.api.Task$Command",
+    260496612
+  ],
+  [
+    "call build_.package_$app$test$#testLocal(scala.collection.immutable.Seq)mill.api.Task$Command",
+    1478825699
+  ],
+  [
+    "call mill.javalib.JavaModule#showMvnDepsTree(mill.javalib.MvnDepsTreeArgs)mill.api.Task$Command",
+    -1551056018
+  ],
+  [
+    "call mill.javalib.JavaModule.prepareOffline$(mill.javalib.JavaModule,mainargs.Flag)mill.api.Task$Command",
+    -1898143276
+  ],
+  [
+    "call mill.util.SelectiveExecutionModule#resolveTree(mill.api.Evaluator,scala.collection.immutable.Seq)mill.api.Task$Command",
+    260496612
+  ],
+  [
+    "call mill.javalib.RunModule#runMainBackground(java.lang.String,scala.collection.immutable.Seq)mill.api.Task$Command",
+    -306704038
+  ],
+  [
+    "call mill.javalib.TestModule#testOnly(scala.collection.immutable.Seq)mill.api.Task$Command",
+    -1990322979
+  ],
+  [
+    "call mill.util.MainModule#inspect(mill.api.Evaluator,scala.collection.immutable.Seq)mill.api.Task$Command",
+    1223688716
+  ],
+  [
+    "call mill.util.MainModule#shutdown()mill.api.Task$Command",
+    1839552004
+  ],
+  [
+    "call build_.package_$app$test$#javacOptions()mill.api.Task$Simple",
+    -1787574437
+  ],
+  [
+    "call mill.javalib.TestModule.testLocal$(mill.javalib.TestModule,scala.collection.immutable.Seq)mill.api.Task$Command",
+    -1286298918
+  ],
+  [
+    "call mill.javalib.JavaModule#prepareOffline(mainargs.Flag)mill.api.Task$Command",
+    1194135416
+  ],
+  [
+    "call mill.scalalib.ScalaModule#console()mill.api.Task$Command",
+    -1565836858
+  ],
+  [
+    "call mill.util.SelectiveExecutionModule#prepare(mill.api.Evaluator,scala.collection.immutable.Seq)mill.api.Task$Command",
+    260496612
+  ],
+  [
+    "call mill.javalib.RunModule#runMain(java.lang.String,scala.collection.immutable.Seq)mill.api.Task$Command",
+    -1862173128
+  ],
+  [
+    "call mill.javalib.RunModule.runMainBackground$(mill.javalib.RunModule,java.lang.String,scala.collection.immutable.Seq)mill.api.Task$Command",
+    1342780782
+  ],
+  [
+    "call mill.util.MainModule#visualizePlan(mill.api.Evaluator,scala.collection.immutable.Seq)mill.api.Task$Command",
+    1223688716
+  ],
+  [
+    "call mill.javalib.JavaModule.showMvnDepsTree$(mill.javalib.JavaModule,mill.javalib.MvnDepsTreeArgs)mill.api.Task$Command",
+    1082284170
+  ],
+  [
+    "call mill.scalalib.ScalaModule#prepareOffline(mainargs.Flag)mill.api.Task$Command",
+    1194135416
+  ],
+  [
+    "call mill.util.SelectiveExecutionModule#run(mill.api.Evaluator,scala.collection.immutable.Seq)mill.api.Task$Command",
+    260496612
+  ],
+  [
+    "call mill.util.MainModule#visualize(mill.api.Evaluator,scala.collection.immutable.Seq)mill.api.Task$Command",
+    1223688716
+  ],
+  [
+    "call mill.scalalib.ScalaModule.scalacHelp$(mill.scalalib.ScalaModule,scala.collection.immutable.Seq)mill.api.Task$Command",
+    -1286298918
+  ],
+  [
+    "call mill.javalib.TestModule.getTestEnvironmentVars$(mill.javalib.TestModule,scala.collection.immutable.Seq)mill.api.Task$Command",
+    -1286298918
+  ],
+  [
+    "call mill.javalib.OfflineSupportModule.prepareOffline$(mill.javalib.OfflineSupportModule,mainargs.Flag)mill.api.Task$Command",
+    -1665887596
+  ],
+  [
+    "call mill.scalalib.ScalaModule#repl(scala.collection.immutable.Seq)mill.api.Task$Command",
+    1517762390
+  ],
+  [
+    "call mill.util.MainModule#showNamed(mill.api.Evaluator,scala.collection.immutable.Seq)mill.api.Task$Command",
+    1223688716
+  ],
+  [
+    "call mill.javalib.TestModule#testLocal(scala.collection.immutable.Seq)mill.api.Task$Command",
+    192526781
+  ],
+  [
+    "call mill.javalib.TestModule#getTestEnvironmentVars(scala.collection.immutable.Seq)mill.api.Task$Command",
+    1317450941
+  ],
+  [
+    "call mill.util.MainModule#version()mill.api.Task$Command",
+    1839552004
+  ],
+  [
+    "call mill.util.MainModule#show(mill.api.Evaluator,scala.collection.immutable.Seq)mill.api.Task$Command",
+    1223688716
+  ],
+  [
+    "call mill.util.MainModule#path(mill.api.Evaluator,java.lang.String,java.lang.String)mill.api.Task$Command",
+    1488204258
+  ],
+  [
+    "call mill.scalalib.ScalaModule.console$(mill.scalalib.ScalaModule)mill.api.Task$Command",
+    644104220
+  ],
+  [
+    "call mill.javalib.RunModule.runBackground$(mill.javalib.RunModule,mill.api.Task)mill.api.Task$Command",
+    1958644070
+  ],
+  [
+    "external mainargs.TokensReader$Flag",
+    1314539850
+  ],
+  [
+    "external mainargs.TokensReader$FlagRead$",
+    -1665887596
+  ],
+  [
+    "external mill.api.TaskCtx$Log",
+    438179950
+  ],
+  [
+    "external mill.api.TaskCtx$Offline",
+    438179950
+  ],
+  [
+    "external mainargs.TokensReader$StringRead$",
+    -1227707646
+  ],
+  [
+    "external scala.Product2",
+    1314539850
+  ],
+  [
+    "external scala.runtime.BoxesRunTime",
+    438179950
+  ],
+  [
+    "external mill.api.TaskCtx$Jobs",
+    438179950
+  ],
+  [
+    "external mill.api.TaskCtx$Env",
+    438179950
+  ],
+  [
+    "external mill.api.TaskCtx$Args",
+    438179950
+  ],
+  [
+    "external mill.api.TaskCtx$Fork",
+    438179950
+  ],
+  [
+    "external mill.api.TaskCtx$Workspace",
+    438179950
+  ],
+  [
+    "external mill.api.TaskCtx$Fail",
+    438179950
+  ],
+  [
+    "external mill.api.TaskCtx$Dest",
+    438179950
+  ],
+  [
+    "external mill.api.TaskCtx",
+    86832204
+  ],
+  [
+    "external scala.Tuple2",
+    -2104067546
+  ],
+  [
+    "external scala.runtime.Statics",
+    438179950
+  ],
+  [
+    "external scala.collection.immutable.Seq$",
+    1752719800
+  ],
+  [
+    "external mainargs.ArgSig",
+    1752719800
+  ],
+  [
+    "external mainargs.MainData",
+    1752719800
+  ],
+  [
+    "external mill.api.ModuleRef",
+    1752719800
+  ],
+  [
+    "external scala.None$",
+    -2104067546
+  ],
+  [
+    "external scala.collection.immutable.Nil$",
+    -1413428844
+  ],
+  [
+    "external mainargs.TokensReader$BooleanRead$",
+    -1227707646
+  ]
+]

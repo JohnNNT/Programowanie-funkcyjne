@@ -1,0 +1,15 @@
+{
+    "value": {
+        "seenScripts": [
+            [
+                "C:\\Users\\tarcz\\Documents\\programowanie-funkcyje\\Programowanie-funkcyjne\\zadanie3\\build.mill",
+                "\nimport mill._, scalalib._\n\nobject app extends ScalaModule {\n  def scalaVersion = \"3.7.3\"\n\n  \n  def mvnDeps = Seq(\n    mvn\"com.lihaoyi::cask:0.11.3\",\n  )\n  object test extends ScalaTests with TestModule.Utest{\n\n    def mvnDeps = Seq(\n      mvn\"com.lihaoyi::utest::0.8.4\",\n      mvn\"com.lihaoyi::requests::0.9.0\",\n    )\n  }\n}"
+            ]
+        ],
+        "errors": [],
+        "buildFile": "build.mill",
+        "headerData": ""
+    },
+    "valueHash": -1449620718,
+    "inputsHash": 1202157544
+}

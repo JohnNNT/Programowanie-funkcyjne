@@ -1,0 +1,25 @@
+{
+    "workerCache": {
+        "mill.javalib.JvmWorkerModule.internalWorker": {
+            "identityHashCode": 2027169855,
+            "inputHash": 1070375751
+        },
+        "mill.javalib.classgraph.ClassgraphWorkerModule.classgraphWorker": {
+            "identityHashCode": 353275118,
+            "inputHash": -1804177633
+        },
+        "mill.javalib.classgraph.ClassgraphWorkerModule.classgraphWorkerClassloader": {
+            "identityHashCode": 440996433,
+            "inputHash": -1430842952
+        }
+    },
+    "evalWatched": [
+        "C:\\Users\\tarcz\\Documents\\programowanie-funkcyje\\Programowanie-funkcyjne\\zadanie3\\app\\compile-resources",
+        "C:\\Users\\tarcz\\Documents\\programowanie-funkcyje\\Programowanie-funkcyjne\\zadanie3\\app\\src",
+        "C:\\Users\\tarcz\\Documents\\programowanie-funkcyje\\Programowanie-funkcyjne\\zadanie3\\app\\resources"
+    ],
+    "moduleWatched": [],
+    "classLoaderIdentity": null,
+    "runClasspath": [],
+    "runClasspathHash": 473519988
+}

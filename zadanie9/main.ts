@@ -13,13 +13,19 @@ function isPrine(toCheck: {Number: number } | undefined) : boolean{
   return true;
 }
 
+function sortObject(list: {List: number[]} | undefined) : number[]{
+  if(list === undefined)
+    return [];
+
+  return list.List.sort();
+}
 
 const router = new Router({
   // disable logging in realease builds
   //
-  // logger: {
-  //   console: {level: "DEBUG"},
-  // },
+  logger: {
+    console: {level: "DEBUG"},
+  },
 });
 
 router.get("/", () => ({ hello: "world" }));
@@ -30,4 +36,5 @@ router.post("/isPrime", (ctx) => (ctx.body().then(isPrine, () => false).then((re
     })
   }
 });
+router.post("/sortList", (ctx) => (ctx.body().then(sortObject, () => []).then((resultArray) => ({result: resultArray}))));
 router.listen({ port: 3000 });

@@ -1,0 +1,39 @@
+[watched-paths:unfiltered] C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\build.mill
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\app\compile-resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\app\resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\app\src
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\mill-build\compile-resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\mill-build\resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\mill-build\src
+[watched-paths:filtered] C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\app
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\build.mill
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\mill-build
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\app\compile-resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\app\resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\app\src
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\mill-build\compile-resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\mill-build\resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\mill-build\src
+[filter] (shouldBeWatched=true) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app\runBackground.dest\log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app\runBackground.dest\log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app\runBackground.dest
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app\runBackground.dest\newest-pid
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app\runBackground.dest\newest-pid
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app\runBackground.dest
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app\runBackground.dest\log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app\runBackground.dest\lock
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app\runBackground.dest
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app\runBackground.dest\log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app\runBackground.dest\log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app\runBackground.dest\log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app\runBackground.dest\currently-running-pid
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app\runBackground.dest\currently-running-pid
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app\runBackground.dest
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\app\runBackground.dest\log
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\mill-daemon\server.log
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\mill-daemon
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie3\out\mill-daemon\server.log

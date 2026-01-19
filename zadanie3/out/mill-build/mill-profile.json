@@ -1,0 +1,612 @@
+[
+  {
+    "label": "compileResources",
+    "millis": 93,
+    "valueHashChanged": true,
+    "inputsHash": 1824439489
+  },
+  {
+    "label": "mvnDeps",
+    "millis": 97,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "artifactTypes",
+    "millis": 97,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "checkGradleModules",
+    "millis": 97,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "repositories",
+    "millis": 98,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "platformSuffix",
+    "millis": 98,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "transitiveCoursierProjects",
+    "millis": 97,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1147143863
+  },
+  {
+    "label": "scalaVersion",
+    "millis": 98,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "cliImports",
+    "millis": 97,
+    "valueHashChanged": true,
+    "inputsHash": 1893314813
+  },
+  {
+    "label": "depManagement",
+    "millis": 98,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "mill.javalib.CoursierConfigModule.coursierEnv",
+    "millis": 97,
+    "valueHashChanged": true,
+    "inputsHash": 2113638948
+  },
+  {
+    "label": "bomMvnDeps",
+    "millis": 98,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "runClasspath.super.RunModule",
+    "millis": 98,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "unmanagedClasspath",
+    "millis": 1,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "transitiveLocalClasspath",
+    "millis": 98,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1378503899
+  },
+  {
+    "label": "mill.javalib.JvmWorkerModule.repositories",
+    "millis": 2,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "mill.javalib.JvmWorkerModule.checkGradleModules",
+    "millis": 2,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "mandatoryJavacOptions",
+    "millis": 3,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "javacOptions",
+    "millis": 6,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "mandatoryScalacOptions",
+    "millis": 6,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "localRunClasspath.super.RunModule",
+    "millis": 6,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "upstreamCompileOutput",
+    "millis": 7,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1378503899
+  },
+  {
+    "label": "millVersion",
+    "millis": 7,
+    "valueHashChanged": true,
+    "inputsHash": 1515415111
+  },
+  {
+    "label": "zincIncrementalCompilation",
+    "millis": 6,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "scalacOptions.super.scalalib.ScalaModule",
+    "millis": 8,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "sources.super.javalib.JavaModule",
+    "millis": 11,
+    "valueHashChanged": true,
+    "inputsHash": 1477978120
+  },
+  {
+    "label": "resources",
+    "millis": 10,
+    "valueHashChanged": true,
+    "inputsHash": 410742886
+  },
+  {
+    "label": "zincAuxiliaryClassFileExtensions.super.javalib.JavaModule",
+    "millis": 9,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "jvmId",
+    "millis": 8,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "jvmIndexVersion",
+    "millis": 4,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "scriptSources",
+    "millis": 12,
+    "valueHashChanged": true,
+    "inputsHash": 407979733
+  },
+  {
+    "label": "zincReportCachedProblems",
+    "millis": 5,
+    "valueHashChanged": true,
+    "inputsHash": 884126413
+  },
+  {
+    "label": "mill.javalib.JvmWorkerModule.zincLogDebug",
+    "millis": 14,
+    "valueHashChanged": true,
+    "inputsHash": 86283336
+  },
+  {
+    "label": "localCompileClasspath",
+    "millis": 3,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "compileResources",
+      "unmanagedClasspath"
+    ],
+    "inputsHash": -1261847025
+  },
+  {
+    "label": "scalacOptions",
+    "millis": 4,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "scalacOptions.super.scalalib.ScalaModule"
+    ],
+    "inputsHash": -812485613
+  },
+  {
+    "label": "sources",
+    "millis": 4,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "scriptSources",
+      "sources.super.javalib.JavaModule"
+    ],
+    "inputsHash": 1750307445
+  },
+  {
+    "label": "scalaOrganization",
+    "millis": 12,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "scalaVersion"
+    ],
+    "inputsHash": 2141323371
+  },
+  {
+    "label": "zincAuxiliaryClassFileExtensions",
+    "millis": 12,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "zincAuxiliaryClassFileExtensions.super.javalib.JavaModule",
+      "scalaVersion"
+    ],
+    "inputsHash": -1265392625
+  },
+  {
+    "label": "parseBuildFiles",
+    "millis": 14,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "scriptSources"
+    ],
+    "inputsHash": 1202157544
+  },
+  {
+    "label": "compileMvnDeps",
+    "millis": 184,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "scalaLibraryMvnDeps",
+    "millis": 56,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "scalaOrganization",
+      "scalaVersion"
+    ],
+    "inputsHash": -1257688844
+  },
+  {
+    "label": "runMvnDeps",
+    "millis": 70,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "cliImports"
+    ],
+    "inputsHash": -812485613
+  },
+  {
+    "label": "mandatoryMvnDeps",
+    "millis": 184,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "scalacPluginMvnDeps",
+    "millis": 83,
+    "cached": false,
+    "valueHashChanged": true,
+    "inputsHash": 1538345587
+  },
+  {
+    "label": "generatedScriptSources",
+    "millis": 86,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "parseBuildFiles"
+    ],
+    "inputsHash": 684549309
+  },
+  {
+    "label": "generatedSources",
+    "millis": 2,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "generatedScriptSources"
+    ],
+    "inputsHash": -1180602590
+  },
+  {
+    "label": "allSources",
+    "millis": 3,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "sources",
+      "generatedSources"
+    ],
+    "inputsHash": -1896114625
+  },
+  {
+    "label": "allSourceFiles",
+    "millis": 12,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "allSources",
+      "generatedScriptSources",
+      "scriptSources"
+    ],
+    "inputsHash": 569138630
+  },
+  {
+    "label": "javaHome",
+    "millis": 184,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "mill.javalib.CoursierConfigModule.coursierEnv",
+      "jvmIndexVersion",
+      "jvmId"
+    ],
+    "inputsHash": -852297168
+  },
+  {
+    "label": "scalaCompilerClasspath",
+    "millis": 815,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "scalaVersion",
+      "mill.javalib.CoursierConfigModule.coursierEnv",
+      "scalaOrganization",
+      "checkGradleModules",
+      "platformSuffix",
+      "scalaLibraryMvnDeps",
+      "repositories"
+    ],
+    "inputsHash": -1844964004
+  },
+  {
+    "label": "scalacPluginClasspath",
+    "millis": 814,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "scalaVersion",
+      "mill.javalib.CoursierConfigModule.coursierEnv",
+      "scalaOrganization",
+      "scalacPluginMvnDeps",
+      "checkGradleModules",
+      "platformSuffix",
+      "repositories"
+    ],
+    "inputsHash": 2084857191
+  },
+  {
+    "label": "enablePluginScalacOptions",
+    "millis": 815,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "scalaVersion",
+      "mill.javalib.CoursierConfigModule.coursierEnv",
+      "scalaOrganization",
+      "scalacPluginMvnDeps",
+      "checkGradleModules",
+      "platformSuffix",
+      "repositories"
+    ],
+    "inputsHash": 2084857191
+  },
+  {
+    "label": "allScalacOptions",
+    "millis": 3,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "mandatoryScalacOptions",
+      "enablePluginScalacOptions",
+      "scalacOptions"
+    ],
+    "inputsHash": -1639027809
+  },
+  {
+    "label": "resolvedMvnDeps",
+    "millis": 875,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "scalaVersion",
+      "compileMvnDeps",
+      "scalaOrganization",
+      "bomMvnDeps",
+      "artifactTypes",
+      "depManagement",
+      "mandatoryMvnDeps",
+      "checkGradleModules",
+      "platformSuffix",
+      "runMvnDeps",
+      "transitiveCoursierProjects",
+      "mill.javalib.CoursierConfigModule.coursierEnv",
+      "repositories",
+      "mvnDeps"
+    ],
+    "inputsHash": 2101605269
+  },
+  {
+    "label": "compileClasspath",
+    "millis": 6,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "resolvedMvnDeps",
+      "localCompileClasspath"
+    ],
+    "inputsHash": -2130063788
+  },
+  {
+    "label": "resolvedRunMvnDeps",
+    "millis": 1438,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "scalaVersion",
+      "compileMvnDeps",
+      "scalaOrganization",
+      "bomMvnDeps",
+      "artifactTypes",
+      "depManagement",
+      "mandatoryMvnDeps",
+      "checkGradleModules",
+      "platformSuffix",
+      "runMvnDeps",
+      "transitiveCoursierProjects",
+      "mill.javalib.CoursierConfigModule.coursierEnv",
+      "repositories",
+      "mvnDeps"
+    ],
+    "inputsHash": -132612198
+  },
+  {
+    "label": "mill.javalib.JvmWorkerModule.classpath",
+    "millis": 1665,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "mill.javalib.CoursierConfigModule.coursierEnv",
+      "mill.javalib.JvmWorkerModule.repositories",
+      "mill.javalib.JvmWorkerModule.checkGradleModules"
+    ],
+    "inputsHash": -214198837
+  },
+  {
+    "label": "mill.javalib.JvmWorkerModule.internalWorker",
+    "millis": 108,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "mill.javalib.CoursierConfigModule.coursierEnv",
+      "mill.javalib.JvmWorkerModule.zincLogDebug",
+      "mill.javalib.JvmWorkerModule.classpath",
+      "mill.javalib.JvmWorkerModule.repositories",
+      "mill.javalib.JvmWorkerModule.checkGradleModules"
+    ],
+    "inputsHash": 223515871
+  },
+  {
+    "label": "compile",
+    "millis": 8585,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "scalaVersion",
+      "scalaCompilerClasspath",
+      "zincAuxiliaryClassFileExtensions",
+      "javacOptions",
+      "javaHome",
+      "zincReportCachedProblems",
+      "millVersion",
+      "allScalacOptions",
+      "mandatoryJavacOptions",
+      "scalacPluginClasspath",
+      "upstreamCompileOutput",
+      "compileClasspath",
+      "generatedScriptSources",
+      "zincIncrementalCompilation",
+      "scalaOrganization",
+      "allSourceFiles",
+      "mill.javalib.JvmWorkerModule.internalWorker"
+    ],
+    "inputsHash": 28176819
+  },
+  {
+    "label": "localRunClasspath",
+    "millis": 3,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "localRunClasspath.super.RunModule",
+      "resources",
+      "compile"
+    ],
+    "inputsHash": -517884176
+  },
+  {
+    "label": "localClasspath",
+    "millis": 2,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "localCompileClasspath",
+      "localRunClasspath"
+    ],
+    "inputsHash": 492079084
+  },
+  {
+    "label": "runClasspath",
+    "millis": 4,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "runClasspath.super.RunModule",
+      "resolvedRunMvnDeps",
+      "transitiveLocalClasspath",
+      "localClasspath"
+    ],
+    "inputsHash": 344647476
+  },
+  {
+    "label": "codeSignatures",
+    "millis": 504,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "compile",
+      "compileClasspath"
+    ],
+    "inputsHash": -1923019380
+  },
+  {
+    "label": "millBuildRootModuleResult",
+    "millis": 4,
+    "cached": false,
+    "valueHashChanged": true,
+    "dependencies": [
+      "runClasspath",
+      "compile",
+      "codeSignatures"
+    ],
+    "inputsHash": 1400782914
+  }
+]

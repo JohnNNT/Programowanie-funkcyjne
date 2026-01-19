@@ -1,0 +1,185 @@
+[33mcommit 8e3785172b8c722fd19609efc7fdcdc4679a0254[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Tue Dec 2 00:12:37 2025 +0100
+
+    Przywrócono adres hosta zgodny z wymaganiami dockera
+
+[33mcommit 5e3a097ec60641f4e1fe62ac910af42aba2e23fe[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Tue Dec 2 00:03:34 2025 +0100
+
+    Zmieniono adres, aby umośliwić testowanie lokalne
+
+[33mcommit 5d7adaaab9686b1babb7850c956fce35ed96213e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Mon Dec 1 23:52:16 2025 +0100
+
+    Dodano funkcję zwracającą ilość powtarzających się licb
+
+[33mcommit 351d1c9b5adcca87948aeaceae7fd090816d238b[m
+Author: JohnNNT <167625461+JohnNNT@users.noreply.github.com>
+Date:   Fri Nov 21 00:44:56 2025 +0100
+
+    Dodano odpowiednie odnośniki
+
+[33mcommit 4b2d075ed9300f77f776ffda020800307accd894[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Fri Nov 21 00:11:24 2025 +0100
+
+    Dodano plik README
+
+[33mcommit 0061f01b2dbc70071dd70eb405066f0fa47c5eef[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Thu Nov 20 23:59:15 2025 +0100
+
+    Dodano funkcję dodającą element do zbioru
+
+[33mcommit 25a1d99ede82b41c39e11e784733641731af0196[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Sat Nov 15 18:38:32 2025 +0100
+
+    Endpoint "setHead" dodaje nowy element na początku listy
+
+[33mcommit 1d1b74daae0c5db5fc4f80166d5df98568073951[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Sat Nov 15 18:32:31 2025 +0100
+
+    Dodano prosty endpoint "setHead"
+
+[33mcommit c2cbc31857602d921ad6f51e6a46c7c347a9c964[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Sat Nov 15 16:41:29 2025 +0100
+
+    Dodano zadanie 3
+
+[33mcommit f03adbc1eb42ce8b413867d1950df3b51945aae4[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Sat Nov 15 13:42:07 2025 +0100
+
+    Usunięto plik z licencjami, gdyż curl nie jest już załączany z aplikacją
+
+[33mcommit 9cf15a9281df10f81108293b0e28cc025f7baa37[m
+Merge: ce2eb1f 75c540f
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Sat Nov 15 13:37:53 2025 +0100
+
+    Merge branch 'main' of https://github.com/JohnNNT/Programowanie-funkcyjne
+
+[33mcommit ce2eb1f3636aebe4c28a34f824dfcb02f2bf0630[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Sat Nov 15 13:37:08 2025 +0100
+
+    Wyrzucono niepotrzebne pliki z obrazu
+
+[33mcommit a5ad07345c7a92dcacf2dc93ca57080253005887[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Sat Nov 15 13:35:11 2025 +0100
+
+    Zmieniono adres hosta serwera
+
+[33mcommit 75c540f1b5943ec2450f80a964181ecf2f5c4ab2[m
+Author: JohnNNT <167625461+JohnNNT@users.noreply.github.com>
+Date:   Sun Nov 9 19:11:41 2025 +0100
+
+    Dodano link do nagrania z prezentacją działania programu
+
+[33mcommit de94b56983eb7b9155d4863d79f885c898f35f8a[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Sun Nov 9 18:53:45 2025 +0100
+
+    Dodano link do odpowiedniego commita
+
+[33mcommit c4a8d50ee716ffabd2cb92515fd75c5c9a75882a[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Sun Nov 9 18:49:45 2025 +0100
+
+    Dodano zapis zadania w pliku README.md
+
+[33mcommit 80e59a1d52651cecb3a22aa7ddf801bcb7822ebf[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Sun Nov 9 16:51:20 2025 +0100
+
+    Dodano basha do listy pobieranych programów i poprawiono działanie vima
+
+[33mcommit 8ca4e6f3247f08f54bb739049fbdad93491e01d5[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Sun Nov 9 14:18:09 2025 +0100
+
+    Dodano profil użytkownika, na którym będzie działał obraz
+
+[33mcommit 4d2f132da2b9193c77a9693bd73d0a52c4a6fc46[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Sun Nov 9 13:34:40 2025 +0100
+
+    Zmienione argumenty instalacji pakietów, aby działały bez ingerencji
+    użytkownikia
+
+[33mcommit 68447b313c3547ec44a1b2c3e317d8da9a1a5796[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Sun Nov 9 13:14:26 2025 +0100
+
+    Dodano dockerfile ubuntu
+
+[33mcommit c23b5c17729045d4078fb2fe365e76ae953b3d16[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Tue Oct 28 23:57:44 2025 +0100
+
+    Zmodyfikowano obraz dockera, aby działał
+
+[33mcommit 539ad46a320c2846c686ab08736df105cdfefd46[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Tue Oct 28 20:55:28 2025 +0100
+
+    Dodano funkcję zwracającą sumę po wierszach z trzech zbiorów liczb
+
+[33mcommit e3a58c3bc6da67f6f684cd2e3ece2cdc768e7e0e[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Tue Oct 28 20:23:19 2025 +0100
+
+    Dodano Curla, aby możliwe było uruchomienie obrazu
+
+[33mcommit cb07bbacf2cb9fa6961a88fb0b8ea3e0f814be95[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Tue Oct 28 19:41:03 2025 +0100
+
+    Dodano plik wykonywalny mill pod Dockera (Linuxową)
+
+[33mcommit 35c1ae3b78599ea3ebc13e1106b6148856411320[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Tue Oct 28 19:07:24 2025 +0100
+
+    Dodano funkcje isSorted sprawdzającą, czy zbiór liczb jest ułożony w
+    sposób posortowany
+
+[33mcommit 56bee02373b573061d9fb226e071ac754f630511[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Tue Oct 28 18:53:35 2025 +0100
+
+    Zastosowano nowy wrzozec pliku (wziety z projektu przykladowego dla
+    szablonu cask)
+
+[33mcommit 0fc8854296561786247a45c14156a4f3b2bc4fbc[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Sun Oct 26 19:44:33 2025 +0100
+
+    Dodano szkielet projektu
+
+[33mcommit 63ce8521e8730c38527695a713e36e8d8aef4160[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Sun Oct 26 17:54:02 2025 +0100
+
+    Revert "Dodano szkielet pierwszego zadania"
+    
+    This reverts commit 437a7fb43f19bdb228b79dbb4c95b243a1e819fd.
+
+[33mcommit 437a7fb43f19bdb228b79dbb4c95b243a1e819fd[m
+Author: Jan Tarczoń <jan.tarczon@student.uj.edu.pl>
+Date:   Sun Oct 26 17:46:24 2025 +0100
+
+    Dodano szkielet pierwszego zadania
+
+[33mcommit bc88af68e33c4d529ea31dce9312dd320a8be795[m
+Author: JohnNNT <167625461+JohnNNT@users.noreply.github.com>
+Date:   Fri Oct 17 22:04:36 2025 +0200
+
+    Initial commit

@@ -5285,3 +5285,115 @@ app.compile Compilation failed
 2025.12.01 23:43:20 INFO  BSP server: [465-compile] buildTargetCompile took 0 msec
 2025.12.01 23:44:20 INFO  BSP server: [466-compile] Entered buildTargetCompile
 2025.12.01 23:44:20 INFO  BSP server: [466-compile] buildTargetCompile took 0 msec
+gru 01, 2025 11:53:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16785
+2025.12.01 23:57:08 INFO  BSP server: [467-compile] Entered buildTargetCompile
+2025.12.01 23:57:08 INFO  BSP server: [467-compile] Evaluating 1 task
+2025.12.01 23:57:09 INFO  compiling target app
+2025.12.01 23:57:08 INFO  BSP server: [467-compile-55] [info] compiling 1 Scala source to C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\semanticDbDataDetailed.dest\classes ...
+2025.12.01 23:57:11 INFO  BSP server: [467-compile-55] [info] done compiling
+2025.12.01 23:57:11 INFO  time: compiled app in 2.68s
+2025.12.01 23:57:11 INFO  BSP server: [467-compile] Done
+2025.12.01 23:57:11 INFO  BSP server: [467-compile] buildTargetCompile took 3286 msec
+2025.12.01 23:57:11 INFO  BSP server: [468-scalaMainClasses] Entered buildTargetScalaMainClasses
+2025.12.01 23:57:11 INFO  BSP server: [468-scalaMainClasses] Evaluating 1 task
+2025.12.01 23:57:11 INFO  compiling target app
+2025.12.01 23:57:11 INFO  BSP server: [468-scalaMainClasses-58] [info] compiling 1 Scala source to C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\compile.dest\classes ...
+2025.12.01 23:57:13 INFO  BSP server: [468-scalaMainClasses-58] [info] done compiling
+2025.12.01 23:57:13 INFO  time: compiled app in 0.82s
+2025.12.01 23:57:13 INFO  BSP server: [468-scalaMainClasses] Done
+2025.12.01 23:57:13 INFO  BSP server: [468-scalaMainClasses] buildTargetScalaMainClasses took 1200 msec
+2025.12.01 23:57:13 INFO  BSP server: [469-scalaTestClasses] Entered buildTargetScalaTestClasses
+2025.12.01 23:57:13 INFO  BSP server: [469-scalaTestClasses] buildTargetScalaTestClasses took 1 msec
+2025.12.01 23:57:20 INFO  BSP server: [470-compile] Entered buildTargetCompile
+2025.12.01 23:57:20 INFO  BSP server: [470-compile] buildTargetCompile took 0 msec
+2025.12.01 23:58:20 INFO  BSP server: [471-compile] Entered buildTargetCompile
+2025.12.01 23:58:20 INFO  BSP server: [471-compile] buildTargetCompile took 0 msec
+2025.12.01 23:59:20 INFO  BSP server: [472-compile] Entered buildTargetCompile
+2025.12.01 23:59:20 INFO  BSP server: [472-compile] buildTargetCompile took 1 msec
+2025.12.02 00:00:20 INFO  BSP server: [473-compile] Entered buildTargetCompile
+2025.12.02 00:00:20 INFO  BSP server: [473-compile] buildTargetCompile took 0 msec
+2025.12.02 00:01:20 INFO  BSP server: [474-compile] Entered buildTargetCompile
+2025.12.02 00:01:20 INFO  BSP server: [474-compile] buildTargetCompile took 0 msec
+2025.12.02 00:02:20 INFO  BSP server: [475-compile] Entered buildTargetCompile
+2025.12.02 00:02:20 INFO  BSP server: [475-compile] buildTargetCompile took 0 msec
+2025.12.02 00:02:42 INFO  BSP server: [476-compile] Entered buildTargetCompile
+2025.12.02 00:02:42 INFO  BSP server: [476-compile] Evaluating 1 task
+2025.12.02 00:02:42 INFO  compiling target app
+2025.12.02 00:02:42 INFO  BSP server: [476-compile-55] [info] compiling 1 Scala source to C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\semanticDbDataDetailed.dest\classes ...
+2025.12.02 00:02:42 INFO  BSP server: [476-compile-55] [info] done compiling
+2025.12.02 00:02:42 INFO  time: compiled app in 0.62s
+2025.12.02 00:02:42 INFO  BSP server: [476-compile] Done
+2025.12.02 00:02:42 INFO  BSP server: [476-compile] buildTargetCompile took 937 msec
+2025.12.02 00:02:42 INFO  BSP server: [477-scalaTestClasses] Entered buildTargetScalaTestClasses
+2025.12.02 00:02:42 INFO  BSP server: [477-scalaTestClasses] buildTargetScalaTestClasses took 0 msec
+2025.12.02 00:02:42 INFO  BSP server: [478-scalaMainClasses] Entered buildTargetScalaMainClasses
+2025.12.02 00:02:42 INFO  BSP server: [478-scalaMainClasses] Evaluating 1 task
+2025.12.02 00:02:43 INFO  compiling target app
+2025.12.02 00:02:43 INFO  BSP server: [478-scalaMainClasses-58] [info] compiling 1 Scala source to C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\compile.dest\classes ...
+2025.12.02 00:02:44 INFO  BSP server: [478-scalaMainClasses-58] [info] done compiling
+2025.12.02 00:02:44 INFO  time: compiled app in 1.24s
+2025.12.02 00:02:44 INFO  BSP server: [478-scalaMainClasses] Done
+2025.12.02 00:02:44 INFO  BSP server: [478-scalaMainClasses] buildTargetScalaMainClasses took 1812 msec
+2025.12.02 00:03:20 INFO  BSP server: [479-compile] Entered buildTargetCompile
+2025.12.02 00:03:20 INFO  BSP server: [479-compile] buildTargetCompile took 1 msec
+2025.12.02 00:04:20 INFO  BSP server: [480-compile] Entered buildTargetCompile
+2025.12.02 00:04:20 INFO  BSP server: [480-compile] buildTargetCompile took 0 msec
+2025.12.02 00:05:20 INFO  BSP server: [481-compile] Entered buildTargetCompile
+2025.12.02 00:05:20 INFO  BSP server: [481-compile] buildTargetCompile took 0 msec
+2025.12.02 00:06:20 INFO  BSP server: [482-compile] Entered buildTargetCompile
+2025.12.02 00:06:20 INFO  BSP server: [482-compile] buildTargetCompile took 0 msec
+2025.12.02 00:07:20 INFO  BSP server: [483-compile] Entered buildTargetCompile
+2025.12.02 00:07:20 INFO  BSP server: [483-compile] buildTargetCompile took 0 msec
+2025.12.02 00:08:20 INFO  BSP server: [484-compile] Entered buildTargetCompile
+2025.12.02 00:08:20 INFO  BSP server: [484-compile] buildTargetCompile took 0 msec
+2025.12.02 00:09:20 INFO  BSP server: [485-compile] Entered buildTargetCompile
+2025.12.02 00:09:20 INFO  BSP server: [485-compile] buildTargetCompile took 1 msec
+2025.12.02 00:10:20 INFO  BSP server: [486-compile] Entered buildTargetCompile
+2025.12.02 00:10:20 INFO  BSP server: [486-compile] buildTargetCompile took 1 msec
+2025.12.02 00:11:20 INFO  BSP server: [487-compile] Entered buildTargetCompile
+2025.12.02 00:11:20 INFO  BSP server: [487-compile] buildTargetCompile took 0 msec
+2025.12.02 00:11:38 INFO  BSP server: [488-compile] Entered buildTargetCompile
+2025.12.02 00:11:38 INFO  BSP server: [488-compile] Evaluating 1 task
+2025.12.02 00:11:39 INFO  compiling target app
+2025.12.02 00:11:38 INFO  BSP server: [488-compile-55] [info] compiling 1 Scala source to C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\semanticDbDataDetailed.dest\classes ...
+2025.12.02 00:11:41 INFO  BSP server: [488-compile-55] [info] done compiling
+2025.12.02 00:11:41 INFO  time: compiled app in 2.08s
+2025.12.02 00:11:41 INFO  BSP server: [488-compile] Done
+2025.12.02 00:11:41 INFO  BSP server: [488-compile] buildTargetCompile took 3499 msec
+2025.12.02 00:11:41 INFO  BSP server: [489-scalaMainClasses] Entered buildTargetScalaMainClasses
+2025.12.02 00:11:41 INFO  BSP server: [489-scalaMainClasses] Evaluating 1 task
+2025.12.02 00:11:42 INFO  compiling target app
+2025.12.02 00:11:42 INFO  BSP server: [489-scalaMainClasses-58] [info] compiling 1 Scala source to C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\compile.dest\classes ...
+2025.12.02 00:11:46 INFO  BSP server: [489-scalaMainClasses-58] [info] done compiling
+2025.12.02 00:11:46 INFO  time: compiled app in 3.53s
+2025.12.02 00:11:46 INFO  BSP server: [489-scalaMainClasses] Done
+2025.12.02 00:11:46 INFO  BSP server: [489-scalaMainClasses] buildTargetScalaMainClasses took 4519 msec
+2025.12.02 00:11:46 INFO  BSP server: [490-scalaTestClasses] Entered buildTargetScalaTestClasses
+2025.12.02 00:11:46 INFO  BSP server: [490-scalaTestClasses] buildTargetScalaTestClasses took 4 msec
+2025.12.02 00:12:20 INFO  BSP server: [491-compile] Entered buildTargetCompile
+2025.12.02 00:12:20 INFO  BSP server: [491-compile] buildTargetCompile took 0 msec
+2025.12.02 00:13:20 INFO  BSP server: [492-compile] Entered buildTargetCompile
+2025.12.02 00:13:20 INFO  BSP server: [492-compile] buildTargetCompile took 0 msec
+2025.12.02 00:14:20 INFO  BSP server: [493-compile] Entered buildTargetCompile
+2025.12.02 00:14:20 INFO  BSP server: [493-compile] buildTargetCompile took 0 msec
+2025.12.02 00:15:20 INFO  BSP server: [494-compile] Entered buildTargetCompile
+2025.12.02 00:15:20 INFO  BSP server: [494-compile] buildTargetCompile took 0 msec
+2025.12.02 00:16:20 INFO  BSP server: [495-compile] Entered buildTargetCompile
+2025.12.02 00:16:20 INFO  BSP server: [495-compile] buildTargetCompile took 0 msec
+2025.12.02 00:17:20 INFO  BSP server: [496-compile] Entered buildTargetCompile
+2025.12.02 00:17:20 INFO  BSP server: [496-compile] buildTargetCompile took 0 msec
+2025.12.02 00:18:20 INFO  BSP server: [497-compile] Entered buildTargetCompile
+2025.12.02 00:18:20 INFO  BSP server: [497-compile] buildTargetCompile took 1 msec
+2025.12.02 00:19:20 INFO  BSP server: [498-compile] Entered buildTargetCompile
+2025.12.02 00:19:20 INFO  BSP server: [498-compile] buildTargetCompile took 0 msec
+2025.12.02 00:20:20 INFO  BSP server: [499-compile] Entered buildTargetCompile
+2025.12.02 00:20:20 INFO  BSP server: [499-compile] buildTargetCompile took 0 msec
+2025.12.02 00:21:17 INFO  Shutting down server
+2025.12.02 00:21:17 INFO  shutting down Metals
+2025.12.02 00:21:17 INFO  BSP server: [500-buildShutdown] Entered buildShutdown
+2025.12.02 00:21:17 INFO  BSP server: [501-onBuildExit] Entered onBuildExit
+2025.12.02 00:21:17 INFO  BSP server: Shutting down executor
+2025.12.02 00:21:17 INFO  Shut down connection with build server.
+2025.12.02 00:21:17 INFO  BSP server: BSP shutdown asked by client, exiting
+2025.12.02 00:21:17 INFO  Exiting server

@@ -15,9 +15,16 @@ instance Functor MyMaybe where
     fmap f (Some x) = Some (f x)
 
 instance Show a => Show (MyMaybe a) where
+    show :: Show a => MyMaybe a -> String
     show None = "Nothing"
     show (Some a) = show a
-    
+
+instance Semigroup (MyMaybe [Int]) where
+    Some a <> Some b = Some(a ++ b)
+    None <> Some b = Some b
+    Some a <> None = Some a
+    None <> None = None 
+
 data FunctorEquationJSON = FunctorEquationJSON {
     operation :: Text,
     arg1 :: Int,

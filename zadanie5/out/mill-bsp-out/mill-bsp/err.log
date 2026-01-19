@@ -4591,3 +4591,25 @@
 [489-scalaMainClasses] buildTargetScalaMainClasses took 4519 msec
 [490-scalaTestClasses] Entered buildTargetScalaTestClasses
 [490-scalaTestClasses] buildTargetScalaTestClasses took 4 msec
+[491-compile] Entered buildTargetCompile
+[491-compile] buildTargetCompile took 0 msec
+[492-compile] Entered buildTargetCompile
+[492-compile] buildTargetCompile took 0 msec
+[493-compile] Entered buildTargetCompile
+[493-compile] buildTargetCompile took 0 msec
+[494-compile] Entered buildTargetCompile
+[494-compile] buildTargetCompile took 0 msec
+[495-compile] Entered buildTargetCompile
+[495-compile] buildTargetCompile took 0 msec
+[496-compile] Entered buildTargetCompile
+[496-compile] buildTargetCompile took 0 msec
+[497-compile] Entered buildTargetCompile
+[497-compile] buildTargetCompile took 1 msec
+[498-compile] Entered buildTargetCompile
+[498-compile] buildTargetCompile took 0 msec
+[499-compile] Entered buildTargetCompile
+[499-compile] buildTargetCompile took 0 msec
+[500-buildShutdown] Entered buildShutdown
+[501-onBuildExit] Entered onBuildExit
+BSP shutdown asked by client, exiting
+Exiting BSP runner loop
