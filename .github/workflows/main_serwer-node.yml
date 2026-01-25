@@ -18,6 +18,10 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read #This is required for actions/checkout
+    
+    defaults:
+      run:
+        working-directory: ./zadanie9-azfunc
 
     steps:
       - name: 'Checkout GitHub Action'
