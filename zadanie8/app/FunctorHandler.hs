@@ -44,6 +44,9 @@ instance FromJSON EquationResultJSON
 performEquation :: Text -> Int -> Int -> MyMaybe Int
 performEquation "+" x y = fmap (+y) (Some x)
 performEquation "-" x y = fmap (+(-y)) (Some x)
+performEquation "*" x y = fmap (*y) (Some x)
+performEquation "/" _ 0 = Some(-1)
+performEquation "/" x y = fmap (div y) (Some x)
 performEquation _ _ _ = Some 0
 
 performFunctorEquation :: ActionM ()
