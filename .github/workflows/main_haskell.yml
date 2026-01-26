@@ -24,7 +24,7 @@ jobs:
       - name: Log in to container registry
         uses: docker/login-action@v2
         with:
-          registry: hub.docker.com/
+          registry: https://hub.docker.com/repository/docker
           username: ${{ secrets.AZUREAPPSERVICE_CONTAINERUSERNAME_59D6C5E461034B62B532C1A09A0FF9A1 }}
           password: ${{ secrets.AZUREAPPSERVICE_CONTAINERPASSWORD_BB872535740F4B98A70AD0AE50A8C9C1 }}
 
@@ -33,7 +33,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: hub.docker.com/${{ secrets.AZUREAPPSERVICE_CONTAINERUSERNAME_59D6C5E461034B62B532C1A09A0FF9A1 }}/johnnnt/haskel_monady/latest:${{ github.sha }}
+          tags: https://hub.docker.com/repository/docker${{ secrets.AZUREAPPSERVICE_CONTAINERUSERNAME_59D6C5E461034B62B532C1A09A0FF9A1 }}/johnnnt/haskel_monady/latest:${{ github.sha }}
           file: ./Dockerfile
 
   deploy:
@@ -60,4 +60,5 @@ jobs:
           app-name: 'haskell'
           slot-name: 'Production'
           images: 'hub.docker.com/${{ secrets.AZUREAPPSERVICE_CONTAINERUSERNAME_59D6C5E461034B62B532C1A09A0FF9A1 }}/johnnnt/haskel_monady/latest:${{ github.sha }}'
+
           
