@@ -67,6 +67,6 @@ jobs:
         with:
           app-name: 'haskell'
           slot-name: 'Production'
-          images: 'hub.docker.com/${{ secrets.AZUREAPPSERVICE_CONTAINERUSERNAME_59D6C5E461034B62B532C1A09A0FF9A1 }}/johnnnt/haskel_monady/latest:${{ github.sha }}'
+          images: 'https://hub.docker.com/layers/johnnnt/haskell_monady/latest'
 
           
