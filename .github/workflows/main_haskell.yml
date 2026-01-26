@@ -67,6 +67,6 @@ jobs:
         with:
           app-name: 'haskell'
           slot-name: 'Production'
-          images: 'https://hub.docker.com/layers/johnnnt/haskell_monady/latest'
+          images: 'johnnnt/haskell_monady'
 
           
