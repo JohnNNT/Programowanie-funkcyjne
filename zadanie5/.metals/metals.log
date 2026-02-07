@@ -5397,3 +5397,70 @@ WARNING: Unmatched cancel notification for request id 16785
 2025.12.02 00:21:17 INFO  Shut down connection with build server.
 2025.12.02 00:21:17 INFO  BSP server: BSP shutdown asked by client, exiting
 2025.12.02 00:21:17 INFO  Exiting server
+2026.02.08 00:42:33 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5' for client Visual Studio Code 1.109.0.
+2026.02.08 00:42:33 INFO  Memory monitor started
+2026.02.08 00:42:34 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.08 00:42:35 INFO  Attempting to connect to the build server...
+2026.02.08 00:42:35 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:35 INFO  Running BSP server List(C:\Users\tarcz\.mill\download\1.0.6.exe, --bsp, --ticker, false, --color, false, --jobs, 0)
+2026.02.08 00:42:35 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\.metals\bsp.trace.json or C:\Users\tarcz\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.02.08 00:42:35 INFO  BSP server: Mill is running in BSP mode, using a separate output directory 'out/mill-bsp-out'. If you would like to reuse the regular `out/` directory, set the 'MILL_NO_SEPARATE_BSP_OUTPUT_DIR' environment variable. This will reduce the CPU usage of the BSP server but make it less responsive.
+2026.02.08 00:42:38 INFO  BSP server: [bsp] Trying to load BSP server...
+2026.02.08 00:42:39 WARN  no build target for: C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala
+2026.02.08 00:42:39 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:39 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:38 INFO  BSP server: [bsp] BSP server started
+2026.02.08 00:42:38 INFO  BSP server: [1-buildInitialize] Entered buildInitialize
+2026.02.08 00:42:38 INFO  BSP server: [1-buildInitialize] Got client semanticdbVersion: 4.14.5. Enabling SemanticDB support.
+2026.02.08 00:42:38 INFO  BSP server: [1-buildInitialize] buildInitialize took 29 msec
+2026.02.08 00:42:39 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:38 INFO  BSP server: [2-onBuildInitialized] Build initialized
+2026.02.08 00:42:39 INFO  time: Connected to build server in 4.23s
+2026.02.08 00:42:39 INFO  Connected to Build server: mill-bsp v1.0.6
+lut 08, 2026 12:42:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2026.02.08 00:42:39 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+lut 08, 2026 12:42:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+lut 08, 2026 12:42:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2026.02.08 00:42:39 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:39 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+lut 08, 2026 12:42:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+lut 08, 2026 12:42:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.02.08 00:42:39 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:40 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:40 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:40 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:40 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:42 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:42 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:43 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:43 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:43 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:43 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:43 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:43 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:44 WARN  no build target for: C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala
+2026.02.08 00:42:44 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:47 INFO  compiling target mill-build/
+2026.02.08 00:42:49 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:50 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:51 INFO  BSP server: [bsp-init] 1.0.6
+2026.02.08 00:42:51 INFO  no build target found for C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\app\src\HTTPServer.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.02.08 00:42:51 INFO  BSP server: [3-workspaceBuildTargets] Entered workspaceBuildTargets
+2026.02.08 00:42:51 INFO  BSP server: [bsp-watch] Watching for changes to 4 paths (via fsnotify) and 5 other values...
+2026.02.08 00:42:51 INFO  BSP server: [3-workspaceBuildTargets] Evaluating 1 task
+2026.02.08 00:42:51 INFO  Shutting down server
+2026.02.08 00:42:51 INFO  Memory monitor stopped
+2026.02.08 00:42:51 INFO  shutting down Metals
+2026.02.08 00:42:51 INFO  BSP server: [4-buildShutdown] Entered buildShutdown
+2026.02.08 00:42:51 INFO  BSP server: [5-onBuildExit] Entered onBuildExit
+2026.02.08 00:42:51 INFO  BSP server: Shutting down executor
+2026.02.08 00:42:52 INFO  Shut down connection with build server.
+2026.02.08 00:42:52 INFO  Failed to run request with params WorkspaceBuildTargetsResult
+2026.02.08 00:42:52 INFO  Disconnecting from mill-bsp session...
+2026.02.08 00:42:52 INFO  BSP server: BSP shutdown asked by client, exiting
+2026.02.08 00:42:51 INFO  Exiting server

@@ -18,6 +18,7 @@ const server = http.createServer((request, response) => {
                     response.setHeader('Content-Type', 'application/json');
                     response.end(JSON.stringify({text: "Goodbye"}));
                     break;
+                //zadanie na 3.0
                 case "/sortList":
                     response.setHeader('Content-Type', 'application/json');
                     Promise.resolve(body)

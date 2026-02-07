@@ -346,5 +346,5 @@
         "build_.package_.build_$package_$app$$$_$scalaVersion$$anonfun$1$$anonfun$1(scala.collection.immutable.Seq,mill.api.TaskCtx)mill.api.daemon.Result": 574846471
     },
     "valueHash": -947911919,
-    "inputsHash": 355089250
+    "inputsHash": -593423101
 }

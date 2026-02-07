@@ -1,6 +1,6 @@
 # Zadanie 9 Wątki
 
-Zadanie zostało przepisane do node.js
+Wersja zadania właściwa
 
 ## Zadania
 

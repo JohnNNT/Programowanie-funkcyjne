@@ -1,4 +1,4 @@
-[2025-12-01T21:37:25.287850200|req#0] [33mZincCompileMixed[39m(
+[2026-02-08T00:42:47.740519500|req#0] [33mZincCompileMixed[39m(
   upstreamCompileOutput = [33mVector[39m(),
   sources = [33mArraySeq[39m(
     C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-build\generatedScriptSources.dest\support\build_\BuildFileImpl.scala,
@@ -234,5 +234,5 @@
   incrementalCompilation = [32mtrue[39m,
   auxiliaryClassFileExtensions = [33mList[39m([32m"tasty"[39m)
 )
-[2025-12-01T21:37:25.290850800|req#0] Using local Zinc instance
-[2025-12-01T21:37:33.456078700|req#0] Compilation took 8161ms
+[2026-02-08T00:42:47.749305|req#0] Using local Zinc instance
+[2026-02-08T00:42:48.864929500|req#0] Compilation took 1101ms

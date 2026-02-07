@@ -1,92 +1,86 @@
 {
-  "internalBspJavaModule.bspBuildTargetScalaMainClasses": {
-    "forkArgs": {},
-    "allLocalMainClasses": {
-      "mill.javalib.classgraph.ClassgraphWorkerModule.classgraphWorker": {
-        "mill.javalib.classgraph.ClassgraphWorkerModule.classgraphWorkerClassloader": {
-          "mill.javalib.classgraph.ClassgraphWorkerModule.classgraphWorkerClasspath": {
-            "mill.javalib.classgraph.ClassgraphWorkerModule.checkGradleModules": {},
-            "mill.javalib.CoursierConfigModule.coursierEnv": {},
-            "mill.javalib.classgraph.ClassgraphWorkerModule.repositories": {}
-          }
-        }
+  "millBuildRootModuleResult": {
+    "codeSignatures": {},
+    "compile": {
+      "compileClasspath": {
+        "resolvedMvnDeps": {}
       },
-      "localRunClasspath": {
-        "compile": {
-          "compileClasspath": {
-            "localCompileClasspath": {
-              "compileResources": {},
-              "unmanagedClasspath": {}
-            },
-            "resolvedMvnDeps": {
-              "compileMvnDeps": {},
-              "mandatoryMvnDeps": {},
-              "transitiveCoursierProjects": {},
-              "runMvnDeps": {
-                "cliImports": {}
-              },
-              "mvnDeps": {},
-              "depManagement": {},
-              "bomMvnDeps": {},
-              "artifactTypes": {}
-            }
+      "allSourceFiles": {
+        "allSources": {
+          "sources": {
+            "sources.super.javalib.JavaModule": {}
           },
-          "allSourceFiles": {
-            "allSources": {
-              "sources": {
-                "sources.super.javalib.JavaModule": {}
-              },
-              "generatedSources": {}
-            },
-            "scriptSources": {}
-          },
-          "zincAuxiliaryClassFileExtensions": {
-            "zincAuxiliaryClassFileExtensions.super.javalib.JavaModule": {}
-          },
-          "scalaVersion": {},
-          "generatedScriptSources": {
-            "parseBuildFiles": {}
-          },
-          "zincReportCachedProblems": {},
-          "javacOptions": {},
-          "javaHome": {
-            "jvmId": {},
-            "jvmIndexVersion": {}
-          },
-          "mill.javalib.JvmWorkerModule.internalWorker": {
-            "mill.javalib.JvmWorkerModule.repositories": {},
-            "mill.javalib.JvmWorkerModule.classpath": {},
-            "mill.javalib.JvmWorkerModule.zincLogDebug": {},
-            "mill.javalib.JvmWorkerModule.checkGradleModules": {}
-          },
-          "zincIncrementalCompilation": {},
-          "upstreamCompileOutput": {},
-          "millVersion": {},
-          "scalaOrganization": {},
-          "allScalacOptions": {
-            "mandatoryScalacOptions": {},
-            "scalacOptions": {
-              "scalacOptions.super.scalalib.ScalaModule": {}
-            },
-            "enablePluginScalacOptions": {}
-          },
-          "mandatoryJavacOptions": {},
-          "scalacPluginClasspath": {
-            "checkGradleModules": {},
-            "repositories": {},
-            "platformSuffix": {},
-            "scalacPluginMvnDeps": {}
-          },
-          "scalaCompilerClasspath": {
-            "scalaLibraryMvnDeps": {}
-          }
+          "generatedSources": {}
         },
-        "resources": {},
-        "localRunClasspath.super.RunModule": {}
+        "scriptSources": {}
+      },
+      "zincAuxiliaryClassFileExtensions": {
+        "zincAuxiliaryClassFileExtensions.super.javalib.JavaModule": {}
+      },
+      "scalaVersion": {},
+      "generatedScriptSources": {
+        "parseBuildFiles": {}
+      },
+      "zincReportCachedProblems": {},
+      "javacOptions": {},
+      "javaHome": {
+        "jvmId": {},
+        "jvmIndexVersion": {}
+      },
+      "mill.javalib.JvmWorkerModule.internalWorker": {
+        "mill.javalib.JvmWorkerModule.repositories": {},
+        "mill.javalib.JvmWorkerModule.classpath": {},
+        "mill.javalib.JvmWorkerModule.zincLogDebug": {},
+        "mill.javalib.JvmWorkerModule.checkGradleModules": {}
+      },
+      "zincIncrementalCompilation": {},
+      "upstreamCompileOutput": {},
+      "millVersion": {},
+      "scalaOrganization": {},
+      "allScalacOptions": {
+        "mandatoryScalacOptions": {},
+        "scalacOptions": {
+          "scalacOptions.super.scalalib.ScalaModule": {}
+        },
+        "enablePluginScalacOptions": {}
+      },
+      "mandatoryJavacOptions": {},
+      "scalacPluginClasspath": {
+        "scalacPluginMvnDeps": {}
+      },
+      "scalaCompilerClasspath": {
+        "scalaLibraryMvnDeps": {}
       }
     },
-    "allForkEnv": {
-      "forkEnv": {}
+    "runClasspath": {
+      "localClasspath": {
+        "localCompileClasspath": {
+          "compileResources": {},
+          "unmanagedClasspath": {}
+        },
+        "localRunClasspath": {
+          "resources": {},
+          "localRunClasspath.super.RunModule": {}
+        }
+      },
+      "transitiveLocalClasspath": {},
+      "resolvedRunMvnDeps": {
+        "mandatoryMvnDeps": {},
+        "mill.javalib.CoursierConfigModule.coursierEnv": {},
+        "depManagement": {},
+        "artifactTypes": {},
+        "checkGradleModules": {},
+        "compileMvnDeps": {},
+        "repositories": {},
+        "transitiveCoursierProjects": {},
+        "runMvnDeps": {
+          "cliImports": {}
+        },
+        "mvnDeps": {},
+        "bomMvnDeps": {},
+        "platformSuffix": {}
+      },
+      "runClasspath.super.RunModule": {}
     }
   }
 }

@@ -1,18 +1,61 @@
 {
-  "mill.javalib.classgraph.ClassgraphWorkerModule.checkGradleModules": {},
-  "forkEnv": {
-    "allForkEnv": {}
+  "allSourceFiles": {},
+  "mandatoryMvnDeps": {},
+  "mill.javalib.JvmWorkerModule.repositories": {},
+  "scalaLibraryMvnDeps": {
+    "scalaCompilerClasspath": {}
   },
-  "mill.javalib.classgraph.ClassgraphWorkerModule.repositories": {
-    "mill.javalib.classgraph.ClassgraphWorkerModule.classgraphWorkerClasspath": {
-      "mill.javalib.classgraph.ClassgraphWorkerModule.classgraphWorkerClassloader": {
-        "mill.javalib.classgraph.ClassgraphWorkerModule.classgraphWorker": {
-          "allLocalMainClasses": {}
-        }
-      }
-    }
+  "javacOptions": {},
+  "runClasspath.super.RunModule": {},
+  "jvmId": {},
+  "repositories": {},
+  "allScalacOptions": {},
+  "bomMvnDeps": {},
+  "platformSuffix": {},
+  "mill.javalib.JvmWorkerModule.checkGradleModules": {},
+  "compileClasspath": {},
+  "zincAuxiliaryClassFileExtensions": {},
+  "localRunClasspath": {},
+  "mill.javalib.JvmWorkerModule.classpath": {},
+  "artifactTypes": {},
+  "localRunClasspath.super.RunModule": {},
+  "mandatoryScalacOptions": {},
+  "allSources": {},
+  "codeSignatures": {},
+  "zincIncrementalCompilation": {},
+  "upstreamCompileOutput": {},
+  "transitiveLocalClasspath": {},
+  "runMvnDeps": {},
+  "scalaOrganization": {},
+  "scalaVersion": {},
+  "generatedScriptSources": {},
+  "sources": {},
+  "runClasspath": {},
+  "millBuildRootModuleResult": {},
+  "mill.javalib.JvmWorkerModule.internalWorker": {
+    "compile": {}
   },
-  "forkArgs": {
-    "internalBspJavaModule.bspBuildTargetScalaMainClasses": {}
-  }
+  "jvmIndexVersion": {},
+  "scalacOptions.super.scalalib.ScalaModule": {},
+  "localClasspath": {},
+  "mvnDeps": {},
+  "mandatoryJavacOptions": {},
+  "generatedSources": {},
+  "localCompileClasspath": {},
+  "zincAuxiliaryClassFileExtensions.super.javalib.JavaModule": {},
+  "depManagement": {},
+  "scalacPluginMvnDeps": {
+    "enablePluginScalacOptions": {},
+    "scalacPluginClasspath": {}
+  },
+  "javaHome": {},
+  "checkGradleModules": {},
+  "scalacOptions": {},
+  "compileMvnDeps": {
+    "resolvedRunMvnDeps": {},
+    "resolvedMvnDeps": {}
+  },
+  "parseBuildFiles": {},
+  "transitiveCoursierProjects": {},
+  "unmanagedClasspath": {}
 }

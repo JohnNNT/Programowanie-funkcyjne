@@ -10,7 +10,7 @@ object HTTPServer extends cask.MainRoutes:
   def sum(summands_1: Seq[Int], summands_2: Seq[Int]): Seq[Int] =
     summands_1.zip(summands_2).map(add)
      
-
+  // Zadanie na 3.5
   @cask.postJson("/sum3")
   def sum3(collection1: Seq[Int], collection2: Seq[Int], collection3: Seq[Int]) =
     sum(collection1, sum(collection2, collection3))
@@ -19,7 +19,7 @@ object HTTPServer extends cask.MainRoutes:
   def subtraction(values: (Int, Int)): Int =
     values(0) - values(1)
 
-
+  // zadanie na 3.0
   @cask.postJson("/isSorted")
   def doThing(values: Seq[Int], operator: String) =
     val predecessors = values.init
@@ -34,6 +34,7 @@ object HTTPServer extends cask.MainRoutes:
 
     upickle.write(returnValue)
 	
+  // zadanie na 4.0
   @cask.postJson("/setHead")
   def setHead(originalList: Seq[Int], newValue: Int) =
     val newSeq = Seq(newValue)

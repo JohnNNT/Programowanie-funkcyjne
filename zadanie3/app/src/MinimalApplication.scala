@@ -10,6 +10,7 @@ import app.Item
 object MinimalApplication extends cask.MainRoutes:
   override def host: String = "0.0.0.0"
 
+  // zadanie na 3.0
   @cask.postJson("/removeFirst")
   def doThing(list: Seq[Int]) =
     val newList = createList(list)

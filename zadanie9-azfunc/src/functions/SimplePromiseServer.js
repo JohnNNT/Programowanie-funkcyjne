@@ -2,6 +2,7 @@ const { app } = require('@azure/functions')
 
 app.http('SimplePromiseServer', {
     methods: ['POST'],
+    // zadanie na 3.5
     route: 'sortList',
     authLevel: 'anonymous',
     handler: async (request, context) => {

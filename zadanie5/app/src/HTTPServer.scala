@@ -27,6 +27,7 @@ object HTTPServer extends cask.MainRoutes:
     }
   }
 
+  // zadanie na 3.0
   @cask.postJson("/repeatedNumbers")
   def repeatedNumbers(list: Seq[Int]) =
     val mapReducer = SortValue()

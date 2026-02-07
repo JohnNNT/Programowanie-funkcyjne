@@ -1,12 +1,16 @@
 [bsp] Trying to load BSP server...
 [bsp] BSP server started
 [1-buildInitialize] Entered buildInitialize
-[1-buildInitialize] Got client semanticdbVersion: 4.14.0. Enabling SemanticDB support.
-[1-buildInitialize] buildInitialize took 10 msec
+[1-buildInitialize] Got client semanticdbVersion: 4.14.5. Enabling SemanticDB support.
+[1-buildInitialize] buildInitialize took 29 msec
 [2-onBuildInitialized] Build initialized
-[bsp-init-build.mill-59] [info] compiling 3 Scala sources to C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-build\compile.dest\classes ...
-[bsp-init-build.mill-59] [info] done compiling
+[3-workspaceBuildTargets] Entered workspaceBuildTargets
 [bsp-watch] Watching for changes to 4 paths (via fsnotify) and 5 other values...
+[3-workspaceBuildTargets] Evaluating 1 task
+[4-buildShutdown] Entered buildShutdown
+[5-onBuildExit] Entered onBuildExit
+BSP shutdown asked by client, exiting
+Exiting BSP runner loop
 [3-workspaceBuildTargets] Entered workspaceBuildTargets
 [3-workspaceBuildTargets] Evaluating 1 task
 [3-workspaceBuildTargets] Done

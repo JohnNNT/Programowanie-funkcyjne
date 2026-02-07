@@ -1,0 +1,34 @@
+[watched-paths:unfiltered] C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\build.mill
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\mill-build\compile-resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\mill-build\resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\mill-build\src
+[watched-paths:filtered] C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\build.mill
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\mill-build
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\mill-build\compile-resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\mill-build\resources
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\mill-build\src
+[filter] (shouldBeWatched=true) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-dependency-tree.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill-dependency-tree.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\platformSuffix.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\checkGradleModules.json
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\platformSuffix.json
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\scalaVersion.json
+C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\jvmId.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\jvmId.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\checkGradleModules.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\repositories.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\jvmIndexVersion.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\jvmIndexVersion.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\repositories.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill\javalib\CoursierConfigModule\coursierEnv.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\mill\javalib\CoursierConfigModule\coursierEnv.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\scalaOrganization.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\scalaOrganization.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\scalaLibraryMvnDeps.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\scalaLibraryMvnDeps.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\javaHome.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\out\mill-bsp-out\app\javaHome.json
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\.metals\metals.mv.db
+[changed-paths] (hasWatchedPath=false) C:\Users\tarcz\Documents\programowanie-funkcyje\Programowanie-funkcyjne\zadanie5\.metals\metals.lock.db

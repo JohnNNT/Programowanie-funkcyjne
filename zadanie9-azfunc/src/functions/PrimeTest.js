@@ -14,6 +14,7 @@ async function isPrime(number) {
 
 app.http('PrimalityTest', {
     methods: ['POST'],
+    //zadanie na 3.0
     route: 'primeTest',
     authLevel: 'anonymous',
     handler: async (request, context) => {

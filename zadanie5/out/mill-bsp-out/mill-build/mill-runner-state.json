@@ -1,18 +1,18 @@
 {
     "workerCache": {
         "mill.javalib.JvmWorkerModule.internalWorker": {
-            "identityHashCode": 1446521801,
-            "inputHash": 1172028222
+            "identityHashCode": 1703358554,
+            "inputHash": 223515871
         }
     },
     "evalWatched": [
         "C:\\Users\\tarcz\\Documents\\programowanie-funkcyje\\Programowanie-funkcyjne\\zadanie5\\mill-build\\compile-resources",
+        "C:\\Users\\tarcz\\Documents\\programowanie-funkcyje\\Programowanie-funkcyjne\\zadanie5\\build.mill",
         "C:\\Users\\tarcz\\Documents\\programowanie-funkcyje\\Programowanie-funkcyjne\\zadanie5\\mill-build\\resources",
-        "C:\\Users\\tarcz\\Documents\\programowanie-funkcyje\\Programowanie-funkcyjne\\zadanie5\\mill-build\\src",
-        "C:\\Users\\tarcz\\Documents\\programowanie-funkcyje\\Programowanie-funkcyjne\\zadanie5\\build.mill"
+        "C:\\Users\\tarcz\\Documents\\programowanie-funkcyje\\Programowanie-funkcyjne\\zadanie5\\mill-build\\src"
     ],
     "moduleWatched": [],
-    "classLoaderIdentity": 1649138304,
+    "classLoaderIdentity": -1836279852,
     "runClasspath": [
         [
             "C:\\Users\\tarcz\\AppData\\Local\\Coursier\\cache\\v1\\https\\repo1.maven.org\\maven2\\com\\lihaoyi\\mill-libs_3\\1.0.6\\mill-libs_3-1.0.6.jar",

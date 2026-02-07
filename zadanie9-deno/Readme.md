@@ -1,6 +1,6 @@
 # Zadanie 9 Wątki
 
-Wersja zadania wykonana w runtimie deno przy użyciu framework'u oak/acorn
+Wersja zadania wykonana dla runtimu deno przy użyciu framework'u oak/acorn
 
 ## Zadania
 

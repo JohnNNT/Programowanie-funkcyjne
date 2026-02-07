@@ -10,7 +10,7 @@ Wykorzystaj obraz dockerowy.
 ## Rozwiązanie
 
 Funkcje w JS to implementacja zadania 9 znajdujące się w folderze /zadanie9-azfunc.
-  - link: serwer-node-bnb8ckdmcrb7bqc4.swedencentral-01.azurewebsites.net
+  - link: serwer-node-bnb8ckdmcrb7bqc4.swedencentral-01.azurewebsites.net/ENDPOINT
 
 Funckcje w haskellu to implementacja zadania 8 z folderu /zadanie 8
-  - link: haskell-h6dpfgembrcvgpeg.swedencentral-01.azurewebsites.net
+  - link: haskell-h6dpfgembrcvgpeg.swedencentral-01.azurewebsites.net/api/ENDPOINT

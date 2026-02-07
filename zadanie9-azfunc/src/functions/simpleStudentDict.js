@@ -30,6 +30,7 @@ async function sumHourCount(timeDurations) {
 
 app.http('simpleStudentDict', {
     methods: ['POST'],
+    // zadanie na 4.0 (niekompletne/nie działa)
     route: 'countHours',
     authLevel: 'anonymous',
     handler: async (request, context) => {
