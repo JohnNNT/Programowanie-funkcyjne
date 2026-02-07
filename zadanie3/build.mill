@@ -7,7 +7,9 @@ object app extends ScalaModule {
   
   def mvnDeps = Seq(
     mvn"com.lihaoyi::cask:0.11.3",
+    mvn"com.lihaoyi::upickle:4.4.2"
   )
+
   object test extends ScalaTests with TestModule.Utest{
 
     def mvnDeps = Seq(
