@@ -10,7 +10,7 @@
 - Link do docker-huba: https://hub.docker.com/r/johnnnt/zadanie3
   **UWAGA**: obraz dockerowy ma problemy i nie zawsze pobiera wszystkie zależności projektu, w takiej sytuacji należy uruchomiać na nowo kontener, aż wszystko zadziała
     
-- Link do nagrania: 
+- Link do nagrania: https://github.com/user-attachments/assets/3fa6c7af-12e4-40fd-906f-6c7ca934fe37
 
 ❌3.5 zwróci wynik funkcji drop, która usuwa n elementów z listy
 dwukierunkowej
