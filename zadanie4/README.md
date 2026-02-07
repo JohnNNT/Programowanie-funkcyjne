@@ -16,3 +16,5 @@ zwrócić None
 Option[B])(f:(A,B)=>C):Option[C]; należy wykorzystać metodę flatMap
 oraz map
 ❌5.0 zwróci taki średnią (mean) z listy zwracając Either
+
+link do dockera: https://hub.docker.com/r/johnnnt/zadanie4

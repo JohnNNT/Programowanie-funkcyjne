@@ -1,5 +1,7 @@
 # Zadanie 9 Wątki
 
+Zadanie zostało przepisane do node.js
+
 ## Zadania
 
 ✅3.0 zwróci wartość binarną czy podana na wejściu liczba jest liczbą

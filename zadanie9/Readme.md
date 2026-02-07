@@ -1,5 +1,7 @@
 # Zadanie 9 Wątki
 
+Wersja zadania wykonana w runtimie deno przy użyciu framework'u oak/acorn
+
 ## Zadania
 
 ✅3.0 zwróci wartość binarną czy podana na wejściu liczba jest liczbą
