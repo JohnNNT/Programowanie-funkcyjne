@@ -8,7 +8,6 @@
 - Link do commita: https://github.com/JohnNNT/Programowanie-funkcyjne/commit/406b910ff9d45152f88fd70c32bcab4a450027ec
     
 - Link do docker-huba: https://hub.docker.com/r/johnnnt/zadanie3
-  **UWAGA**: obraz dockerowy ma problemy i nie zawsze pobiera wszystkie zależności projektu, w takiej sytuacji należy uruchomiać na nowo kontener, aż wszystko zadziała
     
 - Link do nagrania: https://github.com/user-attachments/assets/3fa6c7af-12e4-40fd-906f-6c7ca934fe37
 
