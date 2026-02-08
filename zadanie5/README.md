@@ -19,3 +19,5 @@ mapreduce oraz bagOfWords
 ❌5.0 zwróci słownik (student, średnia ocen), która wykorzysta funkcję
 mapreduce oraz join; na wejściu  są dwie listy: (numer_indeksu,
 student), (numer_indeksu, kurs, ocena)
+
+link do docker-hub: https://hub.docker.com/r/johnnnt/zadanie1
